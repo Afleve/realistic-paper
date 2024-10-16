@@ -11,6 +11,7 @@ ActiveDC: Distribution Calibration for Active Finetuning [[CVPR 2024](https://ar
 Active Generalized Category Discovery [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Active_Generalized_Category_Discovery_CVPR_2024_paper.pdf)]  
 Active Prompt Learning in Vision Language Models [[2024 CVPR](https://arxiv.org/pdf/2403.04272)]  
 Active Finetuning: Exploiting Annotation Budget in the Pretraining-Finetuning Paradigm [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_Active_Finetuning_Exploiting_Annotation_Budget_in_the_Pretraining-Finetuning_Paradigm_CVPR_2023_paper.pdf)]
+Towards Free Data Selection with General-Purpose Models
 
 ## Multimodal
 VLM2VEC: TRAINING VISION-LANGUAGE MODELS FOR MASSIVE MULTIMODAL EMBEDDING TASKS [2024](https://arxiv.org/pdf/2410.05160)  
