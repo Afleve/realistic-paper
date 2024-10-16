@@ -13,14 +13,15 @@ Active Prompt Learning in Vision Language Models [[2024 CVPR](https://arxiv.org/
 Active Finetuning: Exploiting Annotation Budget in the Pretraining-Finetuning Paradigm [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_Active_Finetuning_Exploiting_Annotation_Budget_in_the_Pretraining-Finetuning_Paradigm_CVPR_2023_paper.pdf)]
 
 ## Label Selection
-Labeled Data Selection for Category Discovery [[2024 ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07212.pdf)]
-Towards Free Data Selection with General-Purpose Models
+Labeled Data Selection for Category Discovery [[2024 ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07212.pdf)]  
+Towards Free Data Selection with General-Purpose Models  
 ## Multimodal
 VLM2VEC: TRAINING VISION-LANGUAGE MODELS FOR MASSIVE MULTIMODAL EMBEDDING TASKS [2024](https://arxiv.org/pdf/2410.05160)  
 MULTIMODAL GENERALIZED CATEGORY DISCOVERY [2024](https://arxiv.org/pdf/2409.11624)  
 
 ## Model Merging
 Parameter Competition Balancing for Model Merging [NeurIPS 2024](https://arxiv.org/pdf/2410.02396)  
+BRAVE: Broadening the visual encoding of vision-language models [[ECCV 2024](https://brave-vlms.epfl.ch/)]
 
 ## Training Methods
 A Unified Contrastive Loss for Self-Training [2024](https://arxiv.org/pdf/2409.07292)  
