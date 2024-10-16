@@ -15,6 +15,8 @@ Active Finetuning: Exploiting Annotation Budget in the Pretraining-Finetuning Pa
 ## Label Selection
 Labeled Data Selection for Category Discovery [[2024 ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07212.pdf)]  
 Towards Free Data Selection with General-Purpose Models  
+A CLIP-POWERED FRAMEWORK FOR ROBUST AND GENERALIZABLE DATA SELECTION [[2024](https://arxiv.org/pdf/2410.11215)]
+
 ## Multimodal
 VLM2VEC: TRAINING VISION-LANGUAGE MODELS FOR MASSIVE MULTIMODAL EMBEDDING TASKS [2024](https://arxiv.org/pdf/2410.05160)  
 MULTIMODAL GENERALIZED CATEGORY DISCOVERY [2024](https://arxiv.org/pdf/2409.11624)  
