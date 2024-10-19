@@ -35,7 +35,7 @@ DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Mo
 TPTE: Text-guided Patch Token Exploitation for Unsupervised Fine-Grained Representation Learning [ACM Trans](https://dl.acm.org/doi/pdf/10.1145/3673657)  
 
 ## Vision-language relationship
-Selective Vision-Language Subspace Projection for Few-shot CLIP [2024](https://arxiv.org/pdf/2407.16977)
+Selective Vision-Language Subspace Projection for Few-shot CLIP [2024](https://arxiv.org/pdf/2407.16977)  
 Interpreting and Analyzing CLIP’s Zero-Shot Image Classification via Mutual Knowledge [[2024](https://arxiv.org/pdf/2410.13016)]
 
 ## Instance Retrieval
