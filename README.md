@@ -36,6 +36,7 @@ TPTE: Text-guided Patch Token Exploitation for Unsupervised Fine-Grained Represe
 
 ## Vision-language relationship
 Selective Vision-Language Subspace Projection for Few-shot CLIP [2024](https://arxiv.org/pdf/2407.16977)
+Interpreting and Analyzing CLIP’s Zero-Shot Image Classification via Mutual Knowledge [[2024](https://arxiv.org/pdf/2410.13016)]
 
 ## Instance Retrieval
 Cluster-Aware Similarity Diffusion for Instance Retrieval [2024](https://arxiv.org/pdf/2406.02343)
