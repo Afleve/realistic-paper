@@ -20,6 +20,7 @@ A CLIP-POWERED FRAMEWORK FOR ROBUST AND GENERALIZABLE DATA SELECTION [[2024](htt
 ## Multimodal
 VLM2VEC: TRAINING VISION-LANGUAGE MODELS FOR MASSIVE MULTIMODAL EMBEDDING TASKS [2024](https://arxiv.org/pdf/2410.05160)  
 MULTIMODAL GENERALIZED CATEGORY DISCOVERY [2024](https://arxiv.org/pdf/2409.11624)  
+CrossMAE: Cross-Modality Masked Autoencoders for Region-Aware Audio-Visual Pre-Training [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_CrossMAE_Cross-Modality_Masked_Autoencoders_for_Region-Aware_Audio-Visual_Pre-Training_CVPR_2024_paper.pdf)]
 
 ## Model Merging
 Parameter Competition Balancing for Model Merging [NeurIPS 2024](https://arxiv.org/pdf/2410.02396)  
