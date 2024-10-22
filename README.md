@@ -14,7 +14,7 @@ Active Finetuning: Exploiting Annotation Budget in the Pretraining-Finetuning Pa
 
 ## Label Selection
 Labeled Data Selection for Category Discovery [[2024 ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07212.pdf)]  
-Towards Free Data Selection with General-Purpose Models  
+Towards Free Data Selection with General-Purpose Models  [[2023 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/047682108c3b053c61ad2da5a6057b4e-Paper-Conference.pdf)]  
 A CLIP-POWERED FRAMEWORK FOR ROBUST AND GENERALIZABLE DATA SELECTION [[2024](https://arxiv.org/pdf/2410.11215)]
 
 ## Multimodal
