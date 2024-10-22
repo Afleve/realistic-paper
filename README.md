@@ -34,6 +34,7 @@ DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Mo
 
 ## Representation Learning
 TPTE: Text-guided Patch Token Exploitation for Unsupervised Fine-Grained Representation Learning [ACM Trans](https://dl.acm.org/doi/pdf/10.1145/3673657)  
+Disentangled Representation Learning [[2024](https://arxiv.org/pdf/2211.11695)]  
 
 ## Vision-language relationship
 Selective Vision-Language Subspace Projection for Few-shot CLIP [2024](https://arxiv.org/pdf/2407.16977)  
