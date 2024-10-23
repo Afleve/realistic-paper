@@ -42,3 +42,6 @@ Interpreting and Analyzing CLIP’s Zero-Shot Image Classification via Mutual Kn
 
 ## Instance Retrieval
 Cluster-Aware Similarity Diffusion for Instance Retrieval [2024](https://arxiv.org/pdf/2406.02343)
+
+## semantic segmentation
+ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation [[2023](https://arxiv.org/pdf/2212.03588)]
