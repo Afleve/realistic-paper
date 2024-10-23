@@ -44,6 +44,6 @@ Interpreting and Analyzing CLIP’s Zero-Shot Image Classification via Mutual Kn
 Cluster-Aware Similarity Diffusion for Instance Retrieval [2024](https://arxiv.org/pdf/2406.02343)
 
 ## semantic segmentation
-Vision Transformers for Dense Prediction (DPT)[[2021](https://arxiv.org/abs/2103.13413v1)]  
+Vision Transformers for Dense Prediction (DPT)[[2021 ICCV](https://arxiv.org/abs/2103.13413v1)]  
 Language-driven Semantic Segmentation [[2022 ICLR](https://arxiv.org/pdf/2201.03546)]  
 ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation [[2023 CVPR](https://arxiv.org/pdf/2212.03588)]
