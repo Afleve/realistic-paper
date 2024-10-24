@@ -47,7 +47,7 @@ Cluster-Aware Similarity Diffusion for Instance Retrieval [2024](https://arxiv.o
 ## semantic segmentation
 Vision Transformers for Dense Prediction (DPT)[[2021 ICCV](https://arxiv.org/abs/2103.13413v1)]  
 Language-driven Semantic Segmentation [[2022 ICLR](https://arxiv.org/pdf/2201.03546)]  
-Extract Free Dense Labels from CLIP (MASK CLIP)[[2022 ECCV](https://arxiv.org/pdf/2112.01071)] 
+Extract Free Dense Labels from CLIP (MASK CLIP)[[2022 ECCV](https://arxiv.org/pdf/2112.01071)]   
 ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation [[2023 CVPR](https://arxiv.org/pdf/2212.03588)]
 
 ## temporarily store
