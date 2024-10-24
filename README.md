@@ -20,7 +20,8 @@ A CLIP-POWERED FRAMEWORK FOR ROBUST AND GENERALIZABLE DATA SELECTION [[2024](htt
 ## Multimodal
 VLM2VEC: TRAINING VISION-LANGUAGE MODELS FOR MASSIVE MULTIMODAL EMBEDDING TASKS [2024](https://arxiv.org/pdf/2410.05160)  
 MULTIMODAL GENERALIZED CATEGORY DISCOVERY [2024](https://arxiv.org/pdf/2409.11624)  
-CrossMAE: Cross-Modality Masked Autoencoders for Region-Aware Audio-Visual Pre-Training [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_CrossMAE_Cross-Modality_Masked_Autoencoders_for_Region-Aware_Audio-Visual_Pre-Training_CVPR_2024_paper.pdf)]
+CrossMAE: Cross-Modality Masked Autoencoders for Region-Aware Audio-Visual Pre-Training [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_CrossMAE_Cross-Modality_Masked_Autoencoders_for_Region-Aware_Audio-Visual_Pre-Training_CVPR_2024_paper.pdf)]  
+Customized Multiple Clustering via Multi-Modal Subspace Proxy Learning  
 
 ## Model Merging
 Parameter Competition Balancing for Model Merging [NeurIPS 2024](https://arxiv.org/pdf/2410.02396)  
@@ -47,3 +48,7 @@ Cluster-Aware Similarity Diffusion for Instance Retrieval [2024](https://arxiv.o
 Vision Transformers for Dense Prediction (DPT)[[2021 ICCV](https://arxiv.org/abs/2103.13413v1)]  
 Language-driven Semantic Segmentation [[2022 ICLR](https://arxiv.org/pdf/2201.03546)]  
 ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation [[2023 CVPR](https://arxiv.org/pdf/2212.03588)]
+
+## temporarily store
+Customized Multiple Clustering via Multi-Modal Subspace Proxy Learning  
+Interactive Deep Clustering via Value Mining  
