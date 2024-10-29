@@ -52,7 +52,7 @@ Extract Free Dense Labels from CLIP (MASK CLIP)[[2022 ECCV](https://arxiv.org/pd
 ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation [[2023 CVPR](https://arxiv.org/pdf/2212.03588)]
 
 ## deep clustering
-TOWARDSCALIBRATEDDEEPCLUSTERING NETWORK[[2025](https://openreview.net/pdf?id=JvH4jDDcG3)]
+TOWARDS CALIBRATED DEEP CLUSTERING NETWORK[[2025](https://openreview.net/pdf?id=JvH4jDDcG3)]
 
 ## temporarily store
 Customized Multiple Clustering via Multi-Modal Subspace Proxy Learning  
