@@ -1,6 +1,7 @@
 # realistic-paper
 ## GCD
 Targeted Representation Alignment for Open-World Semi-Supervised Learning[[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Targeted_Representation_Alignment_for_Open-World_Semi-Supervised_Learning_CVPR_2024_paper.pdf)]
+* Learning to Distinguish Samples for Generalized Category Discovery[[2024 ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08177.pdf)]
 
 ## ActiveLearning
 Margin-Based Active Learning for Structured Output Spaces [[2006](https://link.springer.com/chapter/10.1007/11871842_40)]  
@@ -49,6 +50,9 @@ Vision Transformers for Dense Prediction (DPT)[[2021 ICCV](https://arxiv.org/abs
 Language-driven Semantic Segmentation [[2022 ICLR](https://arxiv.org/pdf/2201.03546)]  
 Extract Free Dense Labels from CLIP (MASK CLIP)[[2022 ECCV](https://arxiv.org/pdf/2112.01071)]   
 ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation [[2023 CVPR](https://arxiv.org/pdf/2212.03588)]
+
+## deep clustering
+TOWARDSCALIBRATEDDEEPCLUSTERING NETWORK[[2025](https://openreview.net/pdf?id=JvH4jDDcG3)]
 
 ## temporarily store
 Customized Multiple Clustering via Multi-Modal Subspace Proxy Learning  
