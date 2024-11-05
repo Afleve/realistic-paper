@@ -8,7 +8,7 @@ Margin-Based Active Learning for Structured Output Spaces [[2006](https://link.s
 ACTIVE LEARNING FOR CONVOLUTIONAL NEURAL NETWORKS: A CORE-SET APPROACH [[2018](https://arxiv.org/pdf/1708.00489)]  
 DEEP BATCH ACTIVE LEARNING BY DIVERSE, UNCERTAIN GRADIENT LOWER BOUNDS [[ICLR2020](https://arxiv.org/pdf/1906.03671)]  
 Boundary Matters: A Bi-Level Active Finetuning Framework [[2024](https://arxiv.org/pdf/2403.10069)]  
-ActiveDC: Distribution Calibration for Active Finetuning [[CVPR 2024](https://arxiv.org/pdf/2311.07634)]  
+ActiveDC: Distribution Calibration for Active Finetuning [[CVPR 2024](https://arxiv.org/pdf/2311.07634)][[code](https://github.com/VincentXu521/ActiveDC/tree/master)]  
 Active Generalized Category Discovery [[2024 CVPR](https://arxiv.org/pdf/2403.04272)]  
 Active Prompt Learning in Vision Language Models [[2024 CVPR](https://arxiv.org/pdf/2311.11178v3)]  
 Active Finetuning: Exploiting Annotation Budget in the Pretraining-Finetuning Paradigm [[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_Active_Finetuning_Exploiting_Annotation_Budget_in_the_Pretraining-Finetuning_Paradigm_CVPR_2023_paper.pdf)]
