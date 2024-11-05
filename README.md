@@ -10,7 +10,7 @@ DEEP BATCH ACTIVE LEARNING BY DIVERSE, UNCERTAIN GRADIENT LOWER BOUNDS [[ICLR202
 Boundary Matters: A Bi-Level Active Finetuning Framework [[2024](https://arxiv.org/pdf/2403.10069)]  
 ActiveDC: Distribution Calibration for Active Finetuning [[CVPR 2024](https://arxiv.org/pdf/2311.07634)]  
 Active Generalized Category Discovery [[2024 CVPR](https://arxiv.org/pdf/2403.04272)]  
-Active Prompt Learning in Vision Language Models [[2024 CVPR]([https://arxiv.org/pdf/2403.04272](https://arxiv.org/pdf/2311.11178v3))]  
+Active Prompt Learning in Vision Language Models [[2024 CVPR](https://arxiv.org/pdf/2311.11178v3)]  
 Active Finetuning: Exploiting Annotation Budget in the Pretraining-Finetuning Paradigm [[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_Active_Finetuning_Exploiting_Annotation_Budget_in_the_Pretraining-Finetuning_Paradigm_CVPR_2023_paper.pdf)]
 
 ## Label Selection
