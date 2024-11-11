@@ -23,12 +23,13 @@ VLM2VEC: TRAINING VISION-LANGUAGE MODELS FOR MASSIVE MULTIMODAL EMBEDDING TASKS 
 MULTIMODAL GENERALIZED CATEGORY DISCOVERY [2024](https://arxiv.org/pdf/2409.11624)  
 CrossMAE: Cross-Modality Masked Autoencoders for Region-Aware Audio-Visual Pre-Training [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_CrossMAE_Cross-Modality_Masked_Autoencoders_for_Region-Aware_Audio-Visual_Pre-Training_CVPR_2024_paper.pdf)]  
 Customized Multiple Clustering via Multi-Modal Subspace Proxy Learning  
+Connecting Multi-modal Contrastive Representations [[NeurIPS 2023](https://arxiv.org/pdf/2305.14381)]  
+Extending Multi-modal Contrastive Representations [[NeurIPS](https://arxiv.org/pdf/2310.08884)]  
 
 ## Model Merging
 Parameter Competition Balancing for Model Merging [NeurIPS 2024](https://arxiv.org/pdf/2410.02396)  
 BRAVE: Broadening the visual encoding of vision-language models [[ECCV 2024](https://brave-vlms.epfl.ch/)]
-Connecting Multi-modal Contrastive Representations [[NeurIPS 2023](https://arxiv.org/pdf/2305.14381)]
-Extending Multi-modal Contrastive Representations [[NeurIPS](https://arxiv.org/pdf/2310.08884)]
+
 
 ## Training Methods
 A Unified Contrastive Loss for Self-Training [2024](https://arxiv.org/pdf/2409.07292)  
