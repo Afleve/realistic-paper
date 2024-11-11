@@ -27,6 +27,8 @@ Customized Multiple Clustering via Multi-Modal Subspace Proxy Learning
 ## Model Merging
 Parameter Competition Balancing for Model Merging [NeurIPS 2024](https://arxiv.org/pdf/2410.02396)  
 BRAVE: Broadening the visual encoding of vision-language models [[ECCV 2024](https://brave-vlms.epfl.ch/)]
+Connecting Multi-modal Contrastive Representations [[NeurIPS 2023](https://arxiv.org/pdf/2305.14381)]
+Extending Multi-modal Contrastive Representations [[NeurIPS](https://arxiv.org/pdf/2310.08884)]
 
 ## Training Methods
 A Unified Contrastive Loss for Self-Training [2024](https://arxiv.org/pdf/2409.07292)  
