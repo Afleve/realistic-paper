@@ -55,7 +55,7 @@ Extract Free Dense Labels from CLIP (MASK CLIP)[[2022 ECCV](https://arxiv.org/pd
 ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation [[2023 CVPR](https://arxiv.org/pdf/2212.03588)]  
 Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation[[2024 ECCV](https://arxiv.org/pdf/2407.08268)]  
 ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation[[ECCV](https://arxiv.org/pdf/2408.04883)]  
-SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference[[ECCV 2024](https://arxiv.org/pdf/2312.01597)]
+SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference[[ECCV 2024](https://arxiv.org/pdf/2312.01597)]  
 Revisit Anything: Visual Place Recognition via Image Segment Retrieval [[2024](https://arxiv.org/pdf/2409.18049)]
 
 ## deep clustering
