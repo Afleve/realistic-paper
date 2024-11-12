@@ -64,3 +64,8 @@ TOWARDS CALIBRATED DEEP CLUSTERING NETWORK[[2025](https://openreview.net/pdf?id=
 ## temporarily store
 Customized Multiple Clustering via Multi-Modal Subspace Proxy Learning  
 Interactive Deep Clustering via Value Mining  
+
+## Optimal Transportation
+Unsupervised Learning of Visual Features by Contrasting Cluster Assignments [[NeurIPS 2020](https://arxiv.org/pdf/2006.09882)]  
+Towards Interpretable Deep Metric Learning with Structural Matching [[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Towards_Interpretable_Deep_Metric_Learning_With_Structural_Matching_ICCV_2021_paper.pdf)]  
+Optimal Transport Aggregation for Visual Place Recognition[[CVPR 2024](https://arxiv.org/abs/2311.15937)]  
