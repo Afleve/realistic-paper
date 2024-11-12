@@ -6,6 +6,7 @@ Targeted Representation Alignment for Open-World Semi-Supervised Learning[[2024 
 ## ActiveLearning
 Margin-Based Active Learning for Structured Output Spaces [[2006](https://link.springer.com/chapter/10.1007/11871842_40)]  
 ACTIVE LEARNING FOR CONVOLUTIONAL NEURAL NETWORKS: A CORE-SET APPROACH [[2018](https://arxiv.org/pdf/1708.00489)]  
+Learning Loss for Active Learning [[2019](https://arxiv.org/pdf/1905.03677)]  
 DEEP BATCH ACTIVE LEARNING BY DIVERSE, UNCERTAIN GRADIENT LOWER BOUNDS [[ICLR2020](https://arxiv.org/pdf/1906.03671)]  
 Boundary Matters: A Bi-Level Active Finetuning Framework [[2024](https://arxiv.org/pdf/2403.10069)]  
 ActiveDC: Distribution Calibration for Active Finetuning [[CVPR 2024](https://arxiv.org/pdf/2311.07634)][[code](https://github.com/VincentXu521/ActiveDC/tree/master)]  
