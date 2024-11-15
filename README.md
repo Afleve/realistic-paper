@@ -62,6 +62,9 @@ Revisit Anything: Visual Place Recognition via Image Segment Retrieval [[2024](h
 ## deep clustering
 TOWARDS CALIBRATED DEEP CLUSTERING NETWORK[[2025](https://openreview.net/pdf?id=JvH4jDDcG3)]
 
+## Recommendation Systems
+DaisyRec 2.0: Benchmarking Recommendation for Rigorous Evaluation [[2022](https://arxiv.org/pdf/2206.10848)]
+
 ## temporarily store
 Customized Multiple Clustering via Multi-Modal Subspace Proxy Learning  
 Interactive Deep Clustering via Value Mining  
