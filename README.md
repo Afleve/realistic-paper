@@ -63,6 +63,7 @@ Revisit Anything: Visual Place Recognition via Image Segment Retrieval [[2024](h
 TOWARDS CALIBRATED DEEP CLUSTERING NETWORK[[2025](https://openreview.net/pdf?id=JvH4jDDcG3)]
 
 ## Recommendation Systems
+code[[1](https://github.com/recommenders-team/recommenders?tab=readme-ov-file)] [[2](https://github.com/AmazingDD/daisyRec)]  
 DaisyRec 2.0: Benchmarking Recommendation for Rigorous Evaluation [[2022](https://arxiv.org/pdf/2206.10848)]
 
 ## temporarily store
