@@ -76,5 +76,6 @@ Towards Interpretable Deep Metric Learning with Structural Matching [[ICCV 2021]
 Optimal Transport Aggregation for Visual Place Recognition[[CVPR 2024](https://arxiv.org/abs/2311.15937)]  
 
 ## interpretable
-SPARSE AUTOENCODERS FIND HIGHLY INTERPRETABLE FEATURES IN LANGUAGE MODELS [[2024](https://arxiv.org/pdf/2309.08600)]
-Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE )[[2024](https://arxiv.org/pdf/2402.10376)]
+SPARSE AUTOENCODERS FIND HIGHLY INTERPRETABLE FEATURES IN LANGUAGE MODELS [[2024](https://arxiv.org/pdf/2309.08600)]  
+Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE )[[2024](https://arxiv.org/pdf/2402.10376)]  
+ ENHANCING PRE-TRAINED REPRESENTATION CLASSIFIABILITY CAN BOOST ITS INTERPRETABILITY[[2024](https://openreview.net/pdf?id=GjfIZan5jN)]  
