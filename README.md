@@ -28,6 +28,7 @@ CrossMAE: Cross-Modality Masked Autoencoders for Region-Aware Audio-Visual Pre-T
 Customized Multiple Clustering via Multi-Modal Subspace Proxy Learning  
 Connecting Multi-modal Contrastive Representations [[NeurIPS 2023](https://arxiv.org/pdf/2305.14381)]  
 Extending Multi-modal Contrastive Representations [[NeurIPS 2024](https://arxiv.org/pdf/2310.08884)]  
+BoostingVision-LanguageModelswithTransduction [[ 2024 ](https://arxiv.org/pdf/2406.01837)]
 
 ## Model Merging
 Parameter Competition Balancing for Model Merging [NeurIPS 2024](https://arxiv.org/pdf/2410.02396)  
