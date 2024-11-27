@@ -60,7 +60,9 @@ ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation [[2023 CVPR](
 Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation[[2024 ECCV](https://arxiv.org/pdf/2407.08268)]  
 ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation[[ECCV](https://arxiv.org/pdf/2408.04883)]  
 SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference[[ECCV 2024](https://arxiv.org/pdf/2312.01597)]  
-Revisit Anything: Visual Place Recognition via Image Segment Retrieval [[2024](https://arxiv.org/pdf/2409.18049)]
+Revisit Anything: Visual Place Recognition via Image Segment Retrieval [[2024](https://arxiv.org/pdf/2409.18049)]  
+Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation [[2024](https://arxiv.org/pdf/2404.08181)]
+
 
 ## deep clustering
 TOWARDS CALIBRATED DEEP CLUSTERING NETWORK[[2025](https://openreview.net/pdf?id=JvH4jDDcG3)]
