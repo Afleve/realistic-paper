@@ -28,7 +28,11 @@ CrossMAE: Cross-Modality Masked Autoencoders for Region-Aware Audio-Visual Pre-T
 Customized Multiple Clustering via Multi-Modal Subspace Proxy Learning  
 Connecting Multi-modal Contrastive Representations [[NeurIPS 2023](https://arxiv.org/pdf/2305.14381)]  
 Extending Multi-modal Contrastive Representations [[NeurIPS 2024](https://arxiv.org/pdf/2310.08884)]  
-Boosting Vision-Language Models with Transduction [[ 2024 ](https://arxiv.org/pdf/2406.01837)]
+
+## Transductive
+Transductive Zero-Shot and Few-Shot CLIP[[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Martin_Transductive_Zero-Shot_and_Few-Shot_CLIP_CVPR_2024_paper.pdf)]  
+Transductive Few-shot Learning with Prototype-based Label Propagation by Iterative Graph Refinement[[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Transductive_Few-Shot_Learning_With_Prototype-Based_Label_Propagation_by_Iterative_Graph_CVPR_2023_paper.pdf)]  
+Boosting Vision-Language Models with Transduction [[ 2024 ](https://arxiv.org/pdf/2406.01837)]  
 
 ## Model Merging
 Parameter Competition Balancing for Model Merging [NeurIPS 2024](https://arxiv.org/pdf/2410.02396)  
