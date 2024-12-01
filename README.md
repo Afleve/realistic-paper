@@ -38,6 +38,8 @@ Boosting Vision-Language Models with Transduction [[ 2024 ](https://arxiv.org/pd
 Parameter Competition Balancing for Model Merging [NeurIPS 2024](https://arxiv.org/pdf/2410.02396)  
 BRAVE: Broadening the visual encoding of vision-language models [[ECCV 2024](https://brave-vlms.epfl.ch/)]  
 EDITING MODELS WITH TASK ARITHMETIC [[ICLR 2023](https://arxiv.org/pdf/2212.04089)]  
+EMR-MERGING: Tuning-Free High-Performance Model Merging[[ 2024 ](https://arxiv.org/pdf/2405.17461)]
+
 
 
 ## Training Methods
