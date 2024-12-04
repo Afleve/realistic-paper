@@ -69,7 +69,8 @@ Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segment
 ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation[[ECCV](https://arxiv.org/pdf/2408.04883)]  
 SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference[[ECCV 2024](https://arxiv.org/pdf/2312.01597)]  
 Revisit Anything: Visual Place Recognition via Image Segment Retrieval [[2024](https://arxiv.org/pdf/2409.18049)]  
-Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation [[2024](https://arxiv.org/pdf/2404.08181)]
+Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation [[2024](https://arxiv.org/pdf/2404.08181)]  
+ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference[[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06346.pdf)]
 
 
 ## deep clustering
