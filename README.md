@@ -14,7 +14,8 @@ Boundary Matters: A Bi-Level Active Finetuning Framework [[2024](https://arxiv.o
 ActiveDC: Distribution Calibration for Active Finetuning [[CVPR 2024](https://arxiv.org/pdf/2311.07634)][[code](https://github.com/VincentXu521/ActiveDC/tree/master)]  
 Active Generalized Category Discovery [[2024 CVPR](https://arxiv.org/pdf/2403.04272)]  
 Active Prompt Learning in Vision Language Models [[2024 CVPR](https://arxiv.org/pdf/2311.11178v3)]  
-Active Finetuning: Exploiting Annotation Budget in the Pretraining-Finetuning Paradigm [[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_Active_Finetuning_Exploiting_Annotation_Budget_in_the_Pretraining-Finetuning_Paradigm_CVPR_2023_paper.pdf)]
+Active Finetuning: Exploiting Annotation Budget in the Pretraining-Finetuning Paradigm [[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_Active_Finetuning_Exploiting_Annotation_Budget_in_the_Pretraining-Finetuning_Paradigm_CVPR_2023_paper.pdf)]  
+Active Prompt Learning with Vision-Language Model Priors [[2024](https://arxiv.org/pdf/2411.16722)]
 
 ## Label Selection
 Labeled Data Selection for Category Discovery [[2024 ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07212.pdf)]  
