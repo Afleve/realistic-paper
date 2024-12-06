@@ -89,6 +89,12 @@ Unsupervised Learning of Visual Features by Contrasting Cluster Assignments [[Ne
 Towards Interpretable Deep Metric Learning with Structural Matching [[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Towards_Interpretable_Deep_Metric_Learning_With_Structural_Matching_ICCV_2021_paper.pdf)]  
 Optimal Transport Aggregation for Visual Place Recognition[[CVPR 2024](https://arxiv.org/abs/2311.15937)]  
 
+## TTA
+Parameter-Free_Online_Test-Time_Adaptation [[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Boudiaf_Parameter-Free_Online_Test-Time_Adaptation_CVPR_2022_paper.pdf)]  
+Efficient_Test-Time_Adaptation_of_Vision-Language_Models[[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Karmanov_Efficient_Test-Time_Adaptation_of_Vision-Language_Models_CVPR_2024_paper.pdf)]  
+Improved_Self-Training_for_Test-Time_Adaptation [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Improved_Self-Training_for_Test-Time_Adaptation_CVPR_2024_paper.pdf)]  
+
+
 ## interpretable
 SPARSE AUTOENCODERS FIND HIGHLY INTERPRETABLE FEATURES IN LANGUAGE MODELS [[2024](https://arxiv.org/pdf/2309.08600)]  
 Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE )[[2024](https://arxiv.org/pdf/2402.10376)]  
