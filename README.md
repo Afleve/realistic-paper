@@ -73,8 +73,11 @@ Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segment
 ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference[[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06346.pdf)]
 
 
-## deep clustering
-TOWARDS CALIBRATED DEEP CLUSTERING NETWORK[[2025](https://openreview.net/pdf?id=JvH4jDDcG3)]
+## Clustering
+Clustering and Projected Clustering with Adaptive Neighbors [[2014 KDD](https://matlabtools.com/wp-content/uploads/p1004.pdf)]  
+The Constrained Laplacian Rank Algorithm for Graph-Based Clustering [[2016 AAAI](https://ojs.aaai.org/index.php/AAAI/article/download/10302/10161)]  
+TOWARDS CALIBRATED DEEP CLUSTERING NETWORK[[2025](https://openreview.net/pdf?id=JvH4jDDcG3)]  
+
 
 ## Recommendation Systems
 code[[1](https://github.com/recommenders-team/recommenders?tab=readme-ov-file)] [[2](https://github.com/AmazingDD/daisyRec)]  
