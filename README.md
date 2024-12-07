@@ -34,12 +34,18 @@ Extending Multi-modal Contrastive Representations [[NeurIPS 2024](https://arxiv.
 Transductive Zero-Shot and Few-Shot CLIP[[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Martin_Transductive_Zero-Shot_and_Few-Shot_CLIP_CVPR_2024_paper.pdf)]  
 Transductive Few-shot Learning with Prototype-based Label Propagation by Iterative Graph Refinement[[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Transductive_Few-Shot_Learning_With_Prototype-Based_Label_Propagation_by_Iterative_Graph_CVPR_2023_paper.pdf)]  
 Boosting Vision-Language Models with Transduction [[ 2024 ](https://arxiv.org/pdf/2406.01837)]  
+Parameterless Transductive Feature Re-representation for Few-Shot Learning [[_](https://proceedings.mlr.press/v139/cui21a/cui21a.pdf)]
 
 ## Model Merging
 Parameter Competition Balancing for Model Merging [NeurIPS 2024](https://arxiv.org/pdf/2410.02396)  
 BRAVE: Broadening the visual encoding of vision-language models [[ECCV 2024](https://brave-vlms.epfl.ch/)]  
 EDITING MODELS WITH TASK ARITHMETIC [[ICLR 2023](https://arxiv.org/pdf/2212.04089)]  
 EMR-MERGING: Tuning-Free High-Performance Model Merging[[ 2024 ](https://arxiv.org/pdf/2405.17461)]
+
+
+
+## Few Shot
+Laplacian Regularized Few-Shot Learning[[2021](https://proceedings.mlr.press/v119/ziko20a/ziko20a.pdf)]  
 
 
 
