@@ -108,3 +108,6 @@ Improved_Self-Training_for_Test-Time_Adaptation [[CVPR 2024](https://openaccess.
 SPARSE AUTOENCODERS FIND HIGHLY INTERPRETABLE FEATURES IN LANGUAGE MODELS [[2024](https://arxiv.org/pdf/2309.08600)]  
 Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE )[[2024](https://arxiv.org/pdf/2402.10376)]  
 ENHANCING PRE-TRAINED REPRESENTATION CLASSIFIABILITY CAN BOOST ITS INTERPRETABILITY[[under review 2025 ICLR](https://openreview.net/pdf?id=GjfIZan5jN)]  
+
+## Action Recognition
+Part-aware Unified Representation of Language and Skeleton for Zero-shot Action Recognition[[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Part-aware_Unified_Representation_of_Language_and_Skeleton_for_Zero-shot_Action_CVPR_2024_paper.pdf)]
