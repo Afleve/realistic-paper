@@ -97,6 +97,7 @@ Interactive Deep Clustering via Value Mining
 Unsupervised Learning of Visual Features by Contrasting Cluster Assignments [[NeurIPS 2020](https://arxiv.org/pdf/2006.09882)]  
 Towards Interpretable Deep Metric Learning with Structural Matching [[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Towards_Interpretable_Deep_Metric_Learning_With_Structural_Matching_ICCV_2021_paper.pdf)]  
 Optimal Transport Aggregation for Visual Place Recognition[[CVPR 2024](https://arxiv.org/abs/2311.15937)]  
+Data Selection via Optimal Control for Language Models [[]()]
 
 ## TTA
 Parameter-Free_Online_Test-Time_Adaptation [[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Boudiaf_Parameter-Free_Online_Test-Time_Adaptation_CVPR_2022_paper.pdf)]  
