@@ -3,6 +3,7 @@
 Targeted Representation Alignment for Open-World Semi-Supervised Learning[[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Targeted_Representation_Alignment_for_Open-World_Semi-Supervised_Learning_CVPR_2024_paper.pdf)]  
 Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery [[2023](https://arxiv.org/pdf/2305.06144)]  
 Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery [[2024](https://arxiv.org/pdf/2403.09974)]  
+OwMatch: Conditional Self-Labeling with Consistency for Open-World Semi-Supervised Learning [[2024](https://arxiv.org/pdf/2411.01833)]  
 * Learning to Distinguish Samples for Generalized Category Discovery[[2024 ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08177.pdf)]
 
 ## ActiveLearning
@@ -29,6 +30,7 @@ CrossMAE: Cross-Modality Masked Autoencoders for Region-Aware Audio-Visual Pre-T
 Customized Multiple Clustering via Multi-Modal Subspace Proxy Learning  
 Connecting Multi-modal Contrastive Representations [[NeurIPS 2023](https://arxiv.org/pdf/2305.14381)]  
 Extending Multi-modal Contrastive Representations [[NeurIPS 2024](https://arxiv.org/pdf/2310.08884)]  
+UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models [[2024](https://arxiv.org/pdf/2411.06921)]
 
 ## Transductive
 Transductive Zero-Shot and Few-Shot CLIP[[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Martin_Transductive_Zero-Shot_and_Few-Shot_CLIP_CVPR_2024_paper.pdf)]  
@@ -42,12 +44,8 @@ BRAVE: Broadening the visual encoding of vision-language models [[ECCV 2024](htt
 EDITING MODELS WITH TASK ARITHMETIC [[ICLR 2023](https://arxiv.org/pdf/2212.04089)]  
 EMR-MERGING: Tuning-Free High-Performance Model Merging[[ 2024 ](https://arxiv.org/pdf/2405.17461)]
 
-
-
 ## Few Shot
 Laplacian Regularized Few-Shot Learning[[2021](https://proceedings.mlr.press/v119/ziko20a/ziko20a.pdf)]  
-
-
 
 ## Training Methods
 A Unified Contrastive Loss for Self-Training [2024](https://arxiv.org/pdf/2409.07292)  
@@ -104,6 +102,8 @@ Parameter-Free_Online_Test-Time_Adaptation [[CVPR 2022](https://openaccess.thecv
 Efficient_Test-Time_Adaptation_of_Vision-Language_Models[[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Karmanov_Efficient_Test-Time_Adaptation_of_Vision-Language_Models_CVPR_2024_paper.pdf)]  
 Improved_Self-Training_for_Test-Time_Adaptation [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Improved_Self-Training_for_Test-Time_Adaptation_CVPR_2024_paper.pdf)]  
 
+## Visual Place Recognition
+Optimal Transport Aggregation for Visual Place Recognition [[CVPR 2024](https://arxiv.org/pdf/2311.15937)]  
 
 ## interpretable
 SPARSE AUTOENCODERS FIND HIGHLY INTERPRETABLE FEATURES IN LANGUAGE MODELS [[2024](https://arxiv.org/pdf/2309.08600)]  
