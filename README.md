@@ -104,7 +104,8 @@ Efficient_Test-Time_Adaptation_of_Vision-Language_Models[[CVPR 2024](https://ope
 Improved_Self-Training_for_Test-Time_Adaptation [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Improved_Self-Training_for_Test-Time_Adaptation_CVPR_2024_paper.pdf)]  
 
 ## Visual Place Recognition
-Optimal Transport Aggregation for Visual Place Recognition [[CVPR 2024](https://arxiv.org/pdf/2311.15937)]  
+NetVLAD: CNNarchitecture for weakly supervised place recognition [[CVPR 2016](https://openaccess.thecvf.com/content_cvpr_2016/papers/Arandjelovic_NetVLAD_CNN_Architecture_CVPR_2016_paper.pdf)]  
+Optimal Transport Aggregation for Visual Place Recognition [[CVPR 2024](https://arxiv.org/pdf/2311.15937)]   
 
 ## interpretable
 SPARSE AUTOENCODERS FIND HIGHLY INTERPRETABLE FEATURES IN LANGUAGE MODELS [[2024](https://arxiv.org/pdf/2309.08600)]  
