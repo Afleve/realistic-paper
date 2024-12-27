@@ -42,27 +42,28 @@ Parameterless Transductive Feature Re-representation for Few-Shot Learning [[_](
 Parameter Competition Balancing for Model Merging [NeurIPS 2024](https://arxiv.org/pdf/2410.02396)  
 BRAVE: Broadening the visual encoding of vision-language models [[ECCV 2024](https://brave-vlms.epfl.ch/)]  
 EDITING MODELS WITH TASK ARITHMETIC [[ICLR 2023](https://arxiv.org/pdf/2212.04089)]  
-EMR-MERGING: Tuning-Free High-Performance Model Merging[[ 2024 ](https://arxiv.org/pdf/2405.17461)]
+EMR-MERGING: Tuning-Free High-Performance Model Merging [[ 2024 ](https://arxiv.org/pdf/2405.17461)]
 
 ## Few Shot
-Laplacian Regularized Few-Shot Learning[[2021](https://proceedings.mlr.press/v119/ziko20a/ziko20a.pdf)]  
+Laplacian Regularized Few-Shot Learning [[2021](https://proceedings.mlr.press/v119/ziko20a/ziko20a.pdf)]  
 
 ## Training Methods
-A Unified Contrastive Loss for Self-Training [2024](https://arxiv.org/pdf/2409.07292)  
+A Unified Contrastive Loss for Self-Training [[2024](https://arxiv.org/pdf/2409.07292)]  
+VISION TRANSFORMERS NEED REGISTERS [[2024 ICLR](https://arxiv.org/pdf/2309.16588)]  
 
 ## Unsupervised Adaptation
-DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models [2024](https://arxiv.org/pdf/2408.08855)  
+DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models [[2024](https://arxiv.org/pdf/2408.08855)]  
 
 ## Representation Learning
-TPTE: Text-guided Patch Token Exploitation for Unsupervised Fine-Grained Representation Learning [ACM Trans](https://dl.acm.org/doi/pdf/10.1145/3673657)  
+TPTE: Text-guided Patch Token Exploitation for Unsupervised Fine-Grained Representation Learning [[ACM Trans](https://dl.acm.org/doi/pdf/10.1145/3673657)]  
 Disentangled Representation Learning [[2024](https://arxiv.org/pdf/2211.11695)]  
 
 ## Vision-language relationship
-Selective Vision-Language Subspace Projection for Few-shot CLIP [2024](https://arxiv.org/pdf/2407.16977)  
+Selective Vision-Language Subspace Projection for Few-shot CLIP [[2024](https://arxiv.org/pdf/2407.16977)]  
 Interpreting and Analyzing CLIP’s Zero-Shot Image Classification via Mutual Knowledge [[2024](https://arxiv.org/pdf/2410.13016)]
 
 ## Instance Retrieval
-Cluster-Aware Similarity Diffusion for Instance Retrieval [2024](https://arxiv.org/pdf/2406.02343)
+Cluster-Aware Similarity Diffusion for Instance Retrieval [[2024](https://arxiv.org/pdf/2406.02343)]
 
 ## semantic segmentation
 Vision Transformers for Dense Prediction (DPT)[[2021 ICCV](https://arxiv.org/abs/2103.13413v1)]  
