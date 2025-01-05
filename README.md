@@ -108,4 +108,8 @@ Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE )[[2024](https:/
 ENHANCING PRE-TRAINED REPRESENTATION CLASSIFIABILITY CAN BOOST ITS INTERPRETABILITY[[under review 2025 ICLR](https://openreview.net/pdf?id=GjfIZan5jN)]  
 
 ## Action Recognition
-Part-aware Unified Representation of Language and Skeleton for Zero-shot Action Recognition[[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Part-aware_Unified_Representation_of_Language_and_Skeleton_for_Zero-shot_Action_CVPR_2024_paper.pdf)]
+Part-aware Unified Representation of Language and Skeleton for Zero-shot Action Recognition [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Part-aware_Unified_Representation_of_Language_and_Skeleton_for_Zero-shot_Action_CVPR_2024_paper.pdf)]
+
+## patch token aware
+Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers [[NeurIPS 2024](https://openreview.net/pdf?id=pVPyCgXv57)]  
+Token Cropr: Faster ViTs for Quite a Few Tasks [[2024](https://arxiv.org/pdf/2412.00965)]  
