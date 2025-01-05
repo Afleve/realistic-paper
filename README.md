@@ -1,7 +1,7 @@
 # realistic-paper
 ## GCD
-Targeted Representation Alignment for Open-World Semi-Supervised Learning [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Targeted_Representation_Alignment_for_Open-World_Semi-Supervised_Learning_CVPR_2024_paper.pdf)]  
 Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery [[2023](https://arxiv.org/pdf/2305.06144)]  
+Targeted Representation Alignment for Open-World Semi-Supervised Learning [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Targeted_Representation_Alignment_for_Open-World_Semi-Supervised_Learning_CVPR_2024_paper.pdf)]  
 Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery [[2024](https://arxiv.org/pdf/2403.09974)]  
 OwMatch: Conditional Self-Labeling with Consistency for Open-World Semi-Supervised Learning [[2024](https://arxiv.org/pdf/2411.01833)]  
 multimodal generalized category discovery [[2024](https://arxiv.org/pdf/2409.11624)]  
