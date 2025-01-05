@@ -20,15 +20,15 @@ Active Prompt Learning in Vision Language Models [[2024 CVPR](https://arxiv.org/
 Active Prompt Learning with Vision-Language Model Priors [[2024](https://arxiv.org/pdf/2411.16722)]
 
 ## Label Selection
-Labeled Data Selection for Category Discovery [[2024 ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07212.pdf)]  
 Towards Free Data Selection with General-Purpose Models  [[2023 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/047682108c3b053c61ad2da5a6057b4e-Paper-Conference.pdf)]  
+Labeled Data Selection for Category Discovery [[2024 ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07212.pdf)]  
 a clip-power framework for robust and generalizable data selection [[2024](https://arxiv.org/pdf/2410.11215)]
 
 ## Multimodal
+Connecting Multi-modal Contrastive Representations [[NeurIPS 2023](https://arxiv.org/pdf/2305.14381)]  
 VLM2VEC: training vision-language models for massive multimodal embedding tasks [[2024](https://arxiv.org/pdf/2410.05160)]  
 CrossMAE: Cross-Modality Masked Autoencoders for Region-Aware Audio-Visual Pre-Training [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_CrossMAE_Cross-Modality_Masked_Autoencoders_for_Region-Aware_Audio-Visual_Pre-Training_CVPR_2024_paper.pdf)]  
 Customized Multiple Clustering via Multi-Modal Subspace Proxy Learning  
-Connecting Multi-modal Contrastive Representations [[NeurIPS 2023](https://arxiv.org/pdf/2305.14381)]  
 Extending Multi-modal Contrastive Representations [[NeurIPS 2024](https://arxiv.org/pdf/2310.08884)]  
 UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models [[2024](https://arxiv.org/pdf/2411.06921)]
 
