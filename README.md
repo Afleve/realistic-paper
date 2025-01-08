@@ -48,6 +48,7 @@ BRAVE: Broadening the visual encoding of vision-language models [[ECCV 2024](htt
 EMR-MERGING: Tuning-Free High-Performance Model Merging [[ 2024 ](https://arxiv.org/pdf/2405.17461)]
 
 ## Training Methods
+All4One: Symbiotic Neighbour Contrastive Learning via Self-Attention and Redundancy Reduction [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Estepa_All4One_Symbiotic_Neighbour_Contrastive_Learning_via_Self-Attention_and_Redundancy_Reduction_ICCV_2023_paper.pdf)]  
 A Unified Contrastive Loss for Self-Training [[2024](https://arxiv.org/pdf/2409.07292)]  
 vision transformers need registers VISION [[2024 ICLR](https://arxiv.org/pdf/2309.16588)]  
 
