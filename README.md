@@ -115,3 +115,6 @@ Part-aware Unified Representation of Language and Skeleton for Zero-shot Action 
 Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers [[NeurIPS 2024](https://openreview.net/pdf?id=pVPyCgXv57)]  
 Token Cropr: Faster ViTs for Quite a Few Tasks [[2024](https://arxiv.org/pdf/2412.00965)]  
 Can We Get Rid of Handcrafted Feature Extractors? SparseViT: Nonsemantics-Centered, Parameter-Efficient Image Manipulation Localization through Spare-Coding Transformer [[2024](https://arxiv.org/pdf/2412.14598)]
+
+## ReID
+A Pedestrian is Worth One Prompt: Towards Language Guidance Person Re-Identification [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_A_Pedestrian_is_Worth_One_Prompt_Towards_Language_Guidance_Person_CVPR_2024_paper.pdf)]  
