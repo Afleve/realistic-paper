@@ -35,11 +35,14 @@ UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models [
 ## zero & few shot
 Laplacian Regularized Few-Shot Learning [[2021](https://proceedings.mlr.press/v119/ziko20a/ziko20a.pdf)]   
 Parameterless Transductive Feature Re-representation for Few-Shot Learning [[ICML 2021](https://proceedings.mlr.press/v139/cui21a/cui21a.pdf)]  
+Class-Aware Patch Embedding Adaptation for Few-Shot Image Classification 
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Hao_Class-Aware_Patch_Embedding_Adaptation_for_Few-Shot_Image_Classification_ICCV_2023_paper.pdf)]  
 Transductive Few-shot Learning with Prototype-based Label Propagation by Iterative Graph Refinement [[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Transductive_Few-Shot_Learning_With_Prototype-Based_Label_Propagation_by_Iterative_Graph_CVPR_2023_paper.pdf)]  
 Transductive Zero-Shot and Few-Shot CLIP [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Martin_Transductive_Zero-Shot_and_Few-Shot_CLIP_CVPR_2024_paper.pdf)]
 Boosting Vision-Language Models with Transduction [[ 2024 ](https://arxiv.org/pdf/2406.01837)]  
 Selective Vision-Language Subspace Projection for Few-shot CLIP [[2024](https://arxiv.org/pdf/2407.16977)]  
-Interpreting and Analyzing CLIP’s Zero-Shot Image Classification via Mutual Knowledge [[2024](https://arxiv.org/pdf/2410.13016)]
+Interpreting and Analyzing CLIP’s Zero-Shot Image Classification via Mutual Knowledge [[2024](https://arxiv.org/pdf/2410.13016)]  
+UNEM: UNrolled Generalized EM for Transductive Few-Shot Learning [[2024](https://arxiv.org/pdf/2412.16739)]
 
 ## Model Merging
 EDITING MODELS WITH TASK ARITHMETIC [[ICLR 2023](https://arxiv.org/pdf/2212.04089)]  
@@ -72,7 +75,10 @@ ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation [[ECCV
 SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference [[ECCV 2024](https://arxiv.org/pdf/2312.01597)]  
 Revisit Anything: Visual Place Recognition via Image Segment Retrieval [[2024](https://arxiv.org/pdf/2409.18049)]  
 Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation [[2024](https://arxiv.org/pdf/2404.08181)]  
-ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference[[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06346.pdf)]
+ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference[[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06346.pdf)]  
+BRIDGING THE GAP TO REAL-WORLD OBJECTCENTRIC LEARNING [[2023](https://arxiv.org/pdf/2209.14860)]  
+DINOv2 Meets Text: A Unified Framework for Image- and Pixel-Level Vision-Language Alignment [[2024](https://arxiv.org/pdf/2412.16334)]
+
 
 
 ## Clustering
@@ -105,16 +111,24 @@ Optimal Transport Aggregation for Visual Place Recognition [[CVPR 2024](https://
 
 ## interpretable
 SPARSE AUTOENCODERS FIND HIGHLY INTERPRETABLE FEATURES IN LANGUAGE MODELS [[2024](https://arxiv.org/pdf/2309.08600)]  
-Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE )[[2024](https://arxiv.org/pdf/2402.10376)]  
-ENHANCING PRE-TRAINED REPRESENTATION CLASSIFIABILITY CAN BOOST ITS INTERPRETABILITY[[under review 2025 ICLR](https://openreview.net/pdf?id=GjfIZan5jN)]  
+Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE ) [[2024](https://arxiv.org/pdf/2402.10376)]  
+ENHANCING PRE-TRAINED REPRESENTATION CLASSIFIABILITY CAN BOOST ITS INTERPRETABILITY [[under review 2025 ICLR](https://openreview.net/pdf?id=GjfIZan5jN)]  
+A SIMPLE INTERPRETABLE TRANSFORMER FOR FINEGRAINED IMAGE CLASSIFICATION AND ANALYSIS [[ICLR 2024](https://arxiv.org/pdf/2311.04157)]
 
 ## Action Recognition
 Part-aware Unified Representation of Language and Skeleton for Zero-shot Action Recognition [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Part-aware_Unified_Representation_of_Language_and_Skeleton_for_Zero-shot_Action_CVPR_2024_paper.pdf)]
 
-## improve Vit
+## improve Vit & Patch
+Differentiable Patch Selection for Image Recognition [[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Cordonnier_Differentiable_Patch_Selection_for_Image_Recognition_CVPR_2021_paper.pdf)]  
+Less is More: Focus Attention for Efficient DETR [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_Less_is_More_Focus_Attention_for_Efficient_DETR_ICCV_2023_paper.pdf)]  
 Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers [[NeurIPS 2024](https://openreview.net/pdf?id=pVPyCgXv57)]  
 Token Cropr: Faster ViTs for Quite a Few Tasks [[2024](https://arxiv.org/pdf/2412.00965)]  
-Can We Get Rid of Handcrafted Feature Extractors? SparseViT: Nonsemantics-Centered, Parameter-Efficient Image Manipulation Localization through Spare-Coding Transformer [[2024](https://arxiv.org/pdf/2412.14598)]
+Can We Get Rid of Handcrafted Feature Extractors? SparseViT: Nonsemantics-Centered, Parameter-Efficient Image Manipulation Localization through Spare-Coding Transformer [[2024](https://arxiv.org/pdf/2412.14598)]  
+Learning to Rank Patches for Unbiased Image Redundancy Reduction [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_Learning_to_Rank_Patches_for_Unbiased_Image_Redundancy_Reduction_CVPR_2024_paper.pdf)]  
+Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_Linguistic-Aware_Patch_Slimming_Framework_for_Fine-grained_Cross-Modal_Alignment_CVPR_2024_paper.pdf)]
 
 ## ReID
 A Pedestrian is Worth One Prompt: Towards Language Guidance Person Re-Identification [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_A_Pedestrian_is_Worth_One_Prompt_Towards_Language_Guidance_Person_CVPR_2024_paper.pdf)]  
+
+## Affective Computing
+Most Important Person-guided Dual-branch Cross-Patch Attention for Group Affect Recognition [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Xie_Most_Important_Person-Guided_Dual-Branch_Cross-Patch_Attention_for_Group_Affect_Recognition_ICCV_2023_paper.pdf)]  
