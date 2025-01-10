@@ -121,6 +121,7 @@ Part-aware Unified Representation of Language and Skeleton for Zero-shot Action 
 ## improve Vit & Patch
 Differentiable Patch Selection for Image Recognition [[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Cordonnier_Differentiable_Patch_Selection_for_Image_Recognition_CVPR_2021_paper.pdf)]  
 Less is More: Focus Attention for Efficient DETR [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_Less_is_More_Focus_Attention_for_Efficient_DETR_ICCV_2023_paper.pdf)]  
+ITERATIVE PATCH SELECTION FOR HIGH-RESOLUTION IMAGE RECOGNITION [[ICLR 2023](https://arxiv.org/pdf/2210.13007)]  
 Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers [[NeurIPS 2024](https://openreview.net/pdf?id=pVPyCgXv57)]  
 Token Cropr: Faster ViTs for Quite a Few Tasks [[2024](https://arxiv.org/pdf/2412.00965)]  
 Can We Get Rid of Handcrafted Feature Extractors? SparseViT: Nonsemantics-Centered, Parameter-Efficient Image Manipulation Localization through Spare-Coding Transformer [[2024](https://arxiv.org/pdf/2412.14598)]  
