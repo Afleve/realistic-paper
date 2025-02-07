@@ -135,3 +135,8 @@ A Pedestrian is Worth One Prompt: Towards Language Guidance Person Re-Identifica
 
 ## Affective Computing
 Most Important Person-guided Dual-branch Cross-Patch Attention for Group Affect Recognition [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Xie_Most_Important_Person-Guided_Dual-Branch_Cross-Patch_Attention_for_Group_Affect_Recognition_ICCV_2023_paper.pdf)]  
+
+## Grounding
+Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints [[2025](https://arxiv.org/pdf/2501.06710)]  
+
+
