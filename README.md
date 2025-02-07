@@ -120,6 +120,7 @@ Part-aware Unified Representation of Language and Skeleton for Zero-shot Action 
 
 ## improve Vit & Patch
 Differentiable Patch Selection for Image Recognition [[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Cordonnier_Differentiable_Patch_Selection_for_Image_Recognition_CVPR_2021_paper.pdf)]  
+EVit:NOT ALL PATCHES ARE WHAT YOU NEED:EXPEDITING VISION TRANSFORMERS VIA TOKEN REORGANIZATIONS [[ICLR2022](https://arxiv.org/pdf/2202.07800)]  
 Less is More: Focus Attention for Efficient DETR [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_Less_is_More_Focus_Attention_for_Efficient_DETR_ICCV_2023_paper.pdf)]  
 ITERATIVE PATCH SELECTION FOR HIGH-RESOLUTION IMAGE RECOGNITION [[ICLR 2023](https://arxiv.org/pdf/2210.13007)]  
 IdleViT: Efficient Vision Transformer via Token Idle and Token Cut Loss [[AJCAI23](https://arxiv.org/pdf/2310.05654)]  
