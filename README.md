@@ -139,4 +139,6 @@ Most Important Person-guided Dual-branch Cross-Patch Attention for Group Affect 
 ## Grounding
 Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints [[2025](https://arxiv.org/pdf/2501.06710)]  
 
+## Weakly Supervised Object Localization(WOSL)
+Spatial-Aware Token for Weakly Supervised Object Localization [[ICCV2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf)]  
 
