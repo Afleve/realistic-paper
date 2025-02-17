@@ -6,6 +6,7 @@ Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery [
 OwMatch: Conditional Self-Labeling with Consistency for Open-World Semi-Supervised Learning [[2024](https://arxiv.org/pdf/2411.01833)]  
 multimodal generalized category discovery [[2024](https://arxiv.org/pdf/2409.11624)]  
 * Learning to Distinguish Samples for Generalized Category Discovery[[2024 ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08177.pdf)]
+* Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery[[2025](https://arxiv.org/pdf/2502.09501)]  
 
 ## ActiveLearning
 Margin-Based Active Learning for Structured Output Spaces [[2006](https://link.springer.com/chapter/10.1007/11871842_40)]  
