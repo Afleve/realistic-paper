@@ -145,5 +145,6 @@ Spatial-Aware Token for Weakly Supervised Object Localization [[ICCV2023](https:
 
 ## LightWeight
 A-ViT: Adaptive Tokens for Efficient Vision Transformer [[2022](https://arxiv.org/pdf/2112.07658)]  
+SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference [[2025](https://arxiv.org/pdf/2502.18137)]
 
 
