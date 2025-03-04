@@ -1,5 +1,13 @@
 # realistic-paper
 
+## LightWeight
+A-ViT: Adaptive Tokens for Efficient Vision Transformer [[2022](https://arxiv.org/pdf/2112.07658)]  
+SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference [[2025](https://arxiv.org/pdf/2502.18137)]
+
+
+## Grounding
+Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints [[2025](https://arxiv.org/pdf/2501.06710)]  
+
 ## improve Vit & Patch
 Differentiable Patch Selection for Image Recognition [[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Cordonnier_Differentiable_Patch_Selection_for_Image_Recognition_CVPR_2021_paper.pdf)]  
 EVit:NOT ALL PATCHES ARE WHAT YOU NEED:EXPEDITING VISION TRANSFORMERS VIA TOKEN REORGANIZATIONS [[ICLR2022](https://arxiv.org/pdf/2202.07800)]  
@@ -18,15 +26,10 @@ A Pedestrian is Worth One Prompt: Towards Language Guidance Person Re-Identifica
 ## Affective Computing
 Most Important Person-guided Dual-branch Cross-Patch Attention for Group Affect Recognition [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Xie_Most_Important_Person-Guided_Dual-Branch_Cross-Patch_Attention_for_Group_Affect_Recognition_ICCV_2023_paper.pdf)]  
 
-## Grounding
-Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints [[2025](https://arxiv.org/pdf/2501.06710)]  
 
 ## Weakly Supervised Object Localization(WOSL)
 Spatial-Aware Token for Weakly Supervised Object Localization [[ICCV2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf)]  
 
-## LightWeight
-A-ViT: Adaptive Tokens for Efficient Vision Transformer [[2022](https://arxiv.org/pdf/2112.07658)]  
-SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference [[2025](https://arxiv.org/pdf/2502.18137)]
 
 ## GCD
 Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery [[2023](https://arxiv.org/pdf/2305.06144)]  
