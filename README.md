@@ -1,4 +1,33 @@
 # realistic-paper
+
+## improve Vit & Patch
+Differentiable Patch Selection for Image Recognition [[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Cordonnier_Differentiable_Patch_Selection_for_Image_Recognition_CVPR_2021_paper.pdf)]  
+EVit:NOT ALL PATCHES ARE WHAT YOU NEED:EXPEDITING VISION TRANSFORMERS VIA TOKEN REORGANIZATIONS [[ICLR2022](https://arxiv.org/pdf/2202.07800)]  
+Less is More: Focus Attention for Efficient DETR [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_Less_is_More_Focus_Attention_for_Efficient_DETR_ICCV_2023_paper.pdf)]  
+ITERATIVE PATCH SELECTION FOR HIGH-RESOLUTION IMAGE RECOGNITION [[ICLR 2023](https://arxiv.org/pdf/2210.13007)]  
+IdleViT: Efficient Vision Transformer via Token Idle and Token Cut Loss [[AJCAI23](https://arxiv.org/pdf/2310.05654)]  
+Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers [[NeurIPS 2024](https://openreview.net/pdf?id=pVPyCgXv57)]  
+Token Cropr: Faster ViTs for Quite a Few Tasks [[2024](https://arxiv.org/pdf/2412.00965)]  
+Can We Get Rid of Handcrafted Feature Extractors? SparseViT: Nonsemantics-Centered, Parameter-Efficient Image Manipulation Localization through Spare-Coding Transformer [[2024](https://arxiv.org/pdf/2412.14598)]  
+Learning to Rank Patches for Unbiased Image Redundancy Reduction [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_Learning_to_Rank_Patches_for_Unbiased_Image_Redundancy_Reduction_CVPR_2024_paper.pdf)]  
+Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_Linguistic-Aware_Patch_Slimming_Framework_for_Fine-grained_Cross-Modal_Alignment_CVPR_2024_paper.pdf)]  
+
+## ReID
+A Pedestrian is Worth One Prompt: Towards Language Guidance Person Re-Identification [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_A_Pedestrian_is_Worth_One_Prompt_Towards_Language_Guidance_Person_CVPR_2024_paper.pdf)]  
+
+## Affective Computing
+Most Important Person-guided Dual-branch Cross-Patch Attention for Group Affect Recognition [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Xie_Most_Important_Person-Guided_Dual-Branch_Cross-Patch_Attention_for_Group_Affect_Recognition_ICCV_2023_paper.pdf)]  
+
+## Grounding
+Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints [[2025](https://arxiv.org/pdf/2501.06710)]  
+
+## Weakly Supervised Object Localization(WOSL)
+Spatial-Aware Token for Weakly Supervised Object Localization [[ICCV2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf)]  
+
+## LightWeight
+A-ViT: Adaptive Tokens for Efficient Vision Transformer [[2022](https://arxiv.org/pdf/2112.07658)]  
+SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference [[2025](https://arxiv.org/pdf/2502.18137)]
+
 ## GCD
 Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery [[2023](https://arxiv.org/pdf/2305.06144)]  
 Targeted Representation Alignment for Open-World Semi-Supervised Learning [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Targeted_Representation_Alignment_for_Open-World_Semi-Supervised_Learning_CVPR_2024_paper.pdf)]  
@@ -119,32 +148,5 @@ A SIMPLE INTERPRETABLE TRANSFORMER FOR FINEGRAINED IMAGE CLASSIFICATION AND ANAL
 ## Action Recognition
 Part-aware Unified Representation of Language and Skeleton for Zero-shot Action Recognition [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Part-aware_Unified_Representation_of_Language_and_Skeleton_for_Zero-shot_Action_CVPR_2024_paper.pdf)]
 
-## improve Vit & Patch
-Differentiable Patch Selection for Image Recognition [[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Cordonnier_Differentiable_Patch_Selection_for_Image_Recognition_CVPR_2021_paper.pdf)]  
-EVit:NOT ALL PATCHES ARE WHAT YOU NEED:EXPEDITING VISION TRANSFORMERS VIA TOKEN REORGANIZATIONS [[ICLR2022](https://arxiv.org/pdf/2202.07800)]  
-Less is More: Focus Attention for Efficient DETR [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_Less_is_More_Focus_Attention_for_Efficient_DETR_ICCV_2023_paper.pdf)]  
-ITERATIVE PATCH SELECTION FOR HIGH-RESOLUTION IMAGE RECOGNITION [[ICLR 2023](https://arxiv.org/pdf/2210.13007)]  
-IdleViT: Efficient Vision Transformer via Token Idle and Token Cut Loss [[AJCAI23](https://arxiv.org/pdf/2310.05654)]  
-Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers [[NeurIPS 2024](https://openreview.net/pdf?id=pVPyCgXv57)]  
-Token Cropr: Faster ViTs for Quite a Few Tasks [[2024](https://arxiv.org/pdf/2412.00965)]  
-Can We Get Rid of Handcrafted Feature Extractors? SparseViT: Nonsemantics-Centered, Parameter-Efficient Image Manipulation Localization through Spare-Coding Transformer [[2024](https://arxiv.org/pdf/2412.14598)]  
-Learning to Rank Patches for Unbiased Image Redundancy Reduction [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_Learning_to_Rank_Patches_for_Unbiased_Image_Redundancy_Reduction_CVPR_2024_paper.pdf)]  
-Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_Linguistic-Aware_Patch_Slimming_Framework_for_Fine-grained_Cross-Modal_Alignment_CVPR_2024_paper.pdf)]  
-
-## ReID
-A Pedestrian is Worth One Prompt: Towards Language Guidance Person Re-Identification [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_A_Pedestrian_is_Worth_One_Prompt_Towards_Language_Guidance_Person_CVPR_2024_paper.pdf)]  
-
-## Affective Computing
-Most Important Person-guided Dual-branch Cross-Patch Attention for Group Affect Recognition [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Xie_Most_Important_Person-Guided_Dual-Branch_Cross-Patch_Attention_for_Group_Affect_Recognition_ICCV_2023_paper.pdf)]  
-
-## Grounding
-Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints [[2025](https://arxiv.org/pdf/2501.06710)]  
-
-## Weakly Supervised Object Localization(WOSL)
-Spatial-Aware Token for Weakly Supervised Object Localization [[ICCV2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf)]  
-
-## LightWeight
-A-ViT: Adaptive Tokens for Efficient Vision Transformer [[2022](https://arxiv.org/pdf/2112.07658)]  
-SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference [[2025](https://arxiv.org/pdf/2502.18137)]
 
 
