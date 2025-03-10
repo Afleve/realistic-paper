@@ -6,6 +6,7 @@ SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference [[2025](h
 
 
 ## Grounding
+PIN:Positional Insert Unlocks Object Localisation Abilities in VLMs [[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Dorkenwald_PIN_Positional_Insert_Unlocks_Object_Localisation_Abilities_in_VLMs_CVPR_2024_paper.pdf)]  
 Language-driven Grasp Detection[[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Vuong_Language-driven_Grasp_Detection_CVPR_2024_paper.pdf)]   
 Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints [[2025](https://arxiv.org/pdf/2501.06710)]  
 
