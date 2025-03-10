@@ -21,6 +21,9 @@ Can We Get Rid of Handcrafted Feature Extractors? SparseViT: Nonsemantics-Center
 Learning to Rank Patches for Unbiased Image Redundancy Reduction [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_Learning_to_Rank_Patches_for_Unbiased_Image_Redundancy_Reduction_CVPR_2024_paper.pdf)]  
 Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_Linguistic-Aware_Patch_Slimming_Framework_for_Fine-grained_Cross-Modal_Alignment_CVPR_2024_paper.pdf)]  
 
+## Medical 
+Transcriptomics-guided Slide Representation Learning in Computational Pathology[[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Jaume_Transcriptomics-guided_Slide_Representation_Learning_in_Computational_Pathology_CVPR_2024_paper.pdf)]  
+
 ## ReID
 A Pedestrian is Worth One Prompt: Towards Language Guidance Person Re-Identification [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_A_Pedestrian_is_Worth_One_Prompt_Towards_Language_Guidance_Person_CVPR_2024_paper.pdf)]  
 
