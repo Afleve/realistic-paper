@@ -1,6 +1,5 @@
-# realistic-paper
-
-[[LightWeight](#LightWeight)] [[]()] [[]()] [[]()] [[]()] [[]()] [[]()]
+# Content
+[[LightWeight](#LightWeight)] [[Grounding](#Grounding)] [[Visual Place Recognition](#Visual_Place_Recognition)] [[Patch Selection](#Patch Selection)] [[]()] [[]()] [[]()]
 
 ## LightWeight
 A-ViT: Adaptive Tokens for Efficient Vision Transformer [[2022](https://arxiv.org/pdf/2112.07658)]  
