@@ -1,5 +1,5 @@
 # Content
-[[LightWeight](#LightWeight)] [[Grounding](#Grounding)] [[Visual Place Recognition](#Visual-Place-Recognition)] [[Patch Selection](#Patch-Selection)] [[Medical](#Medical)] [[Action Recognition](#Action-Recognition)] [[ReID](#ReID)] [[GCD](#GCD)] [[Affective Computing](#Affective-Computing)] [[ActiveLearning](#ActiveLearning)] [[Label Selection](Label-Selection)] [[Multimodal](#Multimodal)] [[zero & few shot](#zero-&-few-shot)] [[Model Merging](#Model-Merging)] [[Representation Learning](#Representation-Learning)] [[Instance Retrieval](#Instance-Retrieval)] [[Clustering](#Clustering)] [[semantic segmentation](#semantic-segmentation)] [[Optimal Transportation](#Optimal-Transportation)]
+[[LightWeight](#LightWeight)] [[Grounding](#Grounding)] [[Visual Place Recognition](#Visual-Place-Recognition)] [[Patch Selection](#Patch-Selection)] [[Medical](#Medical)] [[Action Recognition](#Action-Recognition)] [[ReID](#ReID)] [[GCD](#GCD)] [[Affective Computing](#Affective-Computing)] [[ActiveLearning](#ActiveLearning)] [[Label Selection](#Label-Selection)] [[Multimodal](#Multimodal)] [[zero & few shot](#zero-few-shot)] [[Model Merging](#Model-Merging)] [[Representation Learning](#Representation-Learning)] [[Instance Retrieval](#Instance-Retrieval)] [[Clustering](#Clustering)] [[semantic segmentation](#semantic-segmentation)] [[Optimal Transportation](#Optimal-Transportation)]
 
 ## LightWeight
 A-ViT: Adaptive Tokens for Efficient Vision Transformer [[2022](https://arxiv.org/pdf/2112.07658)]  
@@ -76,7 +76,7 @@ Extending Multi-modal Contrastive Representations [[NeurIPS 2024](https://arxiv.
 UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models [[2024](https://arxiv.org/pdf/2411.06921)]  
 DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models [[2024](https://arxiv.org/pdf/2408.08855)]  
 
-## zero & few shot
+## zero few shot
 Laplacian Regularized Few-Shot Learning [[2021](https://proceedings.mlr.press/v119/ziko20a/ziko20a.pdf)]   
 Parameterless Transductive Feature Re-representation for Few-Shot Learning [[ICML 2021](https://proceedings.mlr.press/v139/cui21a/cui21a.pdf)]  
 Class-Aware Patch Embedding Adaptation for Few-Shot Image Classification 
@@ -115,7 +115,7 @@ ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference[
 BRIDGING THE GAP TO REAL-WORLD OBJECTCENTRIC LEARNING [[2023](https://arxiv.org/pdf/2209.14860)]  
 DINOv2 Meets Text: A Unified Framework for Image- and Pixel-Level Vision-Language Alignment [[2024](https://arxiv.org/pdf/2412.16334)]
 
-## Clustering semantic
+## Clustering
 Clustering and Projected Clustering with Adaptive Neighbors [[2014 KDD](https://matlabtools.com/wp-content/uploads/p1004.pdf)]  
 The Constrained Laplacian Rank Algorithm for Graph-Based Clustering [[2016 AAAI](https://ojs.aaai.org/index.php/AAAI/article/download/10302/10161)]  
 TOWARDS CALIBRATED DEEP CLUSTERING NETWORK[[2025](https://openreview.net/pdf?id=JvH4jDDcG3)]  
