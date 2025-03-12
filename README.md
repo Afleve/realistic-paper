@@ -28,8 +28,8 @@ Learning to Rank Patches for Unbiased Image Redundancy Reduction [[CVPR 2024](ht
 Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_Linguistic-Aware_Patch_Slimming_Framework_for_Fine-grained_Cross-Modal_Alignment_CVPR_2024_paper.pdf)]  
 
 ## Medical 
-Multiple Instance Learning Framework with Masked Hard Instance Mining for Whole Slide Image Classification [[CVPR 2023](https://arxiv.org/pdf/2307.15254)]  
-Pseudo-Bag Mixup Augmentation for Multiple Instance Learning-Based Whole Slide Image Classification [[2023](https://arxiv.org/pdf/2306.16180)]  
+Multiple Instance Learning Framework with Masked Hard Instance Mining for Whole Slide Image Classification [[ICCV 2023](https://arxiv.org/pdf/2307.15254)]  
+Pseudo-Bag Mixup Augmentation for Multiple Instance Learning-Based Whole Slide Image Classification [[Trans MI 2024](https://arxiv.org/pdf/2306.16180)]  
 A visual-language foundation model for computational pathology [Nature medicine]  
 Transcriptomics-guided Slide Representation Learning in Computational Pathology [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Jaume_Transcriptomics-guided_Slide_Representation_Learning_in_Computational_Pathology_CVPR_2024_paper.pdf)]  
 
