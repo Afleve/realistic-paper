@@ -18,7 +18,8 @@ Optimal Transport Aggregation for Visual Place Recognition [[CVPR 2024](https://
 ## Patch Selection
 Differentiable Patch Selection for Image Recognition [[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Cordonnier_Differentiable_Patch_Selection_for_Image_Recognition_CVPR_2021_paper.pdf)]  
 EVit:NOT ALL PATCHES ARE WHAT YOU NEED:EXPEDITING VISION TRANSFORMERS VIA TOKEN REORGANIZATIONS [[ICLR2022](https://arxiv.org/pdf/2202.07800)]  
-Less is More: Focus Attention for Efficient DETR [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_Less_is_More_Focus_Attention_for_Efficient_DETR_ICCV_2023_paper.pdf)]  
+IdleViT: Efficient Vision Transformer via Token Idle and Token Cut Loss [[AJCAI 2023](https://arxiv.org/abs/2310.05654)]  
+Less is More: Focus Attention for Efficient DETR [[ICCV 2023] (https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_Less_is_More_Focus_Attention_for_Efficient_DETR_ICCV_2023_paper.pdf)]  
 ITERATIVE PATCH SELECTION FOR HIGH-RESOLUTION IMAGE RECOGNITION [[ICLR 2023](https://arxiv.org/pdf/2210.13007)]  
 IdleViT: Efficient Vision Transformer via Token Idle and Token Cut Loss [[AJCAI23](https://arxiv.org/pdf/2310.05654)]  
 Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers [[NeurIPS 2024](https://openreview.net/pdf?id=pVPyCgXv57)]  
@@ -67,9 +68,12 @@ Active Prompt Learning with Vision-Language Model Priors [[2024](https://arxiv.o
 ## Label Selection
 Towards Free Data Selection with General-Purpose Models  [[2023 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/047682108c3b053c61ad2da5a6057b4e-Paper-Conference.pdf)]  
 Labeled Data Selection for Category Discovery [[2024 ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07212.pdf)]  
-a clip-power framework for robust and generalizable data selection [[2024](https://arxiv.org/pdf/2410.11215)]
+a clip-power framework for robust and generalizable data selection [[2024](https://arxiv.org/pdf/2410.11215)]  
+Enhancing Sample Selection by Cutting Mislabeled Easy Examples [[2025](https://arxiv.org/pdf/2502.08227)]  
 
 ## Multimodal
+Qwen-VL: AVersatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond  [[2023](https://arxiv.org/pdf/2308.12966)]  
+mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration [[2023](http://arxiv.org/abs/2311.04257)]  
 Connecting Multi-modal Contrastive Representations [[NeurIPS 2023](https://arxiv.org/pdf/2305.14381)]  
 VLM2VEC: training vision-language models for massive multimodal embedding tasks [[2024](https://arxiv.org/pdf/2410.05160)]  
 CrossMAE: Cross-Modality Masked Autoencoders for Region-Aware Audio-Visual Pre-Training [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_CrossMAE_Cross-Modality_Masked_Autoencoders_for_Region-Aware_Audio-Visual_Pre-Training_CVPR_2024_paper.pdf)]  
@@ -77,6 +81,11 @@ Customized Multiple Clustering via Multi-Modal Subspace Proxy Learning
 Extending Multi-modal Contrastive Representations [[NeurIPS 2024](https://arxiv.org/pdf/2310.08884)]  
 UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models [[2024](https://arxiv.org/pdf/2411.06921)]  
 DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models [[2024](https://arxiv.org/pdf/2408.08855)]  
+ImageResolutionandText Label Are Important Things for Large Multi-modal Models [[CVPR 2024 Highlight](https://arxiv.org/pdf/2311.06607)]
+
+## Cross Attention
+Cross Attention Network for Few-shot Classification [[2019](https://proceedings.neurips.cc/paper_files/paper/2019/file/01894d6f048493d2cacde3c579c315a3-Paper.pdf)]  
+CAT: Cross Attention in Vision Transformer [[2021](https://arxiv.org/pdf/2106.05786)]  
 
 ## zero few shot
 Laplacian Regularized Few-Shot Learning [[2021](https://proceedings.mlr.press/v119/ziko20a/ziko20a.pdf)]   
