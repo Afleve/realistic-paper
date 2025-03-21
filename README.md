@@ -2,8 +2,8 @@
 [[LightWeight](#LightWeight)] [[Grounding](#Grounding)] [[Visual Place Recognition](#Visual-Place-Recognition)] [[Patch Selection](#Patch-Selection)] [[Medical](#Medical)] [[Action Recognition](#Action-Recognition)] [[ReID](#ReID)] [[GCD](#GCD)] [[Affective Computing](#Affective-Computing)] [[ActiveLearning](#ActiveLearning)] [[Label Selection](#Label-Selection)] [[Multimodal](#Multimodal)] [[zero & few shot](#zero-few-shot)] [[Model Merging](#Model-Merging)] [[Representation Learning](#Representation-Learning)] [[Instance Retrieval](#Instance-Retrieval)] [[Clustering](#Clustering)] [[semantic segmentation](#semantic-segmentation)] [[Optimal Transportation](#Optimal-Transportation)]
 
 ## LightWeight
-A-ViT: Adaptive Tokens for Efficient Vision Transformer [[2022](https://arxiv.org/pdf/2112.07658)]  
-SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference [[2025](https://arxiv.org/pdf/2502.18137)]
+[CVPR 2022]A-ViT: Adaptive Tokens for Efficient Vision Transformer [(https://arxiv.org/pdf/2112.07658)]  
+[2025]SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference [(https://arxiv.org/pdf/2502.18137)]
 
 ## Grounding
 Spatial-Aware Token for Weakly Supervised Object Localization [[ICCV2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf)]   
