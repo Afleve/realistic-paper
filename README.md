@@ -1,6 +1,9 @@
 # Content
 [[LightWeight](#LightWeight)] [[Grounding](#Grounding)] [[Visual Place Recognition](#Visual-Place-Recognition)] [[Patch Selection](#Patch-Selection)] [[Medical](#Medical)] [[Action Recognition](#Action-Recognition)] [[ReID](#ReID)] [[GCD](#GCD)] [[Affective Computing](#Affective-Computing)] [[ActiveLearning](#ActiveLearning)] [[Label Selection](#Label-Selection)] [[Multimodal](#Multimodal)] [[zero & few shot](#zero-few-shot)] [[Model Merging](#Model-Merging)] [[Representation Learning](#Representation-Learning)] [[Instance Retrieval](#Instance-Retrieval)] [[Clustering](#Clustering)] [[semantic segmentation](#semantic-segmentation)] [[Optimal Transportation](#Optimal-Transportation)]
 
+## Large Model Finetune
+[IE TIP]Task-to-Instance Prompt Learning for Vision-Language Models at Test Time [(https://ieeexplore.ieee.org/abstract/document/10925517)]  
+
 ## LightWeight
 [CVPR 2022]A-ViT: Adaptive Tokens for Efficient Vision Transformer [(https://arxiv.org/pdf/2112.07658)]  
 [2025]SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference [(https://arxiv.org/pdf/2502.18137)]
