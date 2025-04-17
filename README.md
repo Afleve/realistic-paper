@@ -2,7 +2,7 @@
 [[LightWeight](#LightWeight)] [[Grounding](#Grounding)] [[Visual Place Recognition](#Visual-Place-Recognition)] [[Patch Selection](#Patch-Selection)] [[Medical](#Medical)] [[Action Recognition](#Action-Recognition)] [[ReID](#ReID)] [[GCD](#GCD)] [[Affective Computing](#Affective-Computing)] [[ActiveLearning](#ActiveLearning)] [[Label Selection](#Label-Selection)] [[Multimodal](#Multimodal)] [[zero & few shot](#zero-few-shot)] [[Model Merging](#Model-Merging)] [[Representation Learning](#Representation-Learning)] [[Instance Retrieval](#Instance-Retrieval)] [[Clustering](#Clustering)] [[semantic segmentation](#semantic-segmentation)] [[Optimal Transportation](#Optimal-Transportation)]
 
 ## Large Model Finetune
-[IE TIP]Task-to-Instance Prompt Learning for Vision-Language Models at Test Time [(https://ieeexplore.ieee.org/abstract/document/10925517)]  
+[IETIP] Task-to-Instance Prompt Learning for Vision-Language Models at Test Time [(https://ieeexplore.ieee.org/abstract/document/10925517)]  
 
 ## LightWeight
 [CVPR 2022]A-ViT: Adaptive Tokens for Efficient Vision Transformer [(https://arxiv.org/pdf/2112.07658)]  
@@ -134,8 +134,3 @@ Clustering and Projected Clustering with Adaptive Neighbors [[2014 KDD](https://
 The Constrained Laplacian Rank Algorithm for Graph-Based Clustering [[2016 AAAI](https://ojs.aaai.org/index.php/AAAI/article/download/10302/10161)]  
 TOWARDS CALIBRATED DEEP CLUSTERING NETWORK[[2025](https://openreview.net/pdf?id=JvH4jDDcG3)]  
 
-## Optimal Transportation
-Unsupervised Learning of Visual Features by Contrasting Cluster Assignments [[NeurIPS 2020](https://arxiv.org/pdf/2006.09882)]  
-Towards Interpretable Deep Metric Learning with Structural Matching [[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Towards_Interpretable_Deep_Metric_Learning_With_Structural_Matching_ICCV_2021_paper.pdf)]  
-Optimal Transport Aggregation for Visual Place Recognition [[CVPR 2024](https://arxiv.org/abs/2311.15937)]  
-Data Selection via Optimal Control for Language Models [[]()]
