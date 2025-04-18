@@ -1,6 +1,16 @@
 # Content
 [[LightWeight](#LightWeight)] [[Grounding](#Grounding)] [[Visual Place Recognition](#Visual-Place-Recognition)] [[Patch Selection](#Patch-Selection)] [[Medical](#Medical)] [[Action Recognition](#Action-Recognition)] [[ReID](#ReID)] [[GCD](#GCD)] [[Affective Computing](#Affective-Computing)] [[ActiveLearning](#ActiveLearning)] [[Label Selection](#Label-Selection)] [[Multimodal](#Multimodal)] [[zero & few shot](#zero-few-shot)] [[Model Merging](#Model-Merging)] [[Representation Learning](#Representation-Learning)] [[Instance Retrieval](#Instance-Retrieval)] [[Clustering](#Clustering)] [[semantic segmentation](#semantic-segmentation)] [[Optimal Transportation](#Optimal-Transportation)]
 
+## GCD
+Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery [[2023](https://arxiv.org/pdf/2305.06144)]  
+Targeted Representation Alignment for Open-World Semi-Supervised Learning [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Targeted_Representation_Alignment_for_Open-World_Semi-Supervised_Learning_CVPR_2024_paper.pdf)]  
+Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery [[2024](https://arxiv.org/pdf/2403.09974)]  
+OwMatch: Conditional Self-Labeling with Consistency for Open-World Semi-Supervised Learning [[2024](https://arxiv.org/pdf/2411.01833)]  
+multimodal generalized category discovery [[2024](https://arxiv.org/pdf/2409.11624)]  
+* Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_Linguistic-Aware_Patch_Slimming_Framework_for_Fine-grained_Cross-Modal_Alignment_CVPR_2024_paper.pdf)]  
+* Learning to Distinguish Samples for Generalized Category Discovery [[2024 ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08177.pdf)]
+* Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery [[2025](https://arxiv.org/pdf/2502.09501)]  
+
 ## Large Model Finetune
 [IETIP] Task-to-Instance Prompt Learning for Vision-Language Models at Test Time [(https://ieeexplore.ieee.org/abstract/document/10925517)]  
 
@@ -46,15 +56,7 @@ A Pedestrian is Worth One Prompt: Towards Language Guidance Person Re-Identifica
 ## Affective Computing
 Most Important Person-guided Dual-branch Cross-Patch Attention for Group Affect Recognition [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Xie_Most_Important_Person-Guided_Dual-Branch_Cross-Patch_Attention_for_Group_Affect_Recognition_ICCV_2023_paper.pdf)]  
 
-## GCD
-Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery [[2023](https://arxiv.org/pdf/2305.06144)]  
-Targeted Representation Alignment for Open-World Semi-Supervised Learning [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Targeted_Representation_Alignment_for_Open-World_Semi-Supervised_Learning_CVPR_2024_paper.pdf)]  
-Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery [[2024](https://arxiv.org/pdf/2403.09974)]  
-OwMatch: Conditional Self-Labeling with Consistency for Open-World Semi-Supervised Learning [[2024](https://arxiv.org/pdf/2411.01833)]  
-multimodal generalized category discovery [[2024](https://arxiv.org/pdf/2409.11624)]  
-* Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_Linguistic-Aware_Patch_Slimming_Framework_for_Fine-grained_Cross-Modal_Alignment_CVPR_2024_paper.pdf)]  
-* Learning to Distinguish Samples for Generalized Category Discovery [[2024 ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08177.pdf)]
-* Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery [[2025](https://arxiv.org/pdf/2502.09501)]  
+
 
 ## ActiveLearning
 Margin-Based Active Learning for Structured Output Spaces [[2006](https://link.springer.com/chapter/10.1007/11871842_40)]  
