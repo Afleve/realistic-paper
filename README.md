@@ -1,7 +1,7 @@
 # Content
 [[LightWeight](#LightWeight)] [[Grounding](#Grounding)] [[Visual Place Recognition](#Visual-Place-Recognition)] [[Patch Selection](#Patch-Selection)] [[Medical](#Medical)] [[Action Recognition](#Action-Recognition)] [[ReID](#ReID)] [[GCD](#GCD)] [[Affective Computing](#Affective-Computing)] [[ActiveLearning](#ActiveLearning)] [[Label Selection](#Label-Selection)] [[Multimodal](#Multimodal)] [[zero & few shot](#zero-few-shot)] [[Model Merging](#Model-Merging)] [[Representation Learning](#Representation-Learning)] [[Instance Retrieval](#Instance-Retrieval)] [[Clustering](#Clustering)] [[semantic segmentation](#semantic-segmentation)] [[Optimal Transportation](#Optimal-Transportation)]
 
-## GCD
+# GCD
 ### ICCV
 [[2023](https://arxiv.org/pdf/2305.06144)] Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery    
 ### CVPR
