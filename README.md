@@ -16,7 +16,16 @@
 ### ArXiv 
 [[2024](https://arxiv.org/pdf/2409.11624)]  Multimodal Generalized Category Discovery   
 [[2025](https://arxiv.org/pdf/2502.09501)] Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery
-  
+
+-----------------------------------------------------------------------------------------------
+# Multimodal
+### ArXiv 
+[[2025](https://arxiv.org/pdf/2504.12717)]Post-pre-training for Modality Alignment in Vision-Language Foundation Models
+
+-----------------------------------------------------------------------------------------------
+# Weakly Supervised 
+
+
 -----------------------------------------------------------------------------------------------
 # Large Model Finetune
 [IETIP] Task-to-Instance Prompt Learning for Vision-Language Models at Test Time [(https://ieeexplore.ieee.org/abstract/document/10925517)]  
