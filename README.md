@@ -27,6 +27,17 @@
 [[2023](http://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf)]Spatial-Aware Token for Weakly Supervised Object Localization  
 
 -----------------------------------------------------------------------------------------------
+# Segmentation
+### I/ECVV
+[[2024](https://arxiv.org/abs/2312.12359)]CLIP-DINOiser: Teaching CLIP a few DINO tricks for Open-Vocabulary Semantic Segmentation  
+### NeurIPS
+[[2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/e95eb5206c867be843fbc14bbfe8c10e-Paper-Conference.pdf)]Uncovering Prototypical Knowledge for Weakly Open-Vocabulary Semantic Segmentation  
+### CVPR
+[[2022](https://arxiv.org/pdf/2202.11094)]GroupViT: Semantic Segmentation Emerges from Text Supervision  
+[[2023](https://arxiv.org/pdf/2212.00785)]Learning to Generate Text-grounded Mask for Open-world Semantic Segmentation from Only Image-Text Pairs  
+
+
+-----------------------------------------------------------------------------------------------
 # Patch Selection
 ### CVPR
 [[2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Cordonnier_Differentiable_Patch_Selection_for_Image_Recognition_CVPR_2021_paper.pdf)]Differentiable Patch Selection for Image Recognition   
@@ -44,6 +55,15 @@ Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transforme
 ### Preprint  
 [[2024](https://arxiv.org/pdf/2412.00965)]Token Cropr: Faster ViTs for Quite a Few Tasks    
 [[2024](https://arxiv.org/pdf/2412.14598)] Can We Get Rid of Handcrafted Feature Extractors? SparseViT: Nonsemantics-Centered, Parameter-Efficient Image Manipulation Localization through Spare-Coding Transformer   
+
+-----------------------------------------------------------------------------------------------
+# ReID
+### CVPR
+[[2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_A_Pedestrian_is_Worth_One_Prompt_Towards_Language_Guidance_Person_CVPR_2024_paper.pdf)]A Pedestrian is Worth One Prompt: Towards Language Guidance Person Re-Identification   
+
+-----------------------------------------------------------------------------------------------
+# Other
+[[2025](https://arxiv.org/pdf/2501.09333)]PROMPT-CAM: Making Vision Transformers Interpretable for Fine-Grained Analysis
 
 -----------------------------------------------------------------------------------------------
 # Large Model Finetune
@@ -76,11 +96,7 @@ Transcriptomics-guided Slide Representation Learning in Computational Pathology 
 -----------------------------------------------------------------------------------------------
 # Action Recognition
 Part-aware Unified Representation of Language and Skeleton for Zero-shot Action Recognition [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Part-aware_Unified_Representation_of_Language_and_Skeleton_for_Zero-shot_Action_CVPR_2024_paper.pdf)]
-
------------------------------------------------------------------------------------------------
-# ReID
-A Pedestrian is Worth One Prompt: Towards Language Guidance Person Re-Identification [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_A_Pedestrian_is_Worth_One_Prompt_Towards_Language_Guidance_Person_CVPR_2024_paper.pdf)]  
-
+ 
 -----------------------------------------------------------------------------------------------
 # Affective Computing
 Most Important Person-guided Dual-branch Cross-Patch Attention for Group Affect Recognition [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Xie_Most_Important_Person-Guided_Dual-Branch_Cross-Patch_Attention_for_Group_Affect_Recognition_ICCV_2023_paper.pdf)]  
