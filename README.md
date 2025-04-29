@@ -24,7 +24,8 @@
 
 -----------------------------------------------------------------------------------------------
 # Weakly Supervised 
-
+### CVPR
+[[2023](http://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf)]Spatial-Aware Token for Weakly Supervised Object Localization  
 
 -----------------------------------------------------------------------------------------------
 # Large Model Finetune
