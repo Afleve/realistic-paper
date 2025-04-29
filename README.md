@@ -28,6 +28,24 @@
 [[2023](http://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf)]Spatial-Aware Token for Weakly Supervised Object Localization  
 
 -----------------------------------------------------------------------------------------------
+# Patch Selection
+### CVPR
+[[2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Cordonnier_Differentiable_Patch_Selection_for_Image_Recognition_CVPR_2021_paper.pdf)]Differentiable Patch Selection for Image Recognition   
+Learning to Rank Patches for Unbiased Image Redundancy Reduction [[2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_Learning_to_Rank_Patches_for_Unbiased_Image_Redundancy_Reduction_CVPR_2024_paper.pdf)]  
+Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment [[2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_Linguistic-Aware_Patch_Slimming_Framework_for_Fine-grained_Cross-Modal_Alignment_CVPR_2024_paper.pdf)]  
+### ICLR
+[[2022](https://arxiv.org/pdf/2202.07800)]EVit:NOT ALL PATCHES ARE WHAT YOU NEED:EXPEDITING VISION TRANSFORMERS VIA TOKEN REORGANIZATIONS   
+[[2023](https://arxiv.org/pdf/2210.13007)]ITERATIVE PATCH SELECTION FOR HIGH-RESOLUTION IMAGE RECOGNITION   
+### ICCV
+[[2023] (https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_Less_is_More_Focus_Attention_for_Efficient_DETR_ICCV_2023_paper.pdf)]Less is More: Focus Attention for Efficient DETR   
+### NeurIPS
+Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers [[2024](https://openreview.net/pdf?id=pVPyCgXv57)]
+### AJCAI
+[[2023](https://arxiv.org/abs/2310.05654)]IdleViT: Efficient Vision Transformer via Token Idle and Token Cut Loss   
+### Preprint
+[[2024](https://arxiv.org/pdf/2412.00965)]Token Cropr: Faster ViTs for Quite a Few Tasks    
+[[2024](https://arxiv.org/pdf/2412.14598)] Can We Get Rid of Handcrafted Feature Extractors? SparseViT: Nonsemantics-Centered, Parameter-Efficient Image Manipulation Localization through Spare-Coding Transformer   
+-----------------------------------------------------------------------------------------------
 # Large Model Finetune
 [IETIP] Task-to-Instance Prompt Learning for Vision-Language Models at Test Time [(https://ieeexplore.ieee.org/abstract/document/10925517)]  
 
@@ -47,20 +65,6 @@ Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints [[2025](
 # Visual Place Recognition
 NetVLAD: CNNarchitecture for weakly supervised place recognition [[CVPR 2016](https://openaccess.thecvf.com/content_cvpr_2016/papers/Arandjelovic_NetVLAD_CNN_Architecture_CVPR_2016_paper.pdf)]  
 Optimal Transport Aggregation for Visual Place Recognition [[CVPR 2024](https://arxiv.org/pdf/2311.15937)]  
-
------------------------------------------------------------------------------------------------
-# Patch Selection
-Differentiable Patch Selection for Image Recognition [[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Cordonnier_Differentiable_Patch_Selection_for_Image_Recognition_CVPR_2021_paper.pdf)]  
-EVit:NOT ALL PATCHES ARE WHAT YOU NEED:EXPEDITING VISION TRANSFORMERS VIA TOKEN REORGANIZATIONS [[ICLR2022](https://arxiv.org/pdf/2202.07800)]  
-IdleViT: Efficient Vision Transformer via Token Idle and Token Cut Loss [[AJCAI 2023](https://arxiv.org/abs/2310.05654)]  
-Less is More: Focus Attention for Efficient DETR [[ICCV 2023] (https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_Less_is_More_Focus_Attention_for_Efficient_DETR_ICCV_2023_paper.pdf)]  
-ITERATIVE PATCH SELECTION FOR HIGH-RESOLUTION IMAGE RECOGNITION [[ICLR 2023](https://arxiv.org/pdf/2210.13007)]  
-IdleViT: Efficient Vision Transformer via Token Idle and Token Cut Loss [[AJCAI23](https://arxiv.org/pdf/2310.05654)]  
-Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers [[NeurIPS 2024](https://openreview.net/pdf?id=pVPyCgXv57)]  
-Token Cropr: Faster ViTs for Quite a Few Tasks [[2024](https://arxiv.org/pdf/2412.00965)]  
-Can We Get Rid of Handcrafted Feature Extractors? SparseViT: Nonsemantics-Centered, Parameter-Efficient Image Manipulation Localization through Spare-Coding Transformer [[2024](https://arxiv.org/pdf/2412.14598)]  
-Learning to Rank Patches for Unbiased Image Redundancy Reduction [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_Learning_to_Rank_Patches_for_Unbiased_Image_Redundancy_Reduction_CVPR_2024_paper.pdf)]  
-Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment [[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_Linguistic-Aware_Patch_Slimming_Framework_for_Fine-grained_Cross-Modal_Alignment_CVPR_2024_paper.pdf)]  
 
 -----------------------------------------------------------------------------------------------
 # Medical 
