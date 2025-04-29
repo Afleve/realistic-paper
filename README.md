@@ -42,7 +42,7 @@
 ### CVPR
 [[2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Cordonnier_Differentiable_Patch_Selection_for_Image_Recognition_CVPR_2021_paper.pdf)]Differentiable Patch Selection for Image Recognition   
 [[2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_Learning_to_Rank_Patches_for_Unbiased_Image_Redundancy_Reduction_CVPR_2024_paper.pdf)]Learning to Rank Patches for Unbiased Image Redundancy Reduction   
-Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment [[2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_Linguistic-Aware_Patch_Slimming_Framework_for_Fine-grained_Cross-Modal_Alignment_CVPR_2024_paper.pdf)]  
+[[2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_Linguistic-Aware_Patch_Slimming_Framework_for_Fine-grained_Cross-Modal_Alignment_CVPR_2024_paper.pdf)]Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment   
 ### ICLR
 [[2022](https://arxiv.org/pdf/2202.07800)]EVit:NOT ALL PATCHES ARE WHAT YOU NEED:EXPEDITING VISION TRANSFORMERS VIA TOKEN REORGANIZATIONS   
 [[2023](https://arxiv.org/pdf/2210.13007)]ITERATIVE PATCH SELECTION FOR HIGH-RESOLUTION IMAGE RECOGNITION   
