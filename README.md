@@ -41,10 +41,11 @@ Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment
 ### NeurIPS
 Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers [[2024](https://openreview.net/pdf?id=pVPyCgXv57)]
 ### AJCAI
-[[2023](https://arxiv.org/abs/2310.05654)]IdleViT: Efficient Vision Transformer via Token Idle and Token Cut Loss   
-### Preprint
+[[2023](https://arxiv.org/abs/2310.05654)]IdleViT: Efficient Vision Transformer via Token Idle and Token Cut Loss    
+### Preprint  
 [[2024](https://arxiv.org/pdf/2412.00965)]Token Cropr: Faster ViTs for Quite a Few Tasks    
 [[2024](https://arxiv.org/pdf/2412.14598)] Can We Get Rid of Handcrafted Feature Extractors? SparseViT: Nonsemantics-Centered, Parameter-Efficient Image Manipulation Localization through Spare-Coding Transformer   
+
 -----------------------------------------------------------------------------------------------
 # Large Model Finetune
 [IETIP] Task-to-Instance Prompt Learning for Vision-Language Models at Test Time [(https://ieeexplore.ieee.org/abstract/document/10925517)]  
