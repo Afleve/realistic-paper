@@ -49,7 +49,7 @@
 ### ICCV
 [[2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_Less_is_More_Focus_Attention_for_Efficient_DETR_ICCV_2023_paper.pdf)]Less is More: Focus Attention for Efficient DETR   
 ### NeurIPS
-Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers [[2024](https://openreview.net/pdf?id=pVPyCgXv57)]
+[[2024](https://openreview.net/pdf?id=pVPyCgXv57)]Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers 
 ### AJCAI
 [[2023](https://arxiv.org/abs/2310.05654)]IdleViT: Efficient Vision Transformer via Token Idle and Token Cut Loss    
 ### Preprint  
