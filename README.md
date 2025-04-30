@@ -15,7 +15,8 @@
 ### ArXiv 
 [[2024](https://arxiv.org/pdf/2409.11624)]  Multimodal Generalized Category Discovery   
 [[2025](https://arxiv.org/pdf/2502.09501)] Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery  
-[[2025](https://arxiv.org/pdf/2503.16782)]Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery
+[[2025](https://arxiv.org/pdf/2503.16782)]Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery  
+[[2025](https://arxiv.org/pdf/2502.09501)]Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery
 
 -----------------------------------------------------------------------------------------------
 # Multimodal
