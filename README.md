@@ -57,6 +57,7 @@
 ### Preprint  
 [[2024](https://arxiv.org/pdf/2412.00965)]Token Cropr: Faster ViTs for Quite a Few Tasks    
 [[2024](https://arxiv.org/pdf/2412.14598)] Can We Get Rid of Handcrafted Feature Extractors? SparseViT: Nonsemantics-Centered, Parameter-Efficient Image Manipulation Localization through Spare-Coding Transformer   
+No Pains, More Gains: Recycling Sub-Salient Patches for Efficient High-Resolution Image Recognition
 
 -----------------------------------------------------------------------------------------------
 # ReID
