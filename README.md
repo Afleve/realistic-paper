@@ -11,14 +11,14 @@
 [[2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_Linguistic-Aware_Patch_Slimming_Framework_for_Fine-grained_Cross-Modal_Alignment_CVPR_2024_paper.pdf)] Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment   
 [[2025](https://arxiv.org/pdf/2403.09974)] Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery   
 [[2025](https://arxiv.org/abs/2503.12035)] MOS: Modeling Object-Scene Associations in Generalized Category Discovery (CVPR 2025)  
-[[2025]()]  Attention is More: Prompt Transformer for Generalized Category Discover  
+[[2025]()]  Less Attention is More: Prompt Transformer for Generalized Category Discovery    
 ### NeruIPS
 [[2024](https://arxiv.org/pdf/2411.01833)] OwMatch: Conditional Self-Labeling with Consistency for Open-World Semi-Supervised Learning    
 ### ArXiv 
 [[2024](https://arxiv.org/pdf/2409.11624)]  Multimodal Generalized Category Discovery   
 [[2025](https://arxiv.org/pdf/2502.09501)] Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery  
 [[2025](https://arxiv.org/pdf/2503.16782)]Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery  
-[[2025](https://arxiv.org/pdf/2502.09501)]Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery
+[[2025](https://arxiv.org/pdf/2502.09501)]Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery 
 
 -----------------------------------------------------------------------------------------------
 # Multimodal
