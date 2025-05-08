@@ -10,6 +10,7 @@
 [[2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Targeted_Representation_Alignment_for_Open-World_Semi-Supervised_Learning_CVPR_2024_paper.pdf)] Targeted Representation Alignment for Open-World Semi-Supervised Learning   
 [[2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_Linguistic-Aware_Patch_Slimming_Framework_for_Fine-grained_Cross-Modal_Alignment_CVPR_2024_paper.pdf)] Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment   
 [[2025](https://arxiv.org/pdf/2403.09974)] Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery   
+[[2025](https://arxiv.org/abs/2503.12035)] MOS: Modeling Object-Scene Associations in Generalized Category Discovery (CVPR 2025)  
 ### NeruIPS
 [[2024](https://arxiv.org/pdf/2411.01833)] OwMatch: Conditional Self-Labeling with Consistency for Open-World Semi-Supervised Learning    
 ### ArXiv 
