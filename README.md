@@ -14,6 +14,8 @@
 [[2025 no link]()]  Less Attention is More: Prompt Transformer for Generalized Category Discovery    
 ### NeruIPS
 [[2024](https://arxiv.org/pdf/2411.01833)] OwMatch: Conditional Self-Labeling with Consistency for Open-World Semi-Supervised Learning    
+### ICLR
+[[ ICLR 2025](https://openreview.net/pdf?id=On8E0U9vbz)]GENERALIZED CATEGORY DISCOVERY UTILIZING RECIPROCAL LEARNING AND CLASS-WISE DISTRIBUTION REGULARIZATION   
 ### ArXiv 
 [[2024](https://arxiv.org/pdf/2409.11624)]  Multimodal Generalized Category Discovery   
 [[2025](https://arxiv.org/pdf/2502.09501)] Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery  
