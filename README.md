@@ -87,6 +87,21 @@ Language-driven Grasp Detection[[CVPR 2024](https://openaccess.thecvf.com/conten
 Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints [[2025](https://arxiv.org/pdf/2501.06710)]  
 
 -----------------------------------------------------------------------------------------------
+# zero few shot
+
+Laplacian Regularized Few-Shot Learning [[2021](https://proceedings.mlr.press/v119/ziko20a/ziko20a.pdf)]   
+Parameterless Transductive Feature Re-representation for Few-Shot Learning [[ICML 2021](https://proceedings.mlr.press/v139/cui21a/cui21a.pdf)]  
+Class-Aware Patch Embedding Adaptation for Few-Shot Image Classification 
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Hao_Class-Aware_Patch_Embedding_Adaptation_for_Few-Shot_Image_Classification_ICCV_2023_paper.pdf)]  
+Transductive Few-shot Learning with Prototype-based Label Propagation by Iterative Graph Refinement [[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Transductive_Few-Shot_Learning_With_Prototype-Based_Label_Propagation_by_Iterative_Graph_CVPR_2023_paper.pdf)]  
+Transductive Zero-Shot and Few-Shot CLIP [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Martin_Transductive_Zero-Shot_and_Few-Shot_CLIP_CVPR_2024_paper.pdf)]  
+Boosting Vision-Language Models with Transduction [[ 2024 ](https://arxiv.org/pdf/2406.01837)]  
+Selective Vision-Language Subspace Projection for Few-shot CLIP [[2024](https://arxiv.org/pdf/2407.16977)]  
+Interpreting and Analyzing CLIP’s Zero-Shot Image Classification via Mutual Knowledge [[2024](https://arxiv.org/pdf/2410.13016)]  
+UNEM: UNrolled Generalized EM for Transductive Few-Shot Learning [[2024](https://arxiv.org/pdf/2412.16739)]   
+[[ICML 2025]()]Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models  
+
+-----------------------------------------------------------------------------------------------
 # Visual Place Recognition
 NetVLAD: CNNarchitecture for weakly supervised place recognition [[CVPR 2016](https://openaccess.thecvf.com/content_cvpr_2016/papers/Arandjelovic_NetVLAD_CNN_Architecture_CVPR_2016_paper.pdf)]  
 Optimal Transport Aggregation for Visual Place Recognition [[CVPR 2024](https://arxiv.org/pdf/2311.15937)]  
@@ -143,19 +158,6 @@ ImageResolutionandText Label Are Important Things for Large Multi-modal Models [
 # Cross Attention
 Cross Attention Network for Few-shot Classification [[2019](https://proceedings.neurips.cc/paper_files/paper/2019/file/01894d6f048493d2cacde3c579c315a3-Paper.pdf)]  
 CAT: Cross Attention in Vision Transformer [[2021](https://arxiv.org/pdf/2106.05786)]  
-
------------------------------------------------------------------------------------------------
-# zero few shot
-Laplacian Regularized Few-Shot Learning [[2021](https://proceedings.mlr.press/v119/ziko20a/ziko20a.pdf)]   
-Parameterless Transductive Feature Re-representation for Few-Shot Learning [[ICML 2021](https://proceedings.mlr.press/v139/cui21a/cui21a.pdf)]  
-Class-Aware Patch Embedding Adaptation for Few-Shot Image Classification 
-[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Hao_Class-Aware_Patch_Embedding_Adaptation_for_Few-Shot_Image_Classification_ICCV_2023_paper.pdf)]  
-Transductive Few-shot Learning with Prototype-based Label Propagation by Iterative Graph Refinement [[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Transductive_Few-Shot_Learning_With_Prototype-Based_Label_Propagation_by_Iterative_Graph_CVPR_2023_paper.pdf)]  
-Transductive Zero-Shot and Few-Shot CLIP [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Martin_Transductive_Zero-Shot_and_Few-Shot_CLIP_CVPR_2024_paper.pdf)]
-Boosting Vision-Language Models with Transduction [[ 2024 ](https://arxiv.org/pdf/2406.01837)]  
-Selective Vision-Language Subspace Projection for Few-shot CLIP [[2024](https://arxiv.org/pdf/2407.16977)]  
-Interpreting and Analyzing CLIP’s Zero-Shot Image Classification via Mutual Knowledge [[2024](https://arxiv.org/pdf/2410.13016)]  
-UNEM: UNrolled Generalized EM for Transductive Few-Shot Learning [[2024](https://arxiv.org/pdf/2412.16739)]
 
 -----------------------------------------------------------------------------------------------
 # Model Merging
