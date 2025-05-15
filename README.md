@@ -75,8 +75,8 @@ No Pains, More Gains: Recycling Sub-Salient Patches for Efficient High-Resolutio
 -----------------------------------------------------------------------------------------------
 # Large Model Finetune
 [IETIP] Task-to-Instance Prompt Learning for Vision-Language Models at Test Time [(https://ieeexplore.ieee.org/abstract/document/10925517)]   
-[[2025-CVPR]()] -Surrogate Prompt Learning: Towards Efficient and Diverse Prompt Learning for Vision-Language Models  
-[[2025-ICML]()] From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection
+[[*2025-CVPR]()] -Surrogate Prompt Learning: Towards Efficient and Diverse Prompt Learning for Vision-Language Models  
+[[*2025-ICML]()] From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection
 
 -----------------------------------------------------------------------------------------------
 # LightWeight
