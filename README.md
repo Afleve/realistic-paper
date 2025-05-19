@@ -3,44 +3,34 @@
 
 -----------------------------------------------------------------------------------------------
 # GCD
-### I/ECCV
-[[2023](https://arxiv.org/pdf/2305.06144)] Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery    
-[[2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08177.pdf)] Learning to Distinguish Samples for Generalized Category Discovery 
-### CVPR
-[[2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Targeted_Representation_Alignment_for_Open-World_Semi-Supervised_Learning_CVPR_2024_paper.pdf)] Targeted Representation Alignment for Open-World Semi-Supervised Learning   
-[[2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_Linguistic-Aware_Patch_Slimming_Framework_for_Fine-grained_Cross-Modal_Alignment_CVPR_2024_paper.pdf)] Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment   
-[[2025](https://arxiv.org/pdf/2403.09974)] Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery   
-[[2025](https://arxiv.org/abs/2503.12035)] MOS: Modeling Object-Scene Associations in Generalized Category Discovery (CVPR 2025)  
-[[2025 no link]()]  Less Attention is More: Prompt Transformer for Generalized Category Discovery    
-### NeruIPS
-[[2024](https://arxiv.org/pdf/2411.01833)] OwMatch: Conditional Self-Labeling with Consistency for Open-World Semi-Supervised Learning    
-### ICLR
-[[ ICLR 2025](https://openreview.net/pdf?id=On8E0U9vbz)]GENERALIZED CATEGORY DISCOVERY UTILIZING RECIPROCAL LEARNING AND CLASS-WISE DISTRIBUTION REGULARIZATION   
-### ArXiv 
-[[2024](https://arxiv.org/pdf/2409.11624)]  Multimodal Generalized Category Discovery   
-[[2025](https://arxiv.org/pdf/2502.09501)] Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery  
-[[2025](https://arxiv.org/pdf/2503.16782)]Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery  
-[[2025](https://arxiv.org/pdf/2502.09501)]Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery 
+[[2023 I/ECCV](https://arxiv.org/pdf/2305.06144)] Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery    
+[[2024 I/ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08177.pdf)] Learning to Distinguish Samples for Generalized Category Discovery  
+[[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Targeted_Representation_Alignment_for_Open-World_Semi-Supervised_Learning_CVPR_2024_paper.pdf)] Targeted Representation Alignment for Open-World Semi-Supervised Learning   
+[[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_Linguistic-Aware_Patch_Slimming_Framework_for_Fine-grained_Cross-Modal_Alignment_CVPR_2024_paper.pdf)] Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment   
+[[2025 CVPR](https://arxiv.org/pdf/2403.09974)] Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery   
+[[2025 CVPR](https://arxiv.org/abs/2503.12035)] MOS: Modeling Object-Scene Associations in Generalized Category Discovery (CVPR 2025)  
+[[2025 CVPR]()]  Less Attention is More: Prompt Transformer for Generalized Category Discovery    
+[[2024 NeruIPS](https://arxiv.org/pdf/2411.01833)] OwMatch: Conditional Self-Labeling with Consistency for Open-World Semi-Supervised Learning    
+[[2025 ICLR](https://openreview.net/pdf?id=On8E0U9vbz)] GENERALIZED CATEGORY DISCOVERY UTILIZING RECIPROCAL LEARNING AND CLASS-WISE DISTRIBUTION REGULARIZATION   
+[[2024 ArXiv](https://arxiv.org/pdf/2409.11624)] Multimodal Generalized Category Discovery   
+[[2025 ArXiv](https://arxiv.org/pdf/2502.09501)] Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery  
+[[2025 ArXiv](https://arxiv.org/pdf/2503.16782)] Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery  
+[[2025 ArXiv](https://arxiv.org/pdf/2502.09501)] Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery 
 
 -----------------------------------------------------------------------------------------------
 # Multimodal
-### ArXiv 
-[[2025](https://arxiv.org/pdf/2504.12717)]Post-pre-training for Modality Alignment in Vision-Language Foundation Models
+[[2025 ArXiv](https://arxiv.org/pdf/2504.12717)] Post-pre-training for Modality Alignment in Vision-Language Foundation Models
 
 -----------------------------------------------------------------------------------------------
 # Weakly Supervised 
-### CVPR
-[[2023](http://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf)]Spatial-Aware Token for Weakly Supervised Object Localization  
+[[2023 CVPR](http://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf)]Spatial-Aware Token for Weakly Supervised Object Localization  
 
 -----------------------------------------------------------------------------------------------
 # Segmentation
-### I/ECVV
-[[2024](https://arxiv.org/abs/2312.12359)]CLIP-DINOiser: Teaching CLIP a few DINO tricks for Open-Vocabulary Semantic Segmentation  
-### NeurIPS
-[[2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/e95eb5206c867be843fbc14bbfe8c10e-Paper-Conference.pdf)]Uncovering Prototypical Knowledge for Weakly Open-Vocabulary Semantic Segmentation  
-### CVPR
-[[2022](https://arxiv.org/pdf/2202.11094)]GroupViT: Semantic Segmentation Emerges from Text Supervision  
-[[2023](https://arxiv.org/pdf/2212.00785)]Learning to Generate Text-grounded Mask for Open-world Semantic Segmentation from Only Image-Text Pairs  
+[[2024 I/ECVV](https://arxiv.org/abs/2312.12359)]CLIP-DINOiser: Teaching CLIP a few DINO tricks for Open-Vocabulary Semantic Segmentation   
+[[2023 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/e95eb5206c867be843fbc14bbfe8c10e-Paper-Conference.pdf)]Uncovering Prototypical Knowledge for Weakly Open-Vocabulary Semantic Segmentation   
+[[2022 CVPR](https://arxiv.org/pdf/2202.11094)]GroupViT: Semantic Segmentation Emerges from Text Supervision  
+[[2023 CVPR](https://arxiv.org/pdf/2212.00785)]Learning to Generate Text-grounded Mask for Open-world Semantic Segmentation from Only Image-Text Pairs  
 
 
 -----------------------------------------------------------------------------------------------
