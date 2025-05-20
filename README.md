@@ -15,7 +15,8 @@
 [[2024 ArXiv](https://arxiv.org/pdf/2409.11624)] Multimodal Generalized Category Discovery   
 [[2025 ArXiv](https://arxiv.org/pdf/2502.09501)] Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery  
 [[2025 ArXiv](https://arxiv.org/pdf/2503.16782)] Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery  
-[[2025 ArXiv](https://arxiv.org/pdf/2502.09501)] Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery 
+[[2025 ArXiv](https://arxiv.org/pdf/2502.09501)] Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery   
+[[2025 Arxiv](https://arxiv.org/pdf/2503.14500)] Utilization of Neighbor Information for Image Classification with Different Levels of Supervision
 
 -----------------------------------------------------------------------------------------------
 # Multimodal
@@ -66,6 +67,7 @@
 # Label Selection
 [[2023 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/047682108c3b053c61ad2da5a6057b4e-Paper-Conference.pdf)] Towards Free Data Selection with General-Purpose Models    
 [[2024 ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07212.pdf)] Labeled Data Selection for Category Discovery   
+[[2025 ICLR](https://arxiv.org/pdf/2406.04273)] ELFS: LABEL-FREE CORESET SELECTION WITH PROXY TRAINING DYNAMICS   
 [[2024](https://arxiv.org/pdf/2410.11215)] a clip-power framework for robust and generalizable data selection   
 [[2025](https://arxiv.org/pdf/2502.08227)] Enhancing Sample Selection by Cutting Mislabeled Easy Examples    
 [[None]()] Foundation Model insights and a Multi-model Approach for Superior Fine-grained One-shot Subset Selection  
