@@ -58,6 +58,9 @@
 
 -----------------------------------------------------------------------------------------------
 # Large Model Finetune
+[[2023 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/bf85879363044ca21f7868a3d1b4021c-Paper-Conference.pdf)] Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning  
+[[2023 NeurIPS](https://arxiv.org/pdf/2305.18287)] LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections   
+[[ICML 2024](https://arxiv.org/pdf/2406.10502)] Candidate Pseudolabel Learning 
 [IETIP] Task-to-Instance Prompt Learning for Vision-Language Models at Test Time [(https://ieeexplore.ieee.org/abstract/document/10925517)]   
 [[*2025-CVPR]()] -Surrogate Prompt Learning: Towards Efficient and Diverse Prompt Learning for Vision-Language Models  
 [[*2025-ICML]()] From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection
