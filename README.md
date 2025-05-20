@@ -1,5 +1,5 @@
 # Content
-[[LightWeight](#LightWeight)] [[Grounding](#Grounding)] [[Visual Place Recognition](#Visual-Place-Recognition)] [[Patch Selection](#Patch-Selection)] [[Medical](#Medical)] [[Action Recognition](#Action-Recognition)] [[ReID](#ReID)] [[GCD](#GCD)] [[Affective Computing](#Affective-Computing)] [[ActiveLearning](#ActiveLearning)] [[Label Selection](#Label-Selection)] [[Multimodal](#Multimodal)] [[zero & few shot](#zero-few-shot)] [[Model Merging](#Model-Merging)] [[Representation Learning](#Representation-Learning)] [[Instance Retrieval](#Instance-Retrieval)] [[Clustering](#Clustering)] [[semantic segmentation](#semantic-segmentation)] [[Optimal Transportation](#Optimal-Transportation)]
+[[GCD](#GCD)] [[Segmentation&WeaklySupervised](#Segmentation&WeaklySupervised)] [[zero & few shot](#zero-few-shot)] [[Patch Selection](#Patch-Selection)] [[Label Selection](#Label-Selection)] [[LightWeight](#LightWeight)] [[Grounding](#Grounding)] [[Visual Place Recognition](#Visual-Place-Recognition)] [[Medical](#Medical)] [[Action Recognition](#Action-Recognition)] [[ReID](#ReID)] [[Affective Computing](#Affective-Computing)] [[ActiveLearning](#ActiveLearning)] [[Multimodal](#Multimodal)] [[Model Merging](#Model-Merging)] [[Representation Learning](#Representation-Learning)] [[Instance Retrieval](#Instance-Retrieval)] [[Clustering](#Clustering)] [[Optimal Transportation](#Optimal-Transportation)]
 
 -----------------------------------------------------------------------------------------------
 # GCD
@@ -22,15 +22,12 @@
 [[2025 ArXiv](https://arxiv.org/pdf/2504.12717)] Post-pre-training for Modality Alignment in Vision-Language Foundation Models
 
 -----------------------------------------------------------------------------------------------
-# Weakly Supervised 
-[[2023 CVPR](http://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf)]Spatial-Aware Token for Weakly Supervised Object Localization  
-
------------------------------------------------------------------------------------------------
-# Segmentation
-[[2024 I/ECVV](https://arxiv.org/abs/2312.12359)]CLIP-DINOiser: Teaching CLIP a few DINO tricks for Open-Vocabulary Semantic Segmentation   
-[[2023 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/e95eb5206c867be843fbc14bbfe8c10e-Paper-Conference.pdf)]Uncovering Prototypical Knowledge for Weakly Open-Vocabulary Semantic Segmentation   
-[[2022 CVPR](https://arxiv.org/pdf/2202.11094)]GroupViT: Semantic Segmentation Emerges from Text Supervision  
-[[2023 CVPR](https://arxiv.org/pdf/2212.00785)]Learning to Generate Text-grounded Mask for Open-world Semantic Segmentation from Only Image-Text Pairs  
+# Segmentation&WeaklySupervised 
+[[2024 I/ECVV](https://arxiv.org/abs/2312.12359)] CLIP-DINOiser: Teaching CLIP a few DINO tricks for Open-Vocabulary Semantic Segmentation   
+[[2023 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/e95eb5206c867be843fbc14bbfe8c10e-Paper-Conference.pdf)] Uncovering Prototypical Knowledge for Weakly Open-Vocabulary Semantic Segmentation   
+[[2022 CVPR](https://arxiv.org/pdf/2202.11094)] GroupViT: Semantic Segmentation Emerges from Text Supervision  
+[[2023 CVPR](https://arxiv.org/pdf/2212.00785)] Learning to Generate Text-grounded Mask for Open-world Semantic Segmentation from Only Image-Text Pairs   
+[[2023 CVPR](http://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Spatial-Aware_Token_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf)] Spatial-Aware Token for Weakly Supervised Object Localization 
 
 
 -----------------------------------------------------------------------------------------------
@@ -46,7 +43,7 @@
 [[2024 ArXiv](https://arxiv.org/pdf/2412.00965)] Token Cropr: Faster ViTs for Quite a Few Tasks    
 [[2024 ArXiv](https://arxiv.org/pdf/2412.14598)] Can We Get Rid of Handcrafted Feature Extractors? SparseViT: Nonsemantics-Centered, Parameter-Efficient Image Manipulation Localization through Spare-Coding Transformer   
 [[None]()] No Pains, More Gains: Recycling Sub-Salient Patches for Efficient High-Resolution Image Recognition  
-[[None]()]Foundation Model insights and a Multi-model Approach for Superior Fine-grained One-shot Subset Selection  
+
 
 -----------------------------------------------------------------------------------------------
 # ReID
@@ -62,13 +59,35 @@
 [[2023 NeurIPS](https://arxiv.org/pdf/2305.18287)] LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections   
 [[ICML 2024](https://arxiv.org/pdf/2406.10502)] Candidate Pseudolabel Learning 
 [IETIP] Task-to-Instance Prompt Learning for Vision-Language Models at Test Time [(https://ieeexplore.ieee.org/abstract/document/10925517)]   
-[[*2025-CVPR]()] -Surrogate Prompt Learning: Towards Efficient and Diverse Prompt Learning for Vision-Language Models  
+[[*2025-CVPR]()] Surrogate Prompt Learning: Towards Efficient and Diverse Prompt Learning for Vision-Language Models  
 [[*2025-ICML]()] From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection
 
 -----------------------------------------------------------------------------------------------
+# Label Selection
+[[2023 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/047682108c3b053c61ad2da5a6057b4e-Paper-Conference.pdf)] Towards Free Data Selection with General-Purpose Models    
+[[2024 ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07212.pdf)] Labeled Data Selection for Category Discovery   
+[[2024](https://arxiv.org/pdf/2410.11215)] a clip-power framework for robust and generalizable data selection   
+[[2025](https://arxiv.org/pdf/2502.08227)] Enhancing Sample Selection by Cutting Mislabeled Easy Examples    
+[[None]()] Foundation Model insights and a Multi-model Approach for Superior Fine-grained One-shot Subset Selection  
+
+-----------------------------------------------------------------------------------------------
+# zero few shot
+
+[[2020 ICML](https://proceedings.mlr.press/v119/ziko20a/ziko20a.pdf)] Laplacian Regularized Few-Shot Learning     
+[[2021 ICML](https://proceedings.mlr.press/v139/cui21a/cui21a.pdf)] Parameterless Transductive Feature Re-representation for Few-Shot Learning   
+[[2025 ICML]()] Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models   
+[[2023_ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Hao_Class-Aware_Patch_Embedding_Adaptation_for_Few-Shot_Image_Classification_ICCV_2023_paper.pdf)] Class-Aware Patch Embedding Adaptation for Few-Shot Image Classification   
+[[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Transductive_Few-Shot_Learning_With_Prototype-Based_Label_Propagation_by_Iterative_Graph_CVPR_2023_paper.pdf)] Transductive Few-shot Learning with Prototype-based Label Propagation by Iterative Graph Refinement   
+[[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Martin_Transductive_Zero-Shot_and_Few-Shot_CLIP_CVPR_2024_paper.pdf)] Transductive Zero-Shot and Few-Shot CLIP    
+[[2024 NeurIPS](https://arxiv.org/pdf/2406.01837)] Boosting Vision-Language Models with Transduction   
+[[2024](https://arxiv.org/pdf/2407.16977)] Selective Vision-Language Subspace Projection for Few-shot CLIP    
+[[2024](https://arxiv.org/pdf/2410.13016)] Interpreting and Analyzing CLIP’s Zero-Shot Image Classification via Mutual Knowledge    
+[[2024](https://arxiv.org/pdf/2412.16739)] UNEM: UNrolled Generalized EM for Transductive Few-Shot Learning    
+
+-----------------------------------------------------------------------------------------------
 # LightWeight
-[CVPR 2022]A-ViT: Adaptive Tokens for Efficient Vision Transformer [(https://arxiv.org/pdf/2112.07658)]  
-[2025]SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference [(https://arxiv.org/pdf/2502.18137)]
+[2022 CVPR] A-ViT: Adaptive Tokens for Efficient Vision Transformer [(https://arxiv.org/pdf/2112.07658)]  
+[2025] SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference [(https://arxiv.org/pdf/2502.18137)]
 
 -----------------------------------------------------------------------------------------------
 # Grounding
@@ -76,21 +95,6 @@ Spatial-Aware Token for Weakly Supervised Object Localization [[ICCV2023](https:
 PIN:Positional Insert Unlocks Object Localisation Abilities in VLMs [[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Dorkenwald_PIN_Positional_Insert_Unlocks_Object_Localisation_Abilities_in_VLMs_CVPR_2024_paper.pdf)]  
 Language-driven Grasp Detection[[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Vuong_Language-driven_Grasp_Detection_CVPR_2024_paper.pdf)]   
 Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints [[2025](https://arxiv.org/pdf/2501.06710)]  
-
------------------------------------------------------------------------------------------------
-# zero few shot
-
-Laplacian Regularized Few-Shot Learning [[2021](https://proceedings.mlr.press/v119/ziko20a/ziko20a.pdf)]   
-Parameterless Transductive Feature Re-representation for Few-Shot Learning [[ICML 2021](https://proceedings.mlr.press/v139/cui21a/cui21a.pdf)]  
-Class-Aware Patch Embedding Adaptation for Few-Shot Image Classification 
-[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Hao_Class-Aware_Patch_Embedding_Adaptation_for_Few-Shot_Image_Classification_ICCV_2023_paper.pdf)]  
-Transductive Few-shot Learning with Prototype-based Label Propagation by Iterative Graph Refinement [[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Transductive_Few-Shot_Learning_With_Prototype-Based_Label_Propagation_by_Iterative_Graph_CVPR_2023_paper.pdf)]  
-Transductive Zero-Shot and Few-Shot CLIP [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Martin_Transductive_Zero-Shot_and_Few-Shot_CLIP_CVPR_2024_paper.pdf)]  
-Boosting Vision-Language Models with Transduction [[ 2024 ](https://arxiv.org/pdf/2406.01837)]  
-Selective Vision-Language Subspace Projection for Few-shot CLIP [[2024](https://arxiv.org/pdf/2407.16977)]  
-Interpreting and Analyzing CLIP’s Zero-Shot Image Classification via Mutual Knowledge [[2024](https://arxiv.org/pdf/2410.13016)]  
-UNEM: UNrolled Generalized EM for Transductive Few-Shot Learning [[2024](https://arxiv.org/pdf/2412.16739)]   
-[[ICML 2025]()]Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models  
 
 -----------------------------------------------------------------------------------------------
 # Visual Place Recognition
@@ -124,13 +128,6 @@ ActiveDC: Distribution Calibration for Active Finetuning [[CVPR 2024](https://ar
 Active Generalized Category Discovery [[2024 CVPR](https://arxiv.org/pdf/2403.04272)]  
 Active Prompt Learning in Vision Language Models [[2024 CVPR](https://arxiv.org/pdf/2311.11178v3)]  
 Active Prompt Learning with Vision-Language Model Priors [[2024](https://arxiv.org/pdf/2411.16722)]
-
------------------------------------------------------------------------------------------------
-# Label Selection
-Towards Free Data Selection with General-Purpose Models  [[2023 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/047682108c3b053c61ad2da5a6057b4e-Paper-Conference.pdf)]  
-Labeled Data Selection for Category Discovery [[2024 ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07212.pdf)]  
-a clip-power framework for robust and generalizable data selection [[2024](https://arxiv.org/pdf/2410.11215)]  
-Enhancing Sample Selection by Cutting Mislabeled Easy Examples [[2025](https://arxiv.org/pdf/2502.08227)]  
 
 -----------------------------------------------------------------------------------------------
 # Multimodal
