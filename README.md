@@ -16,7 +16,8 @@
 [[2025 ArXiv](https://arxiv.org/pdf/2502.09501)] Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery  
 [[2025 ArXiv](https://arxiv.org/pdf/2503.16782)] Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery  
 [[2025 ArXiv](https://arxiv.org/pdf/2502.09501)] Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery   
-[[2025 Arxiv](https://arxiv.org/pdf/2503.14500)] Utilization of Neighbor Information for Image Classification with Different Levels of Supervision
+[[2025 Arxiv](https://arxiv.org/pdf/2503.14500)] Utilization of Neighbor Information for Image Classification with Different Levels of Supervision  
+[[2025 Arixv](https://openreview.net/pdf?id=On8E0U9vbz)] GENERALIZED CATEGORY DISCOVERY UTILIZING RECIPROCAL LEARNING AND CLASS-WISE DISTRIBUTION REGULARIZATION
 
 -----------------------------------------------------------------------------------------------
 # Patch Selection
@@ -35,7 +36,7 @@
 [[None]()] No Pains, More Gains: Recycling Sub-Salient Patches for Efficient High-Resolution Image Recognition  
 
 -----------------------------------------------------------------------------------------------
-# Large Model Finetune
+# Large Model Finetune & zero/few-shot
 [[2020 ICML](https://proceedings.mlr.press/v119/ziko20a/ziko20a.pdf)] Laplacian Regularized Few-Shot Learning     
 [[2021 ICML](https://proceedings.mlr.press/v139/cui21a/cui21a.pdf)] Parameterless Transductive Feature Re-representation for Few-Shot Learning   
 [[2024 ICML](https://arxiv.org/pdf/2406.10502)] Candidate Pseudolabel Learning   
