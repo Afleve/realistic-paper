@@ -31,25 +31,24 @@
 [[2023 AJCAI](https://arxiv.org/abs/2310.05654)] IdleViT: Efficient Vision Transformer via Token Idle and Token Cut Loss    
 [[2024 ArXiv](https://arxiv.org/pdf/2412.00965)] Token Cropr: Faster ViTs for Quite a Few Tasks    
 [[2024 ArXiv](https://arxiv.org/pdf/2412.14598)] Can We Get Rid of Handcrafted Feature Extractors? SparseViT: Nonsemantics-Centered, Parameter-Efficient Image Manipulation Localization through Spare-Coding Transformer   
-[2025] SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference [(https://arxiv.org/pdf/2502.18137)]   
+[[2025](https://arxiv.org/pdf/2502.18137)] SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference     
 [[None]()] No Pains, More Gains: Recycling Sub-Salient Patches for Efficient High-Resolution Image Recognition  
 
 -----------------------------------------------------------------------------------------------
 # Large Model Finetune
-[[2023 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/bf85879363044ca21f7868a3d1b4021c-Paper-Conference.pdf)] Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning  
-[[2023 NeurIPS](https://arxiv.org/pdf/2305.18287)] LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections   
-[[ICML 2024](https://arxiv.org/pdf/2406.10502)] Candidate Pseudolabel Learning 
-[IETIP] Task-to-Instance Prompt Learning for Vision-Language Models at Test Time [(https://ieeexplore.ieee.org/abstract/document/10925517)]   
-[[*2025-CVPR]()] Surrogate Prompt Learning: Towards Efficient and Diverse Prompt Learning for Vision-Language Models  
-[[*2025-ICML]()] From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection
-
 [[2020 ICML](https://proceedings.mlr.press/v119/ziko20a/ziko20a.pdf)] Laplacian Regularized Few-Shot Learning     
 [[2021 ICML](https://proceedings.mlr.press/v139/cui21a/cui21a.pdf)] Parameterless Transductive Feature Re-representation for Few-Shot Learning   
-[[2025 ICML]()] Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models   
+[[2024 ICML](https://arxiv.org/pdf/2406.10502)] Candidate Pseudolabel Learning   
+[[*2025 ICML]()] Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models   
+[[*2025-ICML]()] From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection  
 [[2023_ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Hao_Class-Aware_Patch_Embedding_Adaptation_for_Few-Shot_Image_Classification_ICCV_2023_paper.pdf)] Class-Aware Patch Embedding Adaptation for Few-Shot Image Classification   
 [[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Transductive_Few-Shot_Learning_With_Prototype-Based_Label_Propagation_by_Iterative_Graph_CVPR_2023_paper.pdf)] Transductive Few-shot Learning with Prototype-based Label Propagation by Iterative Graph Refinement   
 [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Martin_Transductive_Zero-Shot_and_Few-Shot_CLIP_CVPR_2024_paper.pdf)] Transductive Zero-Shot and Few-Shot CLIP    
+[[*2025-CVPR]()] Surrogate Prompt Learning: Towards Efficient and Diverse Prompt Learning for Vision-Language Models   
+[[2023 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/bf85879363044ca21f7868a3d1b4021c-Paper-Conference.pdf)] Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning  
+[[2023 NeurIPS](https://arxiv.org/pdf/2305.18287)] LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections    
 [[2024 NeurIPS](https://arxiv.org/pdf/2406.01837)] Boosting Vision-Language Models with Transduction   
+[[2025 IETIP](https://ieeexplore.ieee.org/abstract/document/10925517)] Task-to-Instance Prompt Learning for Vision-Language Models at Test Time     
 [[2024](https://arxiv.org/pdf/2407.16977)] Selective Vision-Language Subspace Projection for Few-shot CLIP    
 [[2024](https://arxiv.org/pdf/2410.13016)] Interpreting and Analyzing CLIP’s Zero-Shot Image Classification via Mutual Knowledge    
 [[2024](https://arxiv.org/pdf/2412.16739)] UNEM: UNrolled Generalized EM for Transductive Few-Shot Learning     
