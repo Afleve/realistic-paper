@@ -87,3 +87,7 @@ UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models [
 DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models [[2024](https://arxiv.org/pdf/2408.08855)]  
 ImageResolutionandText Label Are Important Things for Large Multi-modal Models [[CVPR 2024 Highlight](https://arxiv.org/pdf/2311.06607)]   
 [[2025 ArXiv](https://arxiv.org/pdf/2504.12717)] Post-pre-training for Modality Alignment in Vision-Language Foundation Models
+
+-----------------------------------------------------------------------------------------------
+# Writing
+[[2025 ArXiv](https://arxiv.org/pdf/2505.02056)] Handling Imbalanced Pseudolabels for Vision-Language Models with Concept Alignment and Confusion-Aware Calibrated Margin
