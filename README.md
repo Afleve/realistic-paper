@@ -91,4 +91,5 @@ ImageResolutionandText Label Are Important Things for Large Multi-modal Models [
 
 -----------------------------------------------------------------------------------------------
 # Writing
-[[2025 ArXiv](https://arxiv.org/pdf/2505.02056)] Handling Imbalanced Pseudolabels for Vision-Language Models with Concept Alignment and Confusion-Aware Calibrated Margin
+[[2025 ArXiv](https://arxiv.org/pdf/2505.02056)] Handling Imbalanced Pseudolabels for Vision-Language Models with Concept Alignment and Confusion-Aware Calibrated Margin   
+[[CVPR 2025 Highlight](http://arxiv.org/abs/2504.03193)] Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation
