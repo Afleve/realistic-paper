@@ -72,7 +72,8 @@ Active Prompt Learning with Vision-Language Model Priors [[2024](https://arxiv.o
 [[2025 ICLR](https://arxiv.org/pdf/2406.04273)] ELFS: LABEL-FREE CORESET SELECTION WITH PROXY TRAINING DYNAMICS   
 [[2024](https://arxiv.org/pdf/2410.11215)] a clip-power framework for robust and generalizable data selection   
 [[2025](https://arxiv.org/pdf/2502.08227)] Enhancing Sample Selection by Cutting Mislabeled Easy Examples    
-[[None]()] Foundation Model insights and a Multi-model Approach for Superior Fine-grained One-shot Subset Selection  
+[[None]()] Foundation Model insights and a Multi-model Approach for Superior Fine-grained One-shot Subset Selection   
+[[2025 ArXiv](https://arxiv.org/pdf/2412.00420)] TAROT- Targeted Data Selection via Optimal Transport   
 
 -----------------------------------------------------------------------------------------------
 # Multimodal
