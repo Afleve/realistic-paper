@@ -29,7 +29,7 @@
 [[2023 ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_Less_is_More_Focus_Attention_for_Efficient_DETR_ICCV_2023_paper.pdf)] Less is More: Focus Attention for Efficient DETR   
 [[2023 AJCAI](https://arxiv.org/abs/2310.05654)] IdleViT: Efficient Vision Transformer via Token Idle and Token Cut Loss    
 [[2024 ArXiv](https://arxiv.org/pdf/2412.00965)] Token Cropr: Faster ViTs for Quite a Few Tasks    
-[[2024 ArXiv](https://arxiv.org/pdf/2412.14598)] Can We Get Rid of Handcrafted Feature Extractors? SparseViT: Nonsemantics-Centered, Parameter-Efficient Image Manipulation Localization through Spare-Coding Transformer   
+[[2024 AAAI](https://arxiv.org/pdf/2412.14598)] Can We Get Rid of Handcrafted Feature Extractors? SparseViT: Nonsemantics-Centered, Parameter-Efficient Image Manipulation Localization through Spare-Coding Transformer   
 [[2024 NeurIPS](https://openreview.net/pdf?id=pVPyCgXv57)] Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers   
 [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_Learning_to_Rank_Patches_for_Unbiased_Image_Redundancy_Reduction_CVPR_2024_paper.pdf)] Learning to Rank Patches for Unbiased Image Redundancy Reduction   
 [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_Linguistic-Aware_Patch_Slimming_Framework_for_Fine-grained_Cross-Modal_Alignment_CVPR_2024_paper.pdf)] Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment   
