@@ -33,7 +33,7 @@
 [[2024 NeurIPS](https://openreview.net/pdf?id=pVPyCgXv57)] Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers   
 [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_Learning_to_Rank_Patches_for_Unbiased_Image_Redundancy_Reduction_CVPR_2024_paper.pdf)] Learning to Rank Patches for Unbiased Image Redundancy Reduction   
 [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_Linguistic-Aware_Patch_Slimming_Framework_for_Fine-grained_Cross-Modal_Alignment_CVPR_2024_paper.pdf)] Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment   
-[[2025](https://arxiv.org/pdf/2502.18137)] SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference     
+[[2025 ICLR](https://arxiv.org/pdf/2502.18137)] SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference     
 [[*2025]()] No Pains, More Gains: Recycling Sub-Salient Patches for Efficient High-Resolution Image Recognition  
 
 -----------------------------------------------------------------------------------------------
