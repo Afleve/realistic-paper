@@ -49,6 +49,7 @@
 [[2024](https://arxiv.org/pdf/2407.16977)] Selective Vision-Language Subspace Projection for Few-shot CLIP    
 [[2024 NeurIPS](https://arxiv.org/pdf/2410.13016)] Interpreting and Analyzing CLIP’s Zero-Shot Image Classification via Mutual Knowledge    
 [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Martin_Transductive_Zero-Shot_and_Few-Shot_CLIP_CVPR_2024_paper.pdf)] Transductive Zero-Shot and Few-Shot CLIP    
+[[2024-NIPS](https://arxiv.org/pdf/2404.08461)] OTTER: Effortless Label Distribution Adaptation of Zero-shot Models   
 [[2025 IETIP](https://ieeexplore.ieee.org/abstract/document/10925517)] Task-to-Instance Prompt Learning for Vision-Language Models at Test Time     
 [[2025 CVPR](https://arxiv.org/pdf/2412.16739)] UNEM: UNrolled Generalized EM for Transductive Few-Shot Learning     
 [[*2025 CVPR]()] Surrogate Prompt Learning: Towards Efficient and Diverse Prompt Learning for Vision-Language Models   
