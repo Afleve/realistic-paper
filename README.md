@@ -59,39 +59,39 @@
 -----------------------------------------------------------------------------------------------
 # ActiveLearning
 
-Margin-Based Active Learning for Structured Output Spaces [[2006](https://link.springer.com/chapter/10.1007/11871842_40)]  
-ACTIVE LEARNING FOR CONVOLUTIONAL NEURAL NETWORKS: A CORE-SET APPROACH [[2018](https://arxiv.org/pdf/1708.00489)]  
-Learning Loss for Active Learning [[2019](https://arxiv.org/pdf/1905.03677)]  
-DEEP BATCH ACTIVE LEARNING BY DIVERSE, UNCERTAIN GRADIENT LOWER BOUNDS [[ICLR2020](https://arxiv.org/pdf/1906.03671)]  
-Active Finetuning: Exploiting Annotation Budget in the Pretraining-Finetuning Paradigm [[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_Active_Finetuning_Exploiting_Annotation_Budget_in_the_Pretraining-Finetuning_Paradigm_CVPR_2023_paper.pdf)]  
-Boundary Matters: A Bi-Level Active Finetuning Framework [[2024](https://arxiv.org/pdf/2403.10069)]  
-ActiveDC: Distribution Calibration for Active Finetuning [[CVPR 2024](https://arxiv.org/pdf/2311.07634)][[code](https://github.com/VincentXu521/ActiveDC/tree/master)]  
-Active Generalized Category Discovery [[2024 CVPR](https://arxiv.org/pdf/2403.04272)]  
-Active Prompt Learning in Vision Language Models [[2024 CVPR](https://arxiv.org/pdf/2311.11178v3)]  
-Active Prompt Learning with Vision-Language Model Priors [[2024](https://arxiv.org/pdf/2411.16722)]   
+[[2006](https://link.springer.com/chapter/10.1007/11871842_40)] Margin-Based Active Learning for Structured Output Spaces   
+[[2018](https://arxiv.org/pdf/1708.00489)] ACTIVE LEARNING FOR CONVOLUTIONAL NEURAL NETWORKS: A CORE-SET APPROACH   
+[[2019](https://arxiv.org/pdf/1905.03677)] Learning Loss for Active Learning   
+[[ICLR 2020](https://arxiv.org/pdf/1906.03671)] DEEP BATCH ACTIVE LEARNING BY DIVERSE, UNCERTAIN GRADIENT LOWER BOUNDS   
+[[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_Active_Finetuning_Exploiting_Annotation_Budget_in_the_Pretraining-Finetuning_Paradigm_CVPR_2023_paper.pdf)] Active Finetuning: Exploiting Annotation Budget in the Pretraining-Finetuning Paradigm      
 [[2023 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/047682108c3b053c61ad2da5a6057b4e-Paper-Conference.pdf)] Towards Free Data Selection with General-Purpose Models    
-[[2024 ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07212.pdf)] Labeled Data Selection for Category Discovery   
+[[2024](https://arxiv.org/pdf/2403.10069)] Boundary Matters: A Bi-Level Active Finetuning Framework   
+[[2024 CVPR](https://arxiv.org/pdf/2311.07634)][[code](https://github.com/VincentXu521/ActiveDC/tree/master)] ActiveDC: Distribution Calibration for Active Finetuning   
+[[2024 CVPR](https://arxiv.org/pdf/2403.04272)] Active Generalized Category Discovery   
+[[2024 CVPR](https://arxiv.org/pdf/2311.11178v3)] Active Prompt Learning in Vision Language Models   
+[[2024 Arxiv](https://arxiv.org/pdf/2411.16722)] Active Prompt Learning with Vision-Language Model Priors
+[[2024 ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07212.pdf)] Labeled Data Selection for Category Discovery      
+[[2024 Arxiv](https://arxiv.org/pdf/2410.11215)] a clip-power framework for robust and generalizable data selection   
 [[2025 ICLR](https://arxiv.org/pdf/2406.04273)] ELFS: LABEL-FREE CORESET SELECTION WITH PROXY TRAINING DYNAMICS   
-[[2024](https://arxiv.org/pdf/2410.11215)] a clip-power framework for robust and generalizable data selection   
-[[2025](https://arxiv.org/pdf/2502.08227)] Enhancing Sample Selection by Cutting Mislabeled Easy Examples    
-[[None]()] Foundation Model insights and a Multi-model Approach for Superior Fine-grained One-shot Subset Selection   
+[[2025 Arxiv](https://arxiv.org/pdf/2502.08227)] Enhancing Sample Selection by Cutting Mislabeled Easy Examples    
+[[*2025 ICML]()] Foundation Model insights and a Multi-model Approach for Superior Fine-grained One-shot Subset Selection   
 [[2025 ArXiv](https://arxiv.org/pdf/2412.00420)] TAROT- Targeted Data Selection via Optimal Transport   
 
 -----------------------------------------------------------------------------------------------
 # Multimodal
-Qwen-VL: AVersatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond  [[2023](https://arxiv.org/pdf/2308.12966)]  
-mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration [[2023](http://arxiv.org/abs/2311.04257)]  
-Connecting Multi-modal Contrastive Representations [[NeurIPS 2023](https://arxiv.org/pdf/2305.14381)]  
-VLM2VEC: training vision-language models for massive multimodal embedding tasks [[2024](https://arxiv.org/pdf/2410.05160)]  
-CrossMAE: Cross-Modality Masked Autoencoders for Region-Aware Audio-Visual Pre-Training [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_CrossMAE_Cross-Modality_Masked_Autoencoders_for_Region-Aware_Audio-Visual_Pre-Training_CVPR_2024_paper.pdf)]  
-Customized Multiple Clustering via Multi-Modal Subspace Proxy Learning  
-Extending Multi-modal Contrastive Representations [[NeurIPS 2024](https://arxiv.org/pdf/2310.08884)]  
-UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models [[2024](https://arxiv.org/pdf/2411.06921)]  
-DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models [[2024](https://arxiv.org/pdf/2408.08855)]  
-ImageResolutionandText Label Are Important Things for Large Multi-modal Models [[CVPR 2024 Highlight](https://arxiv.org/pdf/2311.06607)]   
-[[2025 ArXiv](https://arxiv.org/pdf/2504.12717)] Post-pre-training for Modality Alignment in Vision-Language Foundation Models
+[[2023](https://arxiv.org/pdf/2308.12966)] Qwen-VL: AVersatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond    
+[[2023](http://arxiv.org/abs/2311.04257)] mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration   
+[[2023 NeurIPS](https://arxiv.org/pdf/2305.14381)] Connecting Multi-modal Contrastive Representations   
+[[2024](https://arxiv.org/pdf/2410.05160)] VLM2VEC: training vision-language models for massive multimodal embedding tasks   
+[[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_CrossMAE_Cross-Modality_Masked_Autoencoders_for_Region-Aware_Audio-Visual_Pre-Training_CVPR_2024_paper.pdf)] CrossMAE: Cross-Modality Masked Autoencoders for Region-Aware Audio-Visual Pre-Training   
+[[2024 NeurIPS](https://arxiv.org/pdf/2411.03978?)] Customized Multiple Clustering via Multi-Modal Subspace Proxy Learning  
+[[2024 NeurIPS](https://arxiv.org/pdf/2310.08884)] Extending Multi-modal Contrastive Representations    
+[[2024](https://arxiv.org/pdf/2411.06921)] UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models   
+[[2024](https://arxiv.org/pdf/2408.08855)] DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models  
+[[2024 CVPR H](https://arxiv.org/pdf/2311.06607)] ImageResolutionandText Label Are Important Things for Large Multi-modal Models    
+[[2025 ArXiv](https://arxiv.org/pdf/2504.12717)] Post-pre-training for Modality Alignment in Vision-Language Foundation Models  
 
 -----------------------------------------------------------------------------------------------
 # Writing
 [[2025 ArXiv](https://arxiv.org/pdf/2505.02056)] Handling Imbalanced Pseudolabels for Vision-Language Models with Concept Alignment and Confusion-Aware Calibrated Margin   
-[[CVPR 2025 Highlight](http://arxiv.org/abs/2504.03193)] Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation
+[[CVPR 2025 Highlight](http://arxiv.org/abs/2504.03193)] Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation  
