@@ -40,7 +40,7 @@
 # Large Model Finetune & zero/few-shot
 [[2020 ICML](https://proceedings.mlr.press/v119/ziko20a/ziko20a.pdf)] Laplacian Regularized Few-Shot Learning     
 [[2021 ICML](https://proceedings.mlr.press/v139/cui21a/cui21a.pdf)] Parameterless Transductive Feature Re-representation for Few-Shot Learning   
-[[2023_ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Hao_Class-Aware_Patch_Embedding_Adaptation_for_Few-Shot_Image_Classification_ICCV_2023_paper.pdf)] Class-Aware Patch Embedding Adaptation for Few-Shot Image Classification   
+[[2023 ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Hao_Class-Aware_Patch_Embedding_Adaptation_for_Few-Shot_Image_Classification_ICCV_2023_paper.pdf)] Class-Aware Patch Embedding Adaptation for Few-Shot Image Classification   
 [[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Transductive_Few-Shot_Learning_With_Prototype-Based_Label_Propagation_by_Iterative_Graph_CVPR_2023_paper.pdf)] Transductive Few-shot Learning with Prototype-based Label Propagation by Iterative Graph Refinement   
 [[2023 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/bf85879363044ca21f7868a3d1b4021c-Paper-Conference.pdf)] Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning  
 [[2023 NeurIPS](https://arxiv.org/pdf/2305.18287)] LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections    
@@ -49,7 +49,7 @@
 [[2024 Arxiv](https://arxiv.org/pdf/2407.16977)] Selective Vision-Language Subspace Projection for Few-shot CLIP    
 [[2024 NeurIPS](https://arxiv.org/pdf/2410.13016)] Interpreting and Analyzing CLIP’s Zero-Shot Image Classification via Mutual Knowledge    
 [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Martin_Transductive_Zero-Shot_and_Few-Shot_CLIP_CVPR_2024_paper.pdf)] Transductive Zero-Shot and Few-Shot CLIP    
-[[2024-NIPS](https://arxiv.org/pdf/2404.08461)] OTTER: Effortless Label Distribution Adaptation of Zero-shot Models   
+[[2024 NeurIPS](https://arxiv.org/pdf/2404.08461)] OTTER: Effortless Label Distribution Adaptation of Zero-shot Models   
 [[2025 IETIP](https://ieeexplore.ieee.org/abstract/document/10925517)] Task-to-Instance Prompt Learning for Vision-Language Models at Test Time     
 [[2025 CVPR](https://arxiv.org/pdf/2412.16739)] UNEM: UNrolled Generalized EM for Transductive Few-Shot Learning     
 [[2025 CVPR](https://arxiv.org/abs/2503.23388)] COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation  
@@ -70,7 +70,7 @@
 [[2024 CVPR](https://arxiv.org/pdf/2311.07634)][[code](https://github.com/VincentXu521/ActiveDC/tree/master)] ActiveDC: Distribution Calibration for Active Finetuning   
 [[2024 CVPR](https://arxiv.org/pdf/2403.04272)] Active Generalized Category Discovery   
 [[2024 CVPR](https://arxiv.org/pdf/2311.11178v3)] Active Prompt Learning in Vision Language Models   
-[[2024 Arxiv](https://arxiv.org/pdf/2411.16722)] Active Prompt Learning with Vision-Language Model Priors
+[[2024 Arxiv](https://arxiv.org/pdf/2411.16722)] Active Prompt Learning with Vision-Language Model Priors  
 [[2024 ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07212.pdf)] Labeled Data Selection for Category Discovery      
 [[2024 Arxiv](https://arxiv.org/pdf/2410.11215)] a clip-power framework for robust and generalizable data selection   
 [[2025 ICLR](https://arxiv.org/pdf/2406.04273)] ELFS: LABEL-FREE CORESET SELECTION WITH PROXY TRAINING DYNAMICS   
