@@ -87,8 +87,8 @@
 [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_CrossMAE_Cross-Modality_Masked_Autoencoders_for_Region-Aware_Audio-Visual_Pre-Training_CVPR_2024_paper.pdf)] CrossMAE: Cross-Modality Masked Autoencoders for Region-Aware Audio-Visual Pre-Training   
 [[2024 NeurIPS](https://arxiv.org/pdf/2411.03978?)] Customized Multiple Clustering via Multi-Modal Subspace Proxy Learning  
 [[2024 NeurIPS](https://arxiv.org/pdf/2310.08884)] Extending Multi-modal Contrastive Representations    
-[[2024](https://arxiv.org/pdf/2411.06921)] UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models   
-[[2024](https://arxiv.org/pdf/2408.08855)] DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models  
+[[2024 NeurIPS](https://arxiv.org/pdf/2411.06921)] UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models   
+[[2024 WACV](https://arxiv.org/pdf/2408.08855)] DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models  
 [[2024 CVPR H](https://arxiv.org/pdf/2311.06607)] ImageResolutionandText Label Are Important Things for Large Multi-modal Models    
 [[2025 ArXiv](https://arxiv.org/pdf/2504.12717)] Post-pre-training for Modality Alignment in Vision-Language Foundation Models  
 
