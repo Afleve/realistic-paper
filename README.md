@@ -72,7 +72,7 @@
 [[2024 CVPR](https://arxiv.org/pdf/2311.11178v3)] Active Prompt Learning in Vision Language Models   
 [[2024 Arxiv](https://arxiv.org/pdf/2411.16722)] Active Prompt Learning with Vision-Language Model Priors  
 [[2024 I/ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07212.pdf)] Labeled Data Selection for Category Discovery      
-[[2024 Arxiv](https://arxiv.org/pdf/2410.11215)] a clip-power framework for robust and generalizable data selection   
+[[2025 ICLR](https://arxiv.org/pdf/2410.11215)[code](https://github.com/Jackbrocp/clip-powered-data-selection)] a clip-power framework for robust and generalizable data selection   
 [[2025 ICLR](https://arxiv.org/pdf/2406.04273)] ELFS: LABEL-FREE CORESET SELECTION WITH PROXY TRAINING DYNAMICS   
 [[2025 Arxiv](https://arxiv.org/pdf/2502.08227)] Enhancing Sample Selection by Cutting Mislabeled Easy Examples    
 [[*2025 ICML]()] Foundation Model insights and a Multi-model Approach for Superior Fine-grained One-shot Subset Selection   
