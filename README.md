@@ -52,6 +52,7 @@
 [[2024-NIPS](https://arxiv.org/pdf/2404.08461)] OTTER: Effortless Label Distribution Adaptation of Zero-shot Models   
 [[2025 IETIP](https://ieeexplore.ieee.org/abstract/document/10925517)] Task-to-Instance Prompt Learning for Vision-Language Models at Test Time     
 [[2025 CVPR](https://arxiv.org/pdf/2412.16739)] UNEM: UNrolled Generalized EM for Transductive Few-Shot Learning     
+[[2025 CVPR](https://arxiv.org/abs/2503.23388)] COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation  
 [[*2025 CVPR]()] Surrogate Prompt Learning: Towards Efficient and Diverse Prompt Learning for Vision-Language Models   
 [[*2025 ICML]()] Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models   
 [[*2025 ICML]()] From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection  
@@ -94,4 +95,5 @@
 -----------------------------------------------------------------------------------------------
 # Writing
 [[2025 ArXiv](https://arxiv.org/pdf/2505.02056)] Handling Imbalanced Pseudolabels for Vision-Language Models with Concept Alignment and Confusion-Aware Calibrated Margin   
-[[CVPR 2025 Highlight](http://arxiv.org/abs/2504.03193)] Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation  
+[[CVPR 2025 H](http://arxiv.org/abs/2504.03193)] Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation   
+[[2025 CVPR](https://arxiv.org/abs/2503.23388)] COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation  
