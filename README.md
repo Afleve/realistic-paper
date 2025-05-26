@@ -66,7 +66,7 @@
 [[ICLR 2020](https://arxiv.org/pdf/1906.03671)] DEEP BATCH ACTIVE LEARNING BY DIVERSE, UNCERTAIN GRADIENT LOWER BOUNDS   
 [[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_Active_Finetuning_Exploiting_Annotation_Budget_in_the_Pretraining-Finetuning_Paradigm_CVPR_2023_paper.pdf)] Active Finetuning: Exploiting Annotation Budget in the Pretraining-Finetuning Paradigm      
 [[2023 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/047682108c3b053c61ad2da5a6057b4e-Paper-Conference.pdf)] Towards Free Data Selection with General-Purpose Models    
-[[2024](https://arxiv.org/pdf/2403.10069)] Boundary Matters: A Bi-Level Active Finetuning Framework   
+[[2024 NeurIPS](https://github.com/Thinklab-SJTU/BiLAF)] Boundary Matters: A Bi-Level Active Finetuning Framework   
 [[2024 CVPR](https://arxiv.org/pdf/2311.07634)][[code](https://github.com/VincentXu521/ActiveDC/tree/master)] ActiveDC: Distribution Calibration for Active Finetuning   
 [[2024 CVPR](https://arxiv.org/pdf/2403.04272)] Active Generalized Category Discovery   
 [[2024 CVPR](https://arxiv.org/pdf/2311.11178v3)] Active Prompt Learning in Vision Language Models   
