@@ -4,8 +4,9 @@
 -----------------------------------------------------------------------------------------------
 # GCD
 [[2023 I/ECCV](https://arxiv.org/pdf/2305.06144)] Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery    
-[[2023 NeruIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/3f52ab4322e967efd312c38a68d07f01-Paper-Conference.pdf)]No Representation Rules Them All in Category Discovery   
+[[2023 NeruIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/3f52ab4322e967efd312c38a68d07f01-Paper-Conference.pdf)] No Representation Rules Them All in Category Discovery   
 [[2024 I/ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08177.pdf)] Learning to Distinguish Samples for Generalized Category Discovery  
+[[2024 I/ECCV](https://www.arxiv.org/abs/2408.14371)] SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery  
 [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Targeted_Representation_Alignment_for_Open-World_Semi-Supervised_Learning_CVPR_2024_paper.pdf)] Targeted Representation Alignment for Open-World Semi-Supervised Learning   
 [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_Linguistic-Aware_Patch_Slimming_Framework_for_Fine-grained_Cross-Modal_Alignment_CVPR_2024_paper.pdf)] Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment   
 [[2024 NeruIPS](https://arxiv.org/pdf/2411.01833)] OwMatch: Conditional Self-Labeling with Consistency for Open-World Semi-Supervised Learning    
