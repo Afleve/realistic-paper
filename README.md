@@ -1,5 +1,5 @@
 # Content
-[[GCD](#GCD)]  [[Patch Selection](#Patch-Selection)]  [[ActiveLearning](#ActiveLearning)] [[Multimodal](#Multimodal)] 
+[[GCD](#GCD)]  [[Patch Selection](#Patch-Selection)]  [[ActiveLearning](#ActiveLearning)] [[Multimodal](#Multimodal)] [[Model Merge](#Model-Merge)]
 
 -----------------------------------------------------------------------------------------------
 # GCD
@@ -92,6 +92,11 @@
 [[2024 WACV](https://arxiv.org/pdf/2408.08855)] DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models  
 [[2024 CVPR H](https://arxiv.org/pdf/2311.06607)] ImageResolutionandText Label Are Important Things for Large Multi-modal Models    
 [[2025 ArXiv](https://arxiv.org/pdf/2504.12717)] Post-pre-training for Modality Alignment in Vision-Language Foundation Models  
+
+-----------------------------------------------------------------------------------------------
+# Model Merge
+[[2025 CVPR H](http://arxiv.org/abs/2504.03193)] Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation   
+
 
 -----------------------------------------------------------------------------------------------
 # Writing
