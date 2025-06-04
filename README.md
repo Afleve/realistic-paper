@@ -96,6 +96,7 @@
 -----------------------------------------------------------------------------------------------
 # Model Merge
 [[2025 CVPR H](http://arxiv.org/abs/2504.03193)] Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation   
+[[2025 ArXiv](https://arxiv.org/pdf/2506.02557)] Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models  
 
 
 -----------------------------------------------------------------------------------------------
