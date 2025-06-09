@@ -19,7 +19,8 @@
 [[2025 ArXiv](https://arxiv.org/pdf/2502.09501)] Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery   
 [[2025 Arxiv](https://arxiv.org/pdf/2503.14500)] Utilization of Neighbor Information for Image Classification with Different Levels of Supervision  
 [[2025 Arixv](https://openreview.net/pdf?id=On8E0U9vbz)] GENERALIZED CATEGORY DISCOVERY UTILIZING RECIPROCAL LEARNING AND CLASS-WISE DISTRIBUTION REGULARIZATION   
-[[*2025 CVPR]()]  Less Attention is More: Prompt Transformer for Generalized Category Discovery    
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Less_Attention_is_More_Prompt_Transformer_for_Generalized_Category_Discovery_CVPR_2025_paper.pdf)] Less Attention is More: Prompt Transformer for Generalized Category Discovery    
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Hyperbolic_Category_Discovery_CVPR_2025_paper.pdf)] Hyperbolic Category Discovery  
 
 -----------------------------------------------------------------------------------------------
 # Patch Selection
@@ -41,6 +42,7 @@
 # Large Model Finetune & zero/few-shot
 [[2020 ICML](https://proceedings.mlr.press/v119/ziko20a/ziko20a.pdf)] Laplacian Regularized Few-Shot Learning     
 [[2021 ICML](https://proceedings.mlr.press/v139/cui21a/cui21a.pdf)] Parameterless Transductive Feature Re-representation for Few-Shot Learning   
+[[2022 CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_EASE_Unsupervised_Discriminant_Subspace_Learning_for_Transductive_Few-Shot_Learning_CVPR_2022_paper.pdf)] EASE: Unsupervised Discriminant Subspace Learning for Transductive Few-Shot Learning  
 [[2023 I/ECCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Hao_Class-Aware_Patch_Embedding_Adaptation_for_Few-Shot_Image_Classification_ICCV_2023_paper.pdf)] Class-Aware Patch Embedding Adaptation for Few-Shot Image Classification   
 [[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Transductive_Few-Shot_Learning_With_Prototype-Based_Label_Propagation_by_Iterative_Graph_CVPR_2023_paper.pdf)] Transductive Few-shot Learning with Prototype-based Label Propagation by Iterative Graph Refinement   
 [[2023 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/bf85879363044ca21f7868a3d1b4021c-Paper-Conference.pdf)] Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning  
@@ -49,14 +51,21 @@
 [[2024 NeurIPS](https://arxiv.org/pdf/2406.01837)] Boosting Vision-Language Models with Transduction   
 [[2024 Arxiv](https://arxiv.org/pdf/2407.16977)] Selective Vision-Language Subspace Projection for Few-shot CLIP    
 [[2024 NeurIPS](https://arxiv.org/pdf/2410.13016)] Interpreting and Analyzing CLIP’s Zero-Shot Image Classification via Mutual Knowledge    
+[[2024 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2024/file/6af08ba9468f0daca4b8dd388cb95824-Paper-Conference.pdf)] Vision-Language Models are Strong Noisy Label Detectors  
 [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Martin_Transductive_Zero-Shot_and_Few-Shot_CLIP_CVPR_2024_paper.pdf)] Transductive Zero-Shot and Few-Shot CLIP    
 [[2024 NeurIPS](https://arxiv.org/pdf/2404.08461)] OTTER: Effortless Label Distribution Adaptation of Zero-shot Models   
 [[2025 IETIP](https://ieeexplore.ieee.org/abstract/document/10925517)] Task-to-Instance Prompt Learning for Vision-Language Models at Test Time     
 [[2025 CVPR](https://arxiv.org/pdf/2412.16739)] UNEM: UNrolled Generalized EM for Transductive Few-Shot Learning     
 [[2025 CVPR](https://arxiv.org/abs/2503.23388)] COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation  
+[[2025 CVPR](https://arxiv.org/pdf/2504.12104)] Logits DeConfusion with CLIP for Few-Shot Learning  
+[[2025 CVPR](https://arxiv.org/pdf/2501.11175 )] ProKeR: A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models  
+[[2025 CVPR](https://arxiv.org/pdf/2505.24693)] Conformal Prediction for Vision-Language Models  
+[[2025 Arxiv](https://arxiv.org/pdf/2411.19346)] CLIP meets DINO for Tuning Zero-Shot Classifier using Unlabeled Image Collections   
+[[2025 Arxiv](https://arxiv.org/pdf/2506.04005)] Vocabulary-free few-shot learning for Vision-Language Models  
 [[*2025 CVPR]()] Surrogate Prompt Learning: Towards Efficient and Diverse Prompt Learning for Vision-Language Models   
 [[*2025 ICML]()] Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models   
 [[*2025 ICML]()] From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection  
+
 
 -----------------------------------------------------------------------------------------------
 # ActiveLearning
@@ -86,21 +95,29 @@
 [[2023 NeurIPS](https://arxiv.org/pdf/2305.14381)] Connecting Multi-modal Contrastive Representations   
 [[2024](https://arxiv.org/pdf/2410.05160)] VLM2VEC: training vision-language models for massive multimodal embedding tasks   
 [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Guo_CrossMAE_Cross-Modality_Masked_Autoencoders_for_Region-Aware_Audio-Visual_Pre-Training_CVPR_2024_paper.pdf)] CrossMAE: Cross-Modality Masked Autoencoders for Region-Aware Audio-Visual Pre-Training   
+[[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Tong_Eyes_Wide_Shut_Exploring_the_Visual_Shortcomings_of_Multimodal_LLMs_CVPR_2024_paper.pdf)]  Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs   
 [[2024 NeurIPS](https://arxiv.org/pdf/2411.03978?)] Customized Multiple Clustering via Multi-Modal Subspace Proxy Learning  
 [[2024 NeurIPS](https://arxiv.org/pdf/2310.08884)] Extending Multi-modal Contrastive Representations    
 [[2024 NeurIPS](https://arxiv.org/pdf/2411.06921)] UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models   
 [[2024 WACV](https://arxiv.org/pdf/2408.08855)] DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models  
 [[2024 CVPR H](https://arxiv.org/pdf/2311.06607)] ImageResolutionandText Label Are Important Things for Large Multi-modal Models    
-[[2025 ArXiv](https://arxiv.org/pdf/2504.12717)] Post-pre-training for Modality Alignment in Vision-Language Foundation Models  
+[[2025 ArXiv](https://arxiv.org/pdf/2504.12717)] Post-pre-training for Modality Alignment in Vision-Language Foundation Models   
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_DH-Set_Improving_Vision-Language_Alignment_with_Diverse_and_Hybrid_Set-Embeddings_Learning_CVPR_2025_paper.pdf)] DH-Set: Improving Vision-Language Alignment with Diverse and Hybrid Set-Embeddings Learning
 
 -----------------------------------------------------------------------------------------------
 # Model Merge
 [[2025 CVPR H](http://arxiv.org/abs/2504.03193)] Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation   
 [[2025 ArXiv](https://arxiv.org/pdf/2506.02557)] Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models  
 
+-----------------------------------------------------------------------------------------------
+# Classification & Semantic Segmentation
+[[2023 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/619cbddb92b8c6fecaf2b86463153be9-Paper-Conference.pdf)] Vocabulary-free Image Classification  
+[[2024 Arxiv](https://arxiv.org/pdf/2404.10864)] Vocabulary-free Image Classification and Semantic Segmentation   
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Interpretable_Image_Classification_via_Non-parametric_Part_Prototype_Learning_CVPR_2025_paper.pdf)] Interpretable Image Classification via Non-parametric Part Prototype Learning
 
 -----------------------------------------------------------------------------------------------
 # Writing
+[[2025 Arxiv](https://arxiv.org/pdf/2411.19346)] CLIP meets DINO for Tuning Zero-Shot Classifier using Unlabeled Image Collections  
 [[2025 ArXiv](https://arxiv.org/pdf/2505.02056)] Handling Imbalanced Pseudolabels for Vision-Language Models with Concept Alignment and Confusion-Aware Calibrated Margin   
 [[2025 CVPR H](http://arxiv.org/abs/2504.03193)] Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation   
 [[2025 CVPR](https://arxiv.org/abs/2503.23388)] COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation  
