@@ -36,14 +36,16 @@
 [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_Learning_to_Rank_Patches_for_Unbiased_Image_Redundancy_Reduction_CVPR_2024_paper.pdf)] Learning to Rank Patches for Unbiased Image Redundancy Reduction   
 [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_Linguistic-Aware_Patch_Slimming_Framework_for_Fine-grained_Cross-Modal_Alignment_CVPR_2024_paper.pdf)] Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment   
 [[2025 ICLR](https://arxiv.org/pdf/2502.18137)] SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference     
-[[*2025]()] No Pains, More Gains: Recycling Sub-Salient Patches for Efficient High-Resolution Image Recognition  
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Qin_No_Pains_More_Gains_Recycling_Sub-Salient_Patches_for_Efficient_High-Resolution_CVPR_2025_paper.pdf)] No Pains, More Gains: Recycling Sub-Salient Patches for Efficient High-Resolution Image Recognition  
 
 -----------------------------------------------------------------------------------------------
 # Large Model Finetune & zero/few-shot
 [[2020 ICML](https://proceedings.mlr.press/v119/ziko20a/ziko20a.pdf)] Laplacian Regularized Few-Shot Learning     
 [[2021 ICML](https://proceedings.mlr.press/v139/cui21a/cui21a.pdf)] Parameterless Transductive Feature Re-representation for Few-Shot Learning   
+[[2021 I/ECCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Lazarou_Iterative_Label_Cleaning_for_Transductive_and_Semi-Supervised_Few-Shot_Learning_ICCV_2021_paper.pdf)] Iterative label cleaning for transductive and semi-supervised few-shot learning  
 [[2022 CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_EASE_Unsupervised_Discriminant_Subspace_Learning_for_Transductive_Few-Shot_Learning_CVPR_2022_paper.pdf)] EASE: Unsupervised Discriminant Subspace Learning for Transductive Few-Shot Learning  
 [[2023 I/ECCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Hao_Class-Aware_Patch_Embedding_Adaptation_for_Few-Shot_Image_Classification_ICCV_2023_paper.pdf)] Class-Aware Patch Embedding Adaptation for Few-Shot Image Classification   
+[[2023 I/ECCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Tian_Prototypes-oriented_Transductive_Few-shot_Learning_with_Conditional_Transport_ICCV_2023_paper.pdf)] Prototypes-oriented Transductive Few-shot Learning with Conditional Transport   
 [[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Transductive_Few-Shot_Learning_With_Prototype-Based_Label_Propagation_by_Iterative_Graph_CVPR_2023_paper.pdf)] Transductive Few-shot Learning with Prototype-based Label Propagation by Iterative Graph Refinement   
 [[2023 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/bf85879363044ca21f7868a3d1b4021c-Paper-Conference.pdf)] Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning  
 [[2023 NeurIPS](https://arxiv.org/pdf/2305.18287)] LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections    
@@ -60,16 +62,19 @@
 [[2025 CVPR](https://arxiv.org/pdf/2504.12104)] Logits DeConfusion with CLIP for Few-Shot Learning  
 [[2025 CVPR](https://arxiv.org/pdf/2501.11175 )] ProKeR: A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models  
 [[2025 CVPR](https://arxiv.org/pdf/2505.24693)] Conformal Prediction for Vision-Language Models  
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Zanella_Realistic_Test-Time_Adaptation_of_Vision-Language_Models_CVPR_2025_paper.pdf)] Realistic Test-Time Adaptation of Vision-Language Models   
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Silva-Rodriguez_Conformal_Prediction_for_Zero-Shot_Models_CVPR_2025_paper.pdf)] Conformal Prediction for Zero-Shot Models  
 [[2025 Arxiv](https://arxiv.org/pdf/2411.19346)] CLIP meets DINO for Tuning Zero-Shot Classifier using Unlabeled Image Collections   
 [[2025 Arxiv](https://arxiv.org/pdf/2506.04005)] Vocabulary-free few-shot learning for Vision-Language Models  
 [[*2025 CVPR]()] Surrogate Prompt Learning: Towards Efficient and Diverse Prompt Learning for Vision-Language Models   
-[[*2025 ICML]()] Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models   
-[[*2025 ICML]()] From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection  
+[[2025 ICML](https://arxiv.org/pdf/2506.02557)] Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models   
+[[2025 ICML](https://arxiv.org/pdf/2505.13233?)] From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection   
+[[2025 ICML](https://openreview.net/pdf?id=tra8ktyk0E)] Dynamic Similarity Graph Construction with Kernel Density Estimation   
+
 
 
 -----------------------------------------------------------------------------------------------
 # ActiveLearning
-
 [[2006](https://link.springer.com/chapter/10.1007/11871842_40)] Margin-Based Active Learning for Structured Output Spaces   
 [[2018](https://arxiv.org/pdf/1708.00489)] ACTIVE LEARNING FOR CONVOLUTIONAL NEURAL NETWORKS: A CORE-SET APPROACH   
 [[2019](https://arxiv.org/pdf/1905.03677)] Learning Loss for Active Learning   
@@ -87,6 +92,7 @@
 [[2025 Arxiv](https://arxiv.org/pdf/2502.08227)] Enhancing Sample Selection by Cutting Mislabeled Easy Examples    
 [[*2025 ICML]()] Foundation Model insights and a Multi-model Approach for Superior Fine-grained One-shot Subset Selection   
 [[2025 ArXiv](https://arxiv.org/pdf/2412.00420)] TAROT- Targeted Data Selection via Optimal Transport   
+[[*2025 ICML]()]The Best of Both Worlds: Bridging Quality and Diversity in Data Selection with Bipartite Graph
 
 -----------------------------------------------------------------------------------------------
 # Multimodal
@@ -109,6 +115,11 @@
 [[2025 CVPR H](http://arxiv.org/abs/2504.03193)] Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation   
 [[2025 ArXiv](https://arxiv.org/pdf/2506.02557)] Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models  
 [[2025 Arxiv](https://arxiv.org/pdf/2411.19346)] CLIP meets DINO for Tuning Zero-Shot Classifier using Unlabeled Image Collections  
+
+-----------------------------------------------------------------------------------------------
+# Optimal Transmission
+[[2021 ICANN](https://arxiv.org/pdf/2006.03806)] Leveraging the Feature Distribution in Transfer-based Few-Shot Learning  
+[[2025 ArXiv](https://arxiv.org/pdf/2412.00420)] TAROT- Targeted Data Selection via Optimal Transport   
 
 -----------------------------------------------------------------------------------------------
 # Classification & Semantic Segmentation
