@@ -51,11 +51,13 @@
 [[2023 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/bf85879363044ca21f7868a3d1b4021c-Paper-Conference.pdf)] Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning  
 [[2023 NeurIPS](https://arxiv.org/pdf/2305.18287)] LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections    
 [[2024 ICML](https://arxiv.org/pdf/2406.10502)] Candidate Pseudolabel Learning   
-[[ICML 2024](https://arxiv.org/pdf/2405.11756)] Erasing the Bias: Fine-Tuning Foundation Models for Semi-Supervised Learning   
+[[2024 ICML](https://arxiv.org/pdf/2405.11756)] Erasing the Bias: Fine-Tuning Foundation Models for Semi-Supervised Learning   
 [[2024 NeurIPS](https://arxiv.org/pdf/2406.01837)] Boosting Vision-Language Models with Transduction   
 [[2024 Arxiv](https://arxiv.org/pdf/2407.16977)] Selective Vision-Language Subspace Projection for Few-shot CLIP    
 [[2024 NeurIPS](https://arxiv.org/pdf/2410.13016)] Interpreting and Analyzing CLIP’s Zero-Shot Image Classification via Mutual Knowledge    
 [[2024 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2024/file/6af08ba9468f0daca4b8dd388cb95824-Paper-Conference.pdf)] Vision-Language Models are Strong Noisy Label Detectors  
+[[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_Improved_Self-Training_for_Test-Time_Adaptation_CVPR_2024_paper.pdf)] Improved Self-Training for Test-Time Adaptation  
+[[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Zanella_On_the_Test-Time_Zero-Shot_Generalization_of_Vision-Language_Models_Do_We_CVPR_2024_paper.pdf)] On the test-time zero-shot generalization of vision-language models: Do wereally need prompt learning?   
 [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Martin_Transductive_Zero-Shot_and_Few-Shot_CLIP_CVPR_2024_paper.pdf)] Transductive Zero-Shot and Few-Shot CLIP    
 [[2024 NeurIPS](https://arxiv.org/pdf/2404.08461)] OTTER: Effortless Label Distribution Adaptation of Zero-shot Models   
 [[2025 IETIP](https://ieeexplore.ieee.org/abstract/document/10925517)] Task-to-Instance Prompt Learning for Vision-Language Models at Test Time     
@@ -71,7 +73,8 @@
 [[*2025 CVPR]()] Surrogate Prompt Learning: Towards Efficient and Diverse Prompt Learning for Vision-Language Models   
 [[2025 ICML](https://arxiv.org/pdf/2506.02557)] Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models   
 [[2025 ICML](https://arxiv.org/pdf/2505.13233?)] From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection   
-[[2025 ICML](https://openreview.net/pdf?id=tra8ktyk0E)] Dynamic Similarity Graph Construction with Kernel Density Estimation   
+[[2025 ICML](https://openreview.net/pdf?id=tra8ktyk0E)] Dynamic Similarity Graph Construction with Kernel Density Estimation    
+
 
 
 
@@ -114,9 +117,12 @@
 
 -----------------------------------------------------------------------------------------------
 # Model Merge
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_DeCLIP_Decoupled_Learning_for_Open-Vocabulary_Dense_Perception_CVPR_2025_paper.pdf)] DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception   
 [[2025 CVPR H](http://arxiv.org/abs/2504.03193)] Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation   
 [[2025 ArXiv](https://arxiv.org/pdf/2506.02557)] Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models  
-[[2025 Arxiv](https://arxiv.org/pdf/2411.19346)] CLIP meets DINO for Tuning Zero-Shot Classifier using Unlabeled Image Collections  
+[[2025 Arxiv](https://arxiv.org/pdf/2411.19346)] CLIP meets DINO for Tuning Zero-Shot Classifier using Unlabeled Image Collections    
+[[2025 Arxiv](https://arxiv.org/pdf/2506.16506)] Subspace-Boosted Model Merging   
+
 
 -----------------------------------------------------------------------------------------------
 # Optimal Transmission
