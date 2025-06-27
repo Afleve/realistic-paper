@@ -20,7 +20,8 @@
 [[2025 Arxiv](https://arxiv.org/pdf/2503.14500)] Utilization of Neighbor Information for Image Classification with Different Levels of Supervision  
 [[2025 Arixv](https://openreview.net/pdf?id=On8E0U9vbz)] GENERALIZED CATEGORY DISCOVERY UTILIZING RECIPROCAL LEARNING AND CLASS-WISE DISTRIBUTION REGULARIZATION   
 [[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Less_Attention_is_More_Prompt_Transformer_for_Generalized_Category_Discovery_CVPR_2025_paper.pdf)] Less Attention is More: Prompt Transformer for Generalized Category Discovery    
-[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Hyperbolic_Category_Discovery_CVPR_2025_paper.pdf)] Hyperbolic Category Discovery  
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Hyperbolic_Category_Discovery_CVPR_2025_paper.pdf)] Hyperbolic Category Discovery   
+[[2025 Arixv](https://arxiv.org/pdf/2506.17232)] PCaM: A Progressive Focus Attention-Based Information Fusion Method for Improving Vision Transformer Domain Adaptation
 
 -----------------------------------------------------------------------------------------------
 # Patch Selection
@@ -127,6 +128,9 @@
 [[2023 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/619cbddb92b8c6fecaf2b86463153be9-Paper-Conference.pdf)] Vocabulary-free Image Classification  
 [[2024 Arxiv](https://arxiv.org/pdf/2404.10864)] Vocabulary-free Image Classification and Semantic Segmentation   
 [[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Interpretable_Image_Classification_via_Non-parametric_Part_Prototype_Learning_CVPR_2025_paper.pdf)] Interpretable Image Classification via Non-parametric Part Prototype Learning
+
+# mul-model 
+[[2025 ArXiv](https://arxiv.org/pdf/2506.18504)]  Generalizing Vision-Language Models to Novel Domains: A Comprehensive Survey   
 
 -----------------------------------------------------------------------------------------------
 # Writing
