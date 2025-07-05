@@ -36,8 +36,11 @@
 [[2024 NeurIPS](https://openreview.net/pdf?id=pVPyCgXv57)] Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers   
 [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_Learning_to_Rank_Patches_for_Unbiased_Image_Redundancy_Reduction_CVPR_2024_paper.pdf)] Learning to Rank Patches for Unbiased Image Redundancy Reduction   
 [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_Linguistic-Aware_Patch_Slimming_Framework_for_Fine-grained_Cross-Modal_Alignment_CVPR_2024_paper.pdf)] Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment   
-[[2025 ICLR](https://arxiv.org/pdf/2502.18137)] SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference     
-[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Qin_No_Pains_More_Gains_Recycling_Sub-Salient_Patches_for_Efficient_High-Resolution_CVPR_2025_paper.pdf)] No Pains, More Gains: Recycling Sub-Salient Patches for Efficient High-Resolution Image Recognition  
+[[2025 ICLR](https://arxiv.org/pdf/2502.18137)] SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference      
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Qin_No_Pains_More_Gains_Recycling_Sub-Salient_Patches_for_Efficient_High-Resolution_CVPR_2025_paper.pdf)] No Pains, More Gains: Recycling Sub-Salient Patches for Efficient High-Resolution Image Recognition   
+[[2025 Arxiv](https://arxiv.org/pdf/2410.14729)] Is Less More? Exploring Token Condensation as Training-free Test-time Adaptation    
+[[2025 Arxiv]([https://arxiv.org/pdf/2410.14729](https://arxiv.org/pdf/2503.21817))] Skip-Vision: Efficient and Scalable Acceleration of Vision-Language Models via
+ Adaptive Token Skipping   
 
 -----------------------------------------------------------------------------------------------
 # Large Model Finetune & zero/few-shot
@@ -60,6 +63,8 @@
 [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Zanella_On_the_Test-Time_Zero-Shot_Generalization_of_Vision-Language_Models_Do_We_CVPR_2024_paper.pdf)] On the test-time zero-shot generalization of vision-language models: Do wereally need prompt learning?   
 [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Martin_Transductive_Zero-Shot_and_Few-Shot_CLIP_CVPR_2024_paper.pdf)] Transductive Zero-Shot and Few-Shot CLIP    
 [[2024 NeurIPS](https://arxiv.org/pdf/2404.08461)] OTTER: Effortless Label Distribution Adaptation of Zero-shot Models   
+[[2024 NeurIPS](https://arxiv.org/pdf/2405.18330)] Frustratingly Easy Test-Time Adaptation of Vision-Language Models  
+[[2024 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2024/file/38b787fc530d0b31825827e2cc306656-Paper-Conference.pdf)] Dual Prototype Evolving for Test-Time Generalization of Vision-Language Models  
 [[2025 IETIP](https://ieeexplore.ieee.org/abstract/document/10925517)] Task-to-Instance Prompt Learning for Vision-Language Models at Test Time     
 [[2025 CVPR](https://arxiv.org/pdf/2412.16739)] UNEM: UNrolled Generalized EM for Transductive Few-Shot Learning     
 [[2025 CVPR](https://arxiv.org/abs/2503.23388)] COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation  
@@ -74,9 +79,11 @@
 [[2025 ICML](https://arxiv.org/pdf/2506.02557)] Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models   
 [[2025 ICML](https://arxiv.org/pdf/2505.13233?)] From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection   
 [[2025 ICML](https://openreview.net/pdf?id=tra8ktyk0E)] Dynamic Similarity Graph Construction with Kernel Density Estimation    
-
-
-
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Enhancing_Few-Shot_Class-Incremental_Learning_via_Training-Free_Bi-Level_Modality_Calibration_CVPR_2025_paper.pdf)] Enhancing Few-Shot Class-Incremental Learning via Training-Free Bi-Level Modality Calibration   
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_SEC-PromptSEmantic_Complementary_Prompting_for_Few-Shot_Class-Incremental_Learning_CVPR_2025_paper.pdf)] SEC-Prompt:SEmantic Complementary Prompting for Few-Shot Class-Incremental Learning   
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_ImagineFSL_Self-Supervised_Pretraining_Matters_on_Imagined_Base_Set_for_VLM-based_CVPR_2025_paper.pdf)] ImagineFSL: Self-Supervised Pretraining Matters on Imagined Base Set for VLM-based Few-shot Learning  
+[[2025 ICLR](https://arxiv.org/pdf/2412.18303)] EFFICIENT AND CONTEXT-AWARE LABEL PROPAGA TION FOR ZERO-/FEW-SHOT TRAINING-FREE ADAP TATION OF VISION-LANGUAGE MODEL
+[[2025 Arxiv](https://arxiv.org/pdf/2505.23745)] To Trust Or Not To Trust Your Vision-Language Model’s Prediction   
 
 -----------------------------------------------------------------------------------------------
 # ActiveLearning
@@ -113,7 +120,8 @@
 [[2024 WACV](https://arxiv.org/pdf/2408.08855)] DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models  
 [[2024 CVPR H](https://arxiv.org/pdf/2311.06607)] ImageResolutionandText Label Are Important Things for Large Multi-modal Models    
 [[2025 ArXiv](https://arxiv.org/pdf/2504.12717)] Post-pre-training for Modality Alignment in Vision-Language Foundation Models   
-[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_DH-Set_Improving_Vision-Language_Alignment_with_Diverse_and_Hybrid_Set-Embeddings_Learning_CVPR_2025_paper.pdf)] DH-Set: Improving Vision-Language Alignment with Diverse and Hybrid Set-Embeddings Learning
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_DH-Set_Improving_Vision-Language_Alignment_with_Diverse_and_Hybrid_Set-Embeddings_Learning_CVPR_2025_paper.pdf)] DH-Set: Improving Vision-Language Alignment with Diverse and Hybrid Set-Embeddings Learning    
+[[2025 ICCV](https://arxiv.org/abs/2503.08497)] MMRL: Multi-Modal Representation Learning for Vision-Language Models
 
 -----------------------------------------------------------------------------------------------
 # Model Merge
