@@ -65,6 +65,7 @@
 [[2024 NeurIPS](https://arxiv.org/pdf/2404.08461)] OTTER: Effortless Label Distribution Adaptation of Zero-shot Models   
 [[2024 NeurIPS](https://arxiv.org/pdf/2405.18330)] Frustratingly Easy Test-Time Adaptation of Vision-Language Models  
 [[2024 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2024/file/38b787fc530d0b31825827e2cc306656-Paper-Conference.pdf)] Dual Prototype Evolving for Test-Time Generalization of Vision-Language Models  
+[[2024 Arxiv](https://arxiv.org/pdf/2403.13805.pdf)] RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition   
 [[2025 IETIP](https://ieeexplore.ieee.org/abstract/document/10925517)] Task-to-Instance Prompt Learning for Vision-Language Models at Test Time     
 [[2025 CVPR](https://arxiv.org/pdf/2412.16739)] UNEM: UNrolled Generalized EM for Transductive Few-Shot Learning     
 [[2025 CVPR](https://arxiv.org/abs/2503.23388)] COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation  
