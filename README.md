@@ -40,7 +40,8 @@
 [[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Qin_No_Pains_More_Gains_Recycling_Sub-Salient_Patches_for_Efficient_High-Resolution_CVPR_2025_paper.pdf)] No Pains, More Gains: Recycling Sub-Salient Patches for Efficient High-Resolution Image Recognition   
 [[2025 Arxiv](https://arxiv.org/pdf/2410.14729)] Is Less More? Exploring Token Condensation as Training-free Test-time Adaptation    
 [[2025 Arxiv]([https://arxiv.org/pdf/2410.14729](https://arxiv.org/pdf/2503.21817))] Skip-Vision: Efficient and Scalable Acceleration of Vision-Language Models via
- Adaptive Token Skipping   
+ Adaptive Token Skipping    
+[[2025 Arxiv](https://arxiv.org/pdf/2405.13337?)] Semantic Equitable Clustering: A Simple and Effective Strategy for Clustering Vision Tokens  
 
 -----------------------------------------------------------------------------------------------
 # Large Model Finetune & zero/few-shot
