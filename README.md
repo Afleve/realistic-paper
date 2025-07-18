@@ -86,6 +86,7 @@
 [[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_ImagineFSL_Self-Supervised_Pretraining_Matters_on_Imagined_Base_Set_for_VLM-based_CVPR_2025_paper.pdf)] ImagineFSL: Self-Supervised Pretraining Matters on Imagined Base Set for VLM-based Few-shot Learning  
 [[2025 ICLR](https://arxiv.org/pdf/2412.18303)] EFFICIENT AND CONTEXT-AWARE LABEL PROPAGA TION FOR ZERO-/FEW-SHOT TRAINING-FREE ADAP TATION OF VISION-LANGUAGE MODEL   
 [[2025 Arxiv](https://arxiv.org/pdf/2505.23745)] To Trust Or Not To Trust Your Vision-Language Model’s Prediction   
+[[2025 *]] Hierarchical Divide-and-Conquer Grouping for Classification Adaptation of Pre-Trained Models  
 
 -----------------------------------------------------------------------------------------------
 # ActiveLearning
@@ -145,6 +146,9 @@
 [[2024 Arxiv](https://arxiv.org/pdf/2404.10864)] Vocabulary-free Image Classification and Semantic Segmentation   
 [[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Interpretable_Image_Classification_via_Non-parametric_Part_Prototype_Learning_CVPR_2025_paper.pdf)] Interpretable Image Classification via Non-parametric Part Prototype Learning
 
+# 3D point cloud
+[[2025 Arxiv](https://arxiv.org/pdf/2506.22375)] Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation  
+
 # mul-model 
 [[2025 ArXiv](https://arxiv.org/pdf/2506.18504)]  Generalizing Vision-Language Models to Novel Domains: A Comprehensive Survey   
 
@@ -154,3 +158,10 @@
 [[2025 ArXiv](https://arxiv.org/pdf/2505.02056)] Handling Imbalanced Pseudolabels for Vision-Language Models with Concept Alignment and Confusion-Aware Calibrated Margin   
 [[2025 CVPR H](http://arxiv.org/abs/2504.03193)] Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation   
 [[2025 CVPR](https://arxiv.org/abs/2503.23388)] COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation  
+
+# Waiting 
+PRISM: Reducing Spurious Implicit Biases in Vision-Language Models with LLM-Guided Embedding Projection  
+Enhancing Few-Shot Vision-Language Classification with Large Multimodal Model Features    
+Target Bias Is All You Need: Zero-Shot Debiasing of Vision-Language Models with Bias Corpus  
+Dynamic Multimodal Prototype Learning in Vision-Language Models   
+Hierarchical Divide-and-Conquer Grouping for Classification Adaptation of Pre-Trained Models  
