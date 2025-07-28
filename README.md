@@ -38,6 +38,7 @@
 [[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_Linguistic-Aware_Patch_Slimming_Framework_for_Fine-grained_Cross-Modal_Alignment_CVPR_2024_paper.pdf)] Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment   
 [[2025 ICLR](https://arxiv.org/pdf/2502.18137)] SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference      
 [[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Qin_No_Pains_More_Gains_Recycling_Sub-Salient_Patches_for_Efficient_High-Resolution_CVPR_2025_paper.pdf)] No Pains, More Gains: Recycling Sub-Salient Patches for Efficient High-Resolution Image Recognition   
+[[2025 ICCV](https://iccv.thecvf.com/virtual/2025/poster/2161)] METEOR: Multi-Encoder Collaborative Token Pruning for Efficient Vision Language Models  
 [[2025 Arxiv](https://arxiv.org/pdf/2410.14729)] Is Less More? Exploring Token Condensation as Training-free Test-time Adaptation    
 [[2025 Arxiv]([https://arxiv.org/pdf/2410.14729](https://arxiv.org/pdf/2503.21817))] Skip-Vision: Efficient and Scalable Acceleration of Vision-Language Models via
  Adaptive Token Skipping    
@@ -83,7 +84,8 @@
 [[2025 ICML](https://openreview.net/pdf?id=tra8ktyk0E)] Dynamic Similarity Graph Construction with Kernel Density Estimation    
 [[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Enhancing_Few-Shot_Class-Incremental_Learning_via_Training-Free_Bi-Level_Modality_Calibration_CVPR_2025_paper.pdf)] Enhancing Few-Shot Class-Incremental Learning via Training-Free Bi-Level Modality Calibration   
 [[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_SEC-PromptSEmantic_Complementary_Prompting_for_Few-Shot_Class-Incremental_Learning_CVPR_2025_paper.pdf)] SEC-Prompt:SEmantic Complementary Prompting for Few-Shot Class-Incremental Learning   
-[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_ImagineFSL_Self-Supervised_Pretraining_Matters_on_Imagined_Base_Set_for_VLM-based_CVPR_2025_paper.pdf)] ImagineFSL: Self-Supervised Pretraining Matters on Imagined Base Set for VLM-based Few-shot Learning  
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_ImagineFSL_Self-Supervised_Pretraining_Matters_on_Imagined_Base_Set_for_VLM-based_CVPR_2025_paper.pdf)] ImagineFSL: Self-Supervised Pretraining Matters on Imagined Base Set for VLM-based Few-shot Learning   
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Nandam_Text_Augmented_Correlation_Transformer_For_Few-shot_Classification__Segmentation_CVPR_2025_paper.pdf)]  Text Augmented Correlation Transformer For Few-shot Classification & Segmentation  
 [[2025 ICLR](https://arxiv.org/pdf/2412.18303)] EFFICIENT AND CONTEXT-AWARE LABEL PROPAGA TION FOR ZERO-/FEW-SHOT TRAINING-FREE ADAP TATION OF VISION-LANGUAGE MODEL   
 [[2025 Arxiv](https://arxiv.org/pdf/2505.23745)] To Trust Or Not To Trust Your Vision-Language Model’s Prediction   
 [[2025 *]] Hierarchical Divide-and-Conquer Grouping for Classification Adaptation of Pre-Trained Models  
@@ -107,7 +109,8 @@
 [[2025 Arxiv](https://arxiv.org/pdf/2502.08227)] Enhancing Sample Selection by Cutting Mislabeled Easy Examples    
 [[*2025 ICML]()] Foundation Model insights and a Multi-model Approach for Superior Fine-grained One-shot Subset Selection   
 [[2025 ArXiv](https://arxiv.org/pdf/2412.00420)] TAROT- Targeted Data Selection via Optimal Transport   
-[[*2025 ICML]()]The Best of Both Worlds: Bridging Quality and Diversity in Data Selection with Bipartite Graph
+[[*2025 ICML]()]The Best of Both Worlds: Bridging Quality and Diversity in Data Selection with Bipartite Graph   
+[[*2025]()] To Label or Not to Label: PALM – A Predictive Model for Evaluating Sample Efficiency in Active Learning Models
 
 -----------------------------------------------------------------------------------------------
 # Multimodal
@@ -138,7 +141,8 @@
 -----------------------------------------------------------------------------------------------
 # Optimal Transmission
 [[2021 ICANN](https://arxiv.org/pdf/2006.03806)] Leveraging the Feature Distribution in Transfer-based Few-Shot Learning  
-[[2025 ArXiv](https://arxiv.org/pdf/2412.00420)] TAROT- Targeted Data Selection via Optimal Transport   
+[[2025 ArXiv](https://arxiv.org/pdf/2412.00420)] TAROT- Targeted Data Selection via Optimal Transport  
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Tan_Recover_and_Match_Open-Vocabulary_Multi-Label_Recognition_through_Knowledge-Constrained_Optimal_Transport_CVPR_2025_paper.pdf)] Recover and Match: Open-Vocabulary Multi-Label Recognition through Knowledge-Constrained Optimal Transport  
 
 -----------------------------------------------------------------------------------------------
 # Classification & Semantic Segmentation
@@ -146,11 +150,18 @@
 [[2024 Arxiv](https://arxiv.org/pdf/2404.10864)] Vocabulary-free Image Classification and Semantic Segmentation   
 [[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Interpretable_Image_Classification_via_Non-parametric_Part_Prototype_Learning_CVPR_2025_paper.pdf)] Interpretable Image Classification via Non-parametric Part Prototype Learning
 
+----------------------------------------------------------------------------------------------
 # 3D point cloud
 [[2025 Arxiv](https://arxiv.org/pdf/2506.22375)] Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation  
 
+----------------------------------------------------------------------------------------------
 # mul-model 
 [[2025 ArXiv](https://arxiv.org/pdf/2506.18504)]  Generalizing Vision-Language Models to Novel Domains: A Comprehensive Survey   
+
+----------------------------------------------------------------------------------------------
+# Multiple Instance Learning
+[[2025 Arxiv](https://arxiv.org/pdf/2507.08711)] SGPMIL: Sparse Gaussian Process Multiple Instance Learning   
+
 
 -----------------------------------------------------------------------------------------------
 # Writing
