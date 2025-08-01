@@ -1,5 +1,5 @@
 # Content
-[[Optimal Transmission](#Optimal-Transmission) [GCD](#GCD)]  [[Patch Selection](#Patch-Selection)]  [[ActiveLearning](#ActiveLearning)] [[Multimodal](#Multimodal)] [[Model Merge](#Model-Merge)]
+[[Optimal Transmission](#Optimal-Transmission)] [[GCD](#GCD)]  [[Patch Selection](#Patch-Selection)]  [[ActiveLearning](#ActiveLearning)] [[Multimodal](#Multimodal)] [[Model Merge](#Model-Merge)]
 
 # Optimal Transmission
 [[2021 CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Montesuma_Wasserstein_Barycenter_for_Multi-Source_Domain_Adaptation_CVPR_2021_paper.pdf)] Wasserstein Barycenter for Multi-Source Domain Adaptation  
