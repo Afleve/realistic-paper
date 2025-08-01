@@ -140,9 +140,11 @@
 
 -----------------------------------------------------------------------------------------------
 # Optimal Transmission
+[[2021 CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Montesuma_Wasserstein_Barycenter_for_Multi-Source_Domain_Adaptation_CVPR_2021_paper.pdf)] Wasserstein Barycenter for Multi-Source Domain Adaptation  
 [[2021 ICANN](https://arxiv.org/pdf/2006.03806)] Leveraging the Feature Distribution in Transfer-based Few-Shot Learning  
 [[2025 ArXiv](https://arxiv.org/pdf/2412.00420)] TAROT- Targeted Data Selection via Optimal Transport  
-[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Tan_Recover_and_Match_Open-Vocabulary_Multi-Label_Recognition_through_Knowledge-Constrained_Optimal_Transport_CVPR_2025_paper.pdf)] Recover and Match: Open-Vocabulary Multi-Label Recognition through Knowledge-Constrained Optimal Transport  
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Tan_Recover_and_Match_Open-Vocabulary_Multi-Label_Recognition_through_Knowledge-Constrained_Optimal_Transport_CVPR_2025_paper.pdf)] Recover and Match: Open-Vocabulary Multi-Label Recognition through Knowledge-Constrained Optimal Transport    
+[[2025 ICCV](https://arxiv.org/pdf/2506.23822)] Interpretable Zero-Shot Learning with Locally-Aligned Vision-Language Model
 
 -----------------------------------------------------------------------------------------------
 # Classification & Semantic Segmentation
