@@ -8,7 +8,6 @@
 [[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Tan_Recover_and_Match_Open-Vocabulary_Multi-Label_Recognition_through_Knowledge-Constrained_Optimal_Transport_CVPR_2025_paper.pdf)] Recover and Match: Open-Vocabulary Multi-Label Recognition through Knowledge-Constrained Optimal Transport    
 [[2025 ICCV](https://arxiv.org/pdf/2506.23822)] Interpretable Zero-Shot Learning with Locally-Aligned Vision-Language Model
 
------------------------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------------------
 # GCD
