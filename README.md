@@ -9,27 +9,6 @@
 [[2025 ICCV](https://arxiv.org/pdf/2506.23822)] Interpretable Zero-Shot Learning with Locally-Aligned Vision-Language Model
 
 
------------------------------------------------------------------------------------------------
-# GCD
-[[2023 I/ECCV](https://arxiv.org/pdf/2305.06144)] Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery    
-[[2023 NeruIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/3f52ab4322e967efd312c38a68d07f01-Paper-Conference.pdf)] No Representation Rules Them All in Category Discovery   
-[[2024 I/ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08177.pdf)] Learning to Distinguish Samples for Generalized Category Discovery  
-[[2024 I/ECCV](https://www.arxiv.org/abs/2408.14371)] SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery  
-[[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Targeted_Representation_Alignment_for_Open-World_Semi-Supervised_Learning_CVPR_2024_paper.pdf)] Targeted Representation Alignment for Open-World Semi-Supervised Learning   
-[[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_Linguistic-Aware_Patch_Slimming_Framework_for_Fine-grained_Cross-Modal_Alignment_CVPR_2024_paper.pdf)] Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment   
-[[2024 NeruIPS](https://arxiv.org/pdf/2411.01833)] OwMatch: Conditional Self-Labeling with Consistency for Open-World Semi-Supervised Learning    
-[[2025 ICLR](https://openreview.net/pdf?id=On8E0U9vbz)] GENERALIZED CATEGORY DISCOVERY UTILIZING RECIPROCAL LEARNING AND CLASS-WISE DISTRIBUTION REGULARIZATION   
-[[2024 ArXiv](https://arxiv.org/pdf/2409.11624)] Multimodal Generalized Category Discovery   
-[[2025 CVPR](https://arxiv.org/pdf/2403.09974)] Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery   
-[[2025 CVPR](https://arxiv.org/abs/2503.12035)] MOS: Modeling Object-Scene Associations in Generalized Category Discovery (CVPR 2025)  
-[[2025 ArXiv](https://arxiv.org/pdf/2502.09501)] Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery  
-[[2025 ArXiv](https://arxiv.org/pdf/2503.16782)] Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery  
-[[2025 ArXiv](https://arxiv.org/pdf/2502.09501)] Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery   
-[[2025 Arxiv](https://arxiv.org/pdf/2503.14500)] Utilization of Neighbor Information for Image Classification with Different Levels of Supervision  
-[[2025 Arixv](https://openreview.net/pdf?id=On8E0U9vbz)] GENERALIZED CATEGORY DISCOVERY UTILIZING RECIPROCAL LEARNING AND CLASS-WISE DISTRIBUTION REGULARIZATION   
-[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Less_Attention_is_More_Prompt_Transformer_for_Generalized_Category_Discovery_CVPR_2025_paper.pdf)] Less Attention is More: Prompt Transformer for Generalized Category Discovery    
-[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Hyperbolic_Category_Discovery_CVPR_2025_paper.pdf)] Hyperbolic Category Discovery   
-[[2025 Arixv](https://arxiv.org/pdf/2506.17232)] PCaM: A Progressive Focus Attention-Based Information Fusion Method for Improving Vision Transformer Domain Adaptation
 
 -----------------------------------------------------------------------------------------------
 # Patch Selection
@@ -179,3 +158,26 @@ Enhancing Few-Shot Vision-Language Classification with Large Multimodal Model Fe
 Target Bias Is All You Need: Zero-Shot Debiasing of Vision-Language Models with Bias Corpus  
 Dynamic Multimodal Prototype Learning in Vision-Language Models   
 Hierarchical Divide-and-Conquer Grouping for Classification Adaptation of Pre-Trained Models  
+
+
+-----------------------------------------------------------------------------------------------
+# GCD
+[[2023 I/ECCV](https://arxiv.org/pdf/2305.06144)] Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery    
+[[2023 NeruIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/3f52ab4322e967efd312c38a68d07f01-Paper-Conference.pdf)] No Representation Rules Them All in Category Discovery   
+[[2024 I/ECCV](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08177.pdf)] Learning to Distinguish Samples for Generalized Category Discovery  
+[[2024 I/ECCV](https://www.arxiv.org/abs/2408.14371)] SelEx: Self-Expertise in Fine-Grained Generalized Category Discovery  
+[[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Targeted_Representation_Alignment_for_Open-World_Semi-Supervised_Learning_CVPR_2024_paper.pdf)] Targeted Representation Alignment for Open-World Semi-Supervised Learning   
+[[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Fu_Linguistic-Aware_Patch_Slimming_Framework_for_Fine-grained_Cross-Modal_Alignment_CVPR_2024_paper.pdf)] Linguistic-Aware Patch Slimming Framework for Fine-grained Cross-Modal Alignment   
+[[2024 NeruIPS](https://arxiv.org/pdf/2411.01833)] OwMatch: Conditional Self-Labeling with Consistency for Open-World Semi-Supervised Learning    
+[[2025 ICLR](https://openreview.net/pdf?id=On8E0U9vbz)] GENERALIZED CATEGORY DISCOVERY UTILIZING RECIPROCAL LEARNING AND CLASS-WISE DISTRIBUTION REGULARIZATION   
+[[2024 ArXiv](https://arxiv.org/pdf/2409.11624)] Multimodal Generalized Category Discovery   
+[[2025 CVPR](https://arxiv.org/pdf/2403.09974)] Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery   
+[[2025 CVPR](https://arxiv.org/abs/2503.12035)] MOS: Modeling Object-Scene Associations in Generalized Category Discovery (CVPR 2025)  
+[[2025 ArXiv](https://arxiv.org/pdf/2502.09501)] Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery  
+[[2025 ArXiv](https://arxiv.org/pdf/2503.16782)] Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery  
+[[2025 ArXiv](https://arxiv.org/pdf/2502.09501)] Prior-Constrained Association Learning for Fine-Grained Generalized Category Discovery   
+[[2025 Arxiv](https://arxiv.org/pdf/2503.14500)] Utilization of Neighbor Information for Image Classification with Different Levels of Supervision  
+[[2025 Arixv](https://openreview.net/pdf?id=On8E0U9vbz)] GENERALIZED CATEGORY DISCOVERY UTILIZING RECIPROCAL LEARNING AND CLASS-WISE DISTRIBUTION REGULARIZATION   
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Less_Attention_is_More_Prompt_Transformer_for_Generalized_Category_Discovery_CVPR_2025_paper.pdf)] Less Attention is More: Prompt Transformer for Generalized Category Discovery    
+[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Hyperbolic_Category_Discovery_CVPR_2025_paper.pdf)] Hyperbolic Category Discovery   
+[[2025 Arixv](https://arxiv.org/pdf/2506.17232)] PCaM: A Progressive Focus Attention-Based Information Fusion Method for Improving Vision Transformer Domain Adaptation
