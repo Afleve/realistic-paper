@@ -1,9 +1,13 @@
 # Content
 [[Optimal Transmission](#Optimal-Transmission)] [[GCD](#GCD)]  [[Patch Selection](#Patch-Selection)]  [[ActiveLearning](#ActiveLearning)] [[Multimodal](#Multimodal)] [[Model Merge](#Model-Merge)]
 
+# Remote Sensing Image
+[[2025 ICASSP](https://arxiv.org/pdf/2409.00698?)] Enhancing Remote Sensing Vision-Language Models for Zero-Shot Scene Classification   
+
 # Optimal Transmission
 [[2021 CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Montesuma_Wasserstein_Barycenter_for_Multi-Source_Domain_Adaptation_CVPR_2021_paper.pdf)] Wasserstein Barycenter for Multi-Source Domain Adaptation  
 [[2021 ICANN](https://arxiv.org/pdf/2006.03806)] Leveraging the Feature Distribution in Transfer-based Few-Shot Learning  
+[[2024 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2024/file/2d4eaf042567f1c03c086103cc154c1f-Paper-Conference.pdf)] AWT:Transferring Vision-Language Models via Augmentation, Weighting, and Transportation   
 [[2025 ArXiv](https://arxiv.org/pdf/2412.00420)] TAROT- Targeted Data Selection via Optimal Transport  
 [[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Tan_Recover_and_Match_Open-Vocabulary_Multi-Label_Recognition_through_Knowledge-Constrained_Optimal_Transport_CVPR_2025_paper.pdf)] Recover and Match: Open-Vocabulary Multi-Label Recognition through Knowledge-Constrained Optimal Transport    
 [[2025 ICCV](https://arxiv.org/pdf/2506.23822)] Interpretable Zero-Shot Learning with Locally-Aligned Vision-Language Model
@@ -39,11 +43,13 @@
 [[2022 CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_EASE_Unsupervised_Discriminant_Subspace_Learning_for_Transductive_Few-Shot_Learning_CVPR_2022_paper.pdf)] EASE: Unsupervised Discriminant Subspace Learning for Transductive Few-Shot Learning  
 [[2023 I/ECCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Hao_Class-Aware_Patch_Embedding_Adaptation_for_Few-Shot_Image_Classification_ICCV_2023_paper.pdf)] Class-Aware Patch Embedding Adaptation for Few-Shot Image Classification   
 [[2023 I/ECCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Tian_Prototypes-oriented_Transductive_Few-shot_Learning_with_Conditional_Transport_ICCV_2023_paper.pdf)] Prototypes-oriented Transductive Few-shot Learning with Conditional Transport   
+[[2023 I/ECCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Ouali_Black_Box_Few-Shot_Adaptation_for_Vision-Language_Models_ICCV_2023_paper.pdf)] Black Box Few-Shot Adaptation for Vision-Language models    
 [[2023 CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Transductive_Few-Shot_Learning_With_Prototype-Based_Label_Propagation_by_Iterative_Graph_CVPR_2023_paper.pdf)] Transductive Few-shot Learning with Prototype-based Label Propagation by Iterative Graph Refinement   
 [[2023 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/file/bf85879363044ca21f7868a3d1b4021c-Paper-Conference.pdf)] Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning  
 [[2023 NeurIPS](https://arxiv.org/pdf/2305.18287)] LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections    
 [[2024 ICML](https://arxiv.org/pdf/2406.10502)] Candidate Pseudolabel Learning   
 [[2024 ICML](https://arxiv.org/pdf/2405.11756)] Erasing the Bias: Fine-Tuning Foundation Models for Semi-Supervised Learning   
+[[2024 ICML](https://arxiv.org/pdf/2402.04050)] Connecting the Dots: Collaborative Fine-tuning for Black-Box Vision-Language Models  
 [[2024 NeurIPS](https://arxiv.org/pdf/2406.01837)] Boosting Vision-Language Models with Transduction   
 [[2024 Arxiv](https://arxiv.org/pdf/2407.16977)] Selective Vision-Language Subspace Projection for Few-shot CLIP    
 [[2024 NeurIPS](https://arxiv.org/pdf/2410.13016)] Interpreting and Analyzing CLIP’s Zero-Shot Image Classification via Mutual Knowledge    
@@ -69,13 +75,16 @@
 [[2025 ICML](https://arxiv.org/pdf/2506.02557)] Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models   
 [[2025 ICML](https://arxiv.org/pdf/2505.13233?)] From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection   
 [[2025 ICML](https://openreview.net/pdf?id=tra8ktyk0E)] Dynamic Similarity Graph Construction with Kernel Density Estimation    
+[[2025 AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/32534/34689)] Text and Image Are Mutually Benefcial: Enhancing Training-Free Few-Shot Classifcation with CLIP  
 [[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Enhancing_Few-Shot_Class-Incremental_Learning_via_Training-Free_Bi-Level_Modality_Calibration_CVPR_2025_paper.pdf)] Enhancing Few-Shot Class-Incremental Learning via Training-Free Bi-Level Modality Calibration   
 [[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_SEC-PromptSEmantic_Complementary_Prompting_for_Few-Shot_Class-Incremental_Learning_CVPR_2025_paper.pdf)] SEC-Prompt:SEmantic Complementary Prompting for Few-Shot Class-Incremental Learning   
 [[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_ImagineFSL_Self-Supervised_Pretraining_Matters_on_Imagined_Base_Set_for_VLM-based_CVPR_2025_paper.pdf)] ImagineFSL: Self-Supervised Pretraining Matters on Imagined Base Set for VLM-based Few-shot Learning   
 [[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Nandam_Text_Augmented_Correlation_Transformer_For_Few-shot_Classification__Segmentation_CVPR_2025_paper.pdf)]  Text Augmented Correlation Transformer For Few-shot Classification & Segmentation  
 [[2025 ICLR](https://arxiv.org/pdf/2412.18303)] EFFICIENT AND CONTEXT-AWARE LABEL PROPAGA TION FOR ZERO-/FEW-SHOT TRAINING-FREE ADAP TATION OF VISION-LANGUAGE MODEL   
+[[2025 ICCV](https://arxiv.org/pdf/2507.20834?)] Rethinking Few Shot CLIP Benchmarks: A Critical Analysis in the Inductive Setting   
 [[2025 Arxiv](https://arxiv.org/pdf/2505.23745)] To Trust Or Not To Trust Your Vision-Language Model’s Prediction   
 [[2025 *]] Hierarchical Divide-and-Conquer Grouping for Classification Adaptation of Pre-Trained Models  
+
 
 -----------------------------------------------------------------------------------------------
 # ActiveLearning
@@ -122,7 +131,8 @@
 [[2025 CVPR H](http://arxiv.org/abs/2504.03193)] Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation   
 [[2025 ArXiv](https://arxiv.org/pdf/2506.02557)] Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models  
 [[2025 Arxiv](https://arxiv.org/pdf/2411.19346)] CLIP meets DINO for Tuning Zero-Shot Classifier using Unlabeled Image Collections    
-[[2025 Arxiv](https://arxiv.org/pdf/2506.16506)] Subspace-Boosted Model Merging   
+[[2025 Arxiv](https://arxiv.org/pdf/2506.16506)] Subspace-Boosted Model Merging    
+[[2025 ICML](https://arxiv.org/pdf/2506.06231?)] Towards an Explainable Comparison and Alignment of Feature Embeddings
 
 
 -----------------------------------------------------------------------------------------------
@@ -143,7 +153,6 @@
 ----------------------------------------------------------------------------------------------
 # Multiple Instance Learning
 [[2025 Arxiv](https://arxiv.org/pdf/2507.08711)] SGPMIL: Sparse Gaussian Process Multiple Instance Learning   
-
 
 -----------------------------------------------------------------------------------------------
 # Writing
