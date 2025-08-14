@@ -12,8 +12,6 @@
 [[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Tan_Recover_and_Match_Open-Vocabulary_Multi-Label_Recognition_through_Knowledge-Constrained_Optimal_Transport_CVPR_2025_paper.pdf)] Recover and Match: Open-Vocabulary Multi-Label Recognition through Knowledge-Constrained Optimal Transport    
 [[2025 ICCV](https://arxiv.org/pdf/2506.23822)] Interpretable Zero-Shot Learning with Locally-Aligned Vision-Language Model
 
-
-
 -----------------------------------------------------------------------------------------------
 # Patch Selection
 [[2021 CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Cordonnier_Differentiable_Patch_Selection_for_Image_Recognition_CVPR_2021_paper.pdf)] Differentiable Patch Selection for Image Recognition   
@@ -83,6 +81,7 @@
 [[2025 ICLR](https://arxiv.org/pdf/2412.18303)] EFFICIENT AND CONTEXT-AWARE LABEL PROPAGA TION FOR ZERO-/FEW-SHOT TRAINING-FREE ADAP TATION OF VISION-LANGUAGE MODEL   
 [[2025 ICCV](https://arxiv.org/pdf/2507.20834?)] Rethinking Few Shot CLIP Benchmarks: A Critical Analysis in the Inductive Setting   
 [[2025 Arxiv](https://arxiv.org/pdf/2505.23745)] To Trust Or Not To Trust Your Vision-Language Model’s Prediction   
+[[2025 Arxiv](https://arxiv.org/pdf/2508.03102)] Causal Disentanglement and Cross-Modal Alignment for Enhanced Few-Shot Learning  
 [[2025 *]] Hierarchical Divide-and-Conquer Grouping for Classification Adaptation of Pre-Trained Models  
 
 
