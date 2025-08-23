@@ -3,6 +3,7 @@
 
 # Remote Sensing Image
 [[2025 ICASSP](https://arxiv.org/pdf/2409.00698?)] Enhancing Remote Sensing Vision-Language Models for Zero-Shot Scene Classification   
+[[2025 ICCV](https://arxiv.org/pdf/2507.12857)] SCORE:Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation  
 
 # Optimal Transmission
 [[2021 CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Montesuma_Wasserstein_Barycenter_for_Multi-Source_Domain_Adaptation_CVPR_2021_paper.pdf)] Wasserstein Barycenter for Multi-Source Domain Adaptation  
