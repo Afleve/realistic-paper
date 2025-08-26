@@ -4,6 +4,13 @@
 # Remote Sensing Image
 [[2025 ICASSP](https://arxiv.org/pdf/2409.00698?)] Enhancing Remote Sensing Vision-Language Models for Zero-Shot Scene Classification   
 [[2025 ICCV](https://arxiv.org/pdf/2507.12857)] SCORE:Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation  
+[[2025 ICCV]()] LLM-Assisted Semantic Guidance for Sparsely Annotated Remote Sensing Object Detection  
+[[2025 ICCV]()] OpenRSD: Towards Open-prompts for Object Detection in Remote Sensing Images   
+[[2025 ICCV]()] Active Learning Meets Foundation Models: Fast Remote Sensing Data Annotation for Object Detection   
+[[2025 ICCV](https://arxiv.org/pdf/2503.06683)] Dynamic Dictionary Learning for Remote Sensing Image Segmentation   
+[[2025 ICCV](https://arxiv.org/abs/2507.12857)] SCORE:Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation   
+
+
 
 # Optimal Transmission
 [[2021 CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Montesuma_Wasserstein_Barycenter_for_Multi-Source_Domain_Adaptation_CVPR_2021_paper.pdf)] Wasserstein Barycenter for Multi-Source Domain Adaptation  
