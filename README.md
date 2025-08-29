@@ -72,9 +72,8 @@
 [[2025 CVPR](https://arxiv.org/abs/2503.23388)] COSMIC: Clique-Oriented Semantic Multi-space Integration for Robust CLIP Test-Time Adaptation  
 [[2025 CVPR](https://arxiv.org/pdf/2504.12104)] Logits DeConfusion with CLIP for Few-Shot Learning  
 [[2025 CVPR](https://arxiv.org/pdf/2501.11175 )] ProKeR: A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models  
-[[2025 CVPR](https://arxiv.org/pdf/2505.24693)] Conformal Prediction for Vision-Language Models  
 [[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Zanella_Realistic_Test-Time_Adaptation_of_Vision-Language_Models_CVPR_2025_paper.pdf)] Realistic Test-Time Adaptation of Vision-Language Models   
-[[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Silva-Rodriguez_Conformal_Prediction_for_Zero-Shot_Models_CVPR_2025_paper.pdf)] Conformal Prediction for Zero-Shot Models  
+[[2025 CVPR](https://arxiv.org/pdf/2505.24693)] Conformal Prediction for Zero-Shot Models  
 [[2025 Arxiv](https://arxiv.org/pdf/2411.19346)] CLIP meets DINO for Tuning Zero-Shot Classifier using Unlabeled Image Collections   
 [[2025 Arxiv](https://arxiv.org/pdf/2506.04005)] Vocabulary-free few-shot learning for Vision-Language Models  
 [[*2025 CVPR]()] Surrogate Prompt Learning: Towards Efficient and Diverse Prompt Learning for Vision-Language Models   
