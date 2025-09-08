@@ -2,19 +2,15 @@
 [[Optimal Transmission](#Optimal-Transmission)] [[GCD](#GCD)]  [[Patch Selection](#Patch-Selection)]  [[ActiveLearning](#ActiveLearning)] [[Multimodal](#Multimodal)] [[Model Merge](#Model-Merge)]
 
 # Remote Sensing Image
-[[2025 ICASSP](https://arxiv.org/pdf/2409.00698?)] Enhancing Remote Sensing Vision-Language Models for Zero-Shot Scene Classification   
-[[2025 ICCV](https://arxiv.org/pdf/2507.12857)] SCORE:Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation  
 [[2025 ICCV]()] LLM-Assisted Semantic Guidance for Sparsely Annotated Remote Sensing Object Detection  
 [[2025 ICCV]()] OpenRSD: Towards Open-prompts for Object Detection in Remote Sensing Images   
 [[2025 ICCV]()] Active Learning Meets Foundation Models: Fast Remote Sensing Data Annotation for Object Detection   
 [[2025 ICCV](https://arxiv.org/pdf/2503.06683)] Dynamic Dictionary Learning for Remote Sensing Image Segmentation   
-[[2025 ICCV](https://arxiv.org/abs/2507.12857)] SCORE:Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation   
 [[2025 Arxiv](https://arxiv.org/pdf/2505.15818)] InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition  
 [[2025 GIScience & Remote Sensing](https://www.tandfonline.com/doi/pdf/10.1080/15481603.2025.2543102)] Toward unsupervised building extraction from very high-resolution remote sensing images using SAM and CLIP  
 [[2025 arXiv](https://arXiv.org/abs/2501.12931)] DynamicEarth: How Far are We from Open-Vocabulary Change Detection?  
 [[2025 TGRS](https://ieeexplore.ieee.org/document/11063320)] A Unified Framework With Multimodal Fine-Tuning for Remote Sensing Semantic Segmentation  
 [[2025 ICASSP](https://arXiv.org/abs/2409.00698)] Enhancing Remote Sensing Vision-Language Models for Zero-Shot Scene Classification  
-[[2025 ICCV](https://arXiv.org/pdf/2503.06683)] Dynamic Dictionary Learning for Remote Sensing Image Segmentation  
 [[2025 ICCV](https://arxiv.org/pdf/2411.19325)] GEOBench-VLM: Benchmarking Vision-Language Models for Geospatial Tasks  
 [[2025 ICCV](https://arXiv.org/abs/2507.12857)] SCORE: Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation  
 [[2025 ICCV](https://arXiv.org/pdf/2503.07588)] When Large Vision-Language Model Meets Large Remote Sensing Imagery: Coarse-to-Fine Text-Guided Token Pruning  
@@ -25,7 +21,6 @@
 [[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Exact_Exploring_Space-Time_Perceptive_Clues_for_Weakly_Supervised_Satellite_Image_CVPR_2025_paper.pdf)] Exact: Exploring Space-Time Perceptive Clues for Weakly Supervised Satellite Image Time Series Semantic Segmentation  
 [[2025 Arxiv](https://arxiv.org/abs/2508.18067)] SegEarth-OV-2: Annotation-Free Open-Vocabulary Segmentation for Remote-Sensing Images  
 [[2025 AAAI](https://arxiv.org/abs/2412.19492)] Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation  
-[[2025 Arxiv](https://arxiv.org/pdf/2505.15818)] InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition   
 
 
 
