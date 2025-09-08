@@ -68,6 +68,7 @@
 [[2024 ICML](https://arxiv.org/pdf/2406.10502)] Candidate Pseudolabel Learning   
 [[2024 ICML](https://arxiv.org/pdf/2405.11756)] Erasing the Bias: Fine-Tuning Foundation Models for Semi-Supervised Learning   
 [[2024 ICML](https://arxiv.org/pdf/2402.04050)] Connecting the Dots: Collaborative Fine-tuning for Black-Box Vision-Language Models  
+[[2024 ICML](https://arxiv.org/pdf/2402.04087)] A Hard-to-Beat Baseline for Training-free CLIP-Based Adaptation   
 [[2024 NeurIPS](https://arxiv.org/pdf/2406.01837)] Boosting Vision-Language Models with Transduction   
 [[2024 Arxiv](https://arxiv.org/pdf/2407.16977)] Selective Vision-Language Subspace Projection for Few-shot CLIP    
 [[2024 NeurIPS](https://arxiv.org/pdf/2410.13016)] Interpreting and Analyzing CLIP’s Zero-Shot Image Classification via Mutual Knowledge    
