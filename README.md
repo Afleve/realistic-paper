@@ -9,7 +9,8 @@
 [[2025 ICCV]()] Active Learning Meets Foundation Models: Fast Remote Sensing Data Annotation for Object Detection   
 [[2025 ICCV](https://arxiv.org/pdf/2503.06683)] Dynamic Dictionary Learning for Remote Sensing Image Segmentation   
 [[2025 ICCV](https://arxiv.org/abs/2507.12857)] SCORE:Scene Context Matters in Open-Vocabulary Remote Sensing Instance Segmentation   
-
+[[2025 Arxiv](https://arxiv.org/pdf/2505.15818)] InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition  
+[[2025 GIScience & Remote Sensing](https://www.tandfonline.com/doi/pdf/10.1080/15481603.2025.2543102)] Toward unsupervised building extraction from very high-resolution remote sensing images using SAM and CLIP  
 
 
 # Optimal Transmission
