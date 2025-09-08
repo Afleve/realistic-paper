@@ -16,9 +16,9 @@
 [[2025 ICCV](https://arXiv.org/pdf/2503.07588)] When Large Vision-Language Model Meets Large Remote Sensing Imagery: Coarse-to-Fine Text-Guided Token Pruning  
 [[2025 AAAI](https://arXiv.org/abs/2412.12798)] ZoRI: Towards discriminative zero-shot remote sensing instance segmentation  
 [[2024 NIPS](https://proceedings.NIPS.cc/paper_files/paper/2024/file/9415416201aa201902d1743c7e65787b-Paper-Conference.pdf)] Segment Any Change  
-[[2025 CVPR](https://arXiv.org/abs/2410.01768)] SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images  
 [[2025 CVPR](https://arXiv.org/abs/2503.23771)] XLRS-Bench: Could Your Multimodal LLMs Understand Extremely Large Ultra-High-Resolution Remote Sensing Imagery?  
 [[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Exact_Exploring_Space-Time_Perceptive_Clues_for_Weakly_Supervised_Satellite_Image_CVPR_2025_paper.pdf)] Exact: Exploring Space-Time Perceptive Clues for Weakly Supervised Satellite Image Time Series Semantic Segmentation  
+[[2025 CVPR](https://arXiv.org/abs/2410.01768)] SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images  
 [[2025 Arxiv](https://arxiv.org/abs/2508.18067)] SegEarth-OV-2: Annotation-Free Open-Vocabulary Segmentation for Remote-Sensing Images  
 [[2025 AAAI](https://arxiv.org/abs/2412.19492)] Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation  
 
