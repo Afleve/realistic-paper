@@ -22,7 +22,7 @@
 [[2025 Arxiv](https://arxiv.org/abs/2508.18067)] SegEarth-OV-2: Annotation-Free Open-Vocabulary Segmentation for Remote-Sensing Images  
 [[2025 AAAI](https://arxiv.org/abs/2412.19492)] Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation  
 
-
+ 
 
 # Optimal Transmission
 [[2021 CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Montesuma_Wasserstein_Barycenter_for_Multi-Source_Domain_Adaptation_CVPR_2021_paper.pdf)] Wasserstein Barycenter for Multi-Source Domain Adaptation  
