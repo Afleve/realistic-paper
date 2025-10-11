@@ -1,6 +1,9 @@
 # Content
 [[Optimal Transmission](#Optimal-Transmission)] [[GCD](#GCD)]  [[Patch Selection](#Patch-Selection)]  [[ActiveLearning](#ActiveLearning)] [[Multimodal](#Multimodal)] [[Model Merge](#Model-Merge)]
 
+# 3D
+
+
 # Remote Sensing Image
 [[2025 ICCV](https://arxiv.org/pdf/2509.16970)] LLM-Assisted Semantic Guidance for Sparsely Annotated Remote Sensing Object Detection  
 [[2025 ICCV](https://arxiv.org/pdf/2503.06146?)] OpenRSD: Towards Open-prompts for Object Detection in Remote Sensing Images   
