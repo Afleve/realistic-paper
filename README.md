@@ -3,6 +3,7 @@
 
 # 3D
 [[2024 CVPR](https://arxiv.org/pdf/2401.10786)] Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion  
+[[2024 CVPR](https://arxiv.org/pdf/2402.17427)] VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction  
 
 # Remote Sensing Image
 [[2025 ICCV](https://arxiv.org/pdf/2509.16970)] LLM-Assisted Semantic Guidance for Sparsely Annotated Remote Sensing Object Detection  
