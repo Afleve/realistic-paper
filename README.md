@@ -2,7 +2,7 @@
 [[Optimal Transmission](#Optimal-Transmission)] [[GCD](#GCD)]  [[Patch Selection](#Patch-Selection)]  [[ActiveLearning](#ActiveLearning)] [[Multimodal](#Multimodal)] [[Model Merge](#Model-Merge)]
 
 # 3D
-
+[[2024 CVPR](https://arxiv.org/pdf/2401.10786)] Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion  
 
 # Remote Sensing Image
 [[2025 ICCV](https://arxiv.org/pdf/2509.16970)] LLM-Assisted Semantic Guidance for Sparsely Annotated Remote Sensing Object Detection  
