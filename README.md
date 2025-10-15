@@ -6,6 +6,7 @@
 [[2024 CVPR](https://arxiv.org/pdf/2402.17427)] VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction  
 
 # Remote Sensing Image
+[[2024 TGRS](https://arxiv.org/pdf/2403.11614v4)] CRS-Diff: Controllable Remote Sensing Image Generation with Diffusion Model  
 [[2025 ICCV](https://arxiv.org/pdf/2509.16970)] LLM-Assisted Semantic Guidance for Sparsely Annotated Remote Sensing Object Detection  
 [[2025 ICCV](https://arxiv.org/pdf/2503.06146?)] OpenRSD: Towards Open-prompts for Object Detection in Remote Sensing Images   
 [[2025 ICCV]()] Active Learning Meets Foundation Models: Fast Remote Sensing Data Annotation for Object Detection   
