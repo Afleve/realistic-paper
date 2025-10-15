@@ -1,9 +1,10 @@
-# Content
+<img width="844" height="511" alt="image" src="https://github.com/user-attachments/assets/15f56477-0333-4704-8830-fe949f175b42" /># Content
 [[Optimal Transmission](#Optimal-Transmission)] [[GCD](#GCD)]  [[Patch Selection](#Patch-Selection)]  [[ActiveLearning](#ActiveLearning)] [[Multimodal](#Multimodal)] [[Model Merge](#Model-Merge)]
 
 # 3D
 [[2024 CVPR](https://arxiv.org/pdf/2401.10786)] Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion  
 [[2024 CVPR](https://arxiv.org/pdf/2402.17427)] VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction  
+[[2025 TPAMI](https://arxiv.org/pdf/2507.02299)] DreamComposer++: Empowering Diffusion Models with Multi-View Conditions for 3D Content Generation  
 
 # Remote Sensing Image
 [[2024 TGRS](https://arxiv.org/pdf/2403.11614v4)] CRS-Diff: Controllable Remote Sensing Image Generation with Diffusion Model  
