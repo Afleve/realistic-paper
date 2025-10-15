@@ -1,4 +1,4 @@
-<img width="844" height="511" alt="image" src="https://github.com/user-attachments/assets/15f56477-0333-4704-8830-fe949f175b42" /># Content
+# Content
 [[Optimal Transmission](#Optimal-Transmission)] [[GCD](#GCD)]  [[Patch Selection](#Patch-Selection)]  [[ActiveLearning](#ActiveLearning)] [[Multimodal](#Multimodal)] [[Model Merge](#Model-Merge)]
 
 # 3D
