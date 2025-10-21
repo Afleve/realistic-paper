@@ -8,6 +8,7 @@
 [[2024 CVPR](https://arxiv.org/pdf/2401.10786)] Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion  
 [[2024 CVPR](https://arxiv.org/pdf/2402.17427)] VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction  
 [[2025 TPAMI](https://arxiv.org/pdf/2507.02299)] DreamComposer++: Empowering Diffusion Models with Multi-View Conditions for 3D Content Generation  
+[[2025 Arxiv](https://arxiv.org/pdf/2508.09479?)] SkySplat: Generalizable 3D Gaussian Splatting from Multi-Temporal Sparse Satellite Images   
 
 # Remote Sensing Image
 [[2024 TGRS](https://arxiv.org/pdf/2403.11614v4)] CRS-Diff: Controllable Remote Sensing Image Generation with Diffusion Model  
