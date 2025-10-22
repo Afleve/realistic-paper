@@ -227,4 +227,6 @@ Hierarchical Divide-and-Conquer Grouping for Classification Adaptation of Pre-Tr
 [[2025 Arixv](https://openreview.net/pdf?id=On8E0U9vbz)] GENERALIZED CATEGORY DISCOVERY UTILIZING RECIPROCAL LEARNING AND CLASS-WISE DISTRIBUTION REGULARIZATION   
 [[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Less_Attention_is_More_Prompt_Transformer_for_Generalized_Category_Discovery_CVPR_2025_paper.pdf)] Less Attention is More: Prompt Transformer for Generalized Category Discovery    
 [[2025 CVPR](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Hyperbolic_Category_Discovery_CVPR_2025_paper.pdf)] Hyperbolic Category Discovery   
-[[2025 Arixv](https://arxiv.org/pdf/2506.17232)] PCaM: A Progressive Focus Attention-Based Information Fusion Method for Improving Vision Transformer Domain Adaptation
+[[2025 Arixv](https://arxiv.org/pdf/2506.17232)] PCaM: A Progressive Focus Attention-Based Information Fusion Method for Improving Vision Transformer Domain Adaptation  
+[[2025 Arxiv](https://arxiv.org/pdf/2507.01711)] Component Adaptive Clustering for Generalized Category Discovery  
+ 
