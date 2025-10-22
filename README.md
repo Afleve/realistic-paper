@@ -37,6 +37,10 @@
 # instance segmentation
 [[2025 Arxiv](https://arxiv.org/pdf/2507.02798)] No time to train! Training-Free Reference-Based Instance Segmentation  
 
+# Attention
+[[2025 NeurIPS](https://arxiv.org/pdf/2509.16875?)] Towards Interpretable and Efficient Attention: Compressing All by Contracting a Few  
+[[2025 ICCV](https://arxiv.org/pdf/2507.12006?)] Frequency-Dynamic Attention Modulation for Dense Prediction (detail and texture)  
+
 # Optimal Transmission
 [[2021 CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Montesuma_Wasserstein_Barycenter_for_Multi-Source_Domain_Adaptation_CVPR_2021_paper.pdf)] Wasserstein Barycenter for Multi-Source Domain Adaptation  
 [[2021 ICANN](https://arxiv.org/pdf/2006.03806)] Leveraging the Feature Distribution in Transfer-based Few-Shot Learning  
