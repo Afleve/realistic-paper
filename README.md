@@ -7,7 +7,7 @@
 [[2023 ICML](https://proceedings.mlr.press/v202/gu23a/gu23a.pdf)] NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion  
 [[2024 CVPR](https://arxiv.org/pdf/2401.10786)] Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion  
 [[2024 CVPR](https://arxiv.org/pdf/2402.17427)] VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction  
-[[CVPR 2025](https://arxiv.org/pdf/2506.09952)] UniPre3D: Unified Pre-training of 3D Point Cloud Models with Cross-Modal Gaussian Splatting  
+[[2025 CVPR](https://arxiv.org/pdf/2506.09952)] UniPre3D: Unified Pre-training of 3D Point Cloud Models with Cross-Modal Gaussian Splatting  
 [[2025 TPAMI](https://arxiv.org/pdf/2507.02299)] DreamComposer++: Empowering Diffusion Models with Multi-View Conditions for 3D Content Generation  
 [[2025 Arxiv](https://arxiv.org/pdf/2508.09479?)] SkySplat: Generalizable 3D Gaussian Splatting from Multi-Temporal Sparse Satellite Images   
 
@@ -33,6 +33,7 @@
 [[2025 CVPR](https://arXiv.org/abs/2410.01768)] SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images  
 [[2025 Arxiv](https://arxiv.org/abs/2508.18067)] SegEarth-OV-2: Annotation-Free Open-Vocabulary Segmentation for Remote-Sensing Images  
 [[2025 AAAI](https://arxiv.org/abs/2412.19492)] Towards Open-Vocabulary Remote Sensing Image Semantic Segmentation  
+[[2025 Arxiv](https://arxiv.org/pdf/2507.02294)] ViRefSAM: Visual Reference-Guided Segment Anything Model for Remote Sensing Segmentation
 
 # instance segmentation
 [[2025 Arxiv](https://arxiv.org/pdf/2507.02798)] No time to train! Training-Free Reference-Based Instance Segmentation  
