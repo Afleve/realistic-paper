@@ -2,6 +2,7 @@
 [[Optimal Transmission](#Optimal-Transmission)] [[GCD](#GCD)]  [[Patch Selection](#Patch-Selection)]  [[ActiveLearning](#ActiveLearning)] [[Multimodal](#Multimodal)] [[Model Merge](#Model-Merge)]
 
 # 3D
+[[2019 ICCV](https://openaccess.thecvf.com/content_ICCVW_2019/papers/3DRW/Zhang_Leveraging_Vision_Reconstruction_Pipelines_for_Satellite_Imagery_ICCVW_2019_paper.pdf)] Leveraging Vision Reconstruction Pipelines for Satellite Imagery  
 [[2023 ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Zero-1-to-3_Zero-shot_One_Image_to_3D_Object_ICCV_2023_paper.pdf)] Zero-1-to-3: Zero-shot One Image to 3D Object  
 [[2023 ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Chan_Generative_Novel_View_Synthesis_with_3D-Aware_Diffusion_Models_ICCV_2023_paper.pdf)] Generative Novel View Synthesis with 3D-Aware Diffusion Models  
 [[2023 ICML](https://proceedings.mlr.press/v202/gu23a/gu23a.pdf)] NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion  
