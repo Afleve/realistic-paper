@@ -7,11 +7,12 @@
 [[2023 ICCV](https://openaccess.thecvf.com/content/ICCV2023/papers/Chan_Generative_Novel_View_Synthesis_with_3D-Aware_Diffusion_Models_ICCV_2023_paper.pdf)] Generative Novel View Synthesis with 3D-Aware Diffusion Models  
 [[2023 ICML](https://proceedings.mlr.press/v202/gu23a/gu23a.pdf)] NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion  
 [[2024 CVPR](https://arxiv.org/pdf/2401.10786)] Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion  
-[[2024 CVPR](https://arxiv.org/pdf/2402.17427)] VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction  
+[[2024 CVPR](https://arxiv.org/pdf/2402.17427)] VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction   
+[[2024 CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_ReconFusion_3D_Reconstruction_with_Diffusion_Priors_CVPR_2024_paper.pdf)] ReconFusion: 3D Reconstruction with Diffusion Priors   
 [[2025 CVPR](https://arxiv.org/pdf/2506.09952)] UniPre3D: Unified Pre-training of 3D Point Cloud Models with Cross-Modal Gaussian Splatting  
 [[2025 TPAMI](https://arxiv.org/pdf/2507.02299)] DreamComposer++: Empowering Diffusion Models with Multi-View Conditions for 3D Content Generation  
 [[2025 Arxiv](https://arxiv.org/pdf/2508.09479?)] SkySplat: Generalizable 3D Gaussian Splatting from Multi-Temporal Sparse Satellite Images   
-[[2025 Arxiv](https://arxiv.org/pdf/2510.15869)] SKYFALL-GS: SYNTHESIZING IMMERSIVE 3D URBAN SCENES FROM SATELLITE IMAGERY
+[[2025 Arxiv](https://arxiv.org/pdf/2510.15869)] SKYFALL-GS: SYNTHESIZING IMMERSIVE 3D URBAN SCENES FROM SATELLITE IMAGERY  
 
 # Remote Sensing Image
 [[2024 TGRS](https://arxiv.org/pdf/2403.11614v4)] CRS-Diff: Controllable Remote Sensing Image Generation with Diffusion Model  
