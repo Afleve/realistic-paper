@@ -16,6 +16,7 @@
 [[2025 Arxiv](https://arxiv.org/pdf/2508.09479?)] SkySplat: Generalizable 3D Gaussian Splatting from Multi-Temporal Sparse Satellite Images   
 [[2025 Arxiv](https://arxiv.org/pdf/2510.15869)] SKYFALL-GS: SYNTHESIZING IMMERSIVE 3D URBAN SCENES FROM SATELLITE IMAGERY   
 [[2025 Arxiv](https://arxiv.org/pdf/2507.14501)] *Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey   
+[[2025 Arxiv](https://arxiv.org/pdf/2505.05474?)] *3D Scene Generation: A Survey  
 
 # Remote Sensing Image
 [[2024 TGRS](https://arxiv.org/pdf/2403.11614v4)] CRS-Diff: Controllable Remote Sensing Image Generation with Diffusion Model  
