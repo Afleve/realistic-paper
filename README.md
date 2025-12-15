@@ -2,7 +2,6 @@
 [[Optimal Transmission](#Optimal-Transmission)] [[GCD](#GCD)]  [[Patch Selection](#Patch-Selection)]  [[ActiveLearning](#ActiveLearning)] [[Multimodal](#Multimodal)] [[Model Merge](#Model-Merge)]
 
 # 3D
-SFM-[[2019 ICCV](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Leveraging+Vision+Reconstruction+Pipelines+for+Satellite+Imagery&btnG=)] Leveraging Vision Reconstruction Pipelines for Satellite Imagery  
 Nerf-[[2021 CVPR](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PixelNerf%3A+Neural+Radiance+Fields+from+One+or+Few+Images+&btnG=)] PixelNerf: Neural Radiance Fields from One or Few Images  
 Nerf-[[2021 CVPR](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=IBRNet%3A+Learning+Multi-View+Image-Based+Rendering&btnG=)] IBRNet: Learning Multi-View Image-Based Rendering  
 Nerf-[[2023 ICCV](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Zero-1-to-3%3A+Zero-shot+One+Image+to+3D+Object&btnG=)] Zero-1-to-3: Zero-shot One Image to 3D Object  
@@ -14,6 +13,8 @@ Nerf-[[2023 ICML](https://proceedings.mlr.press/v202/gu23a/gu23a.pdf)] NerfDiff:
 [[2025 CVPR](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=UniPre3D%3A+Unified+Pre-training+of+3D+Point+Cloud+Models+with+Cross-Modal+Gaussian+Splatting&btnG=)] UniPre3D: Unified Pre-training of 3D Point Cloud Models with Cross-Modal Gaussian Splatting  
 [[2025 TPAMI](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DreamComposer%2B%2B%3A+Empowering+Diffusion+Models+with+Multi-View+Conditions+for+3D+Content+Generation&btnG=)] DreamComposer++: Empowering Diffusion Models with Multi-View Conditions for 3D Content Generation  
 
+
+Satellite-[[2019 ICCV](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Leveraging+Vision+Reconstruction+Pipelines+for+Satellite+Imagery&btnG=)] Leveraging Vision Reconstruction Pipelines for Satellite Imagery  
 Satellite-[[2025 Arxiv](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SkySplat%3A+Generalizable+3D+Gaussian+Splatting+from+Multi-Temporal+Sparse+Satellite+Images&btnG=)] SkySplat: Generalizable 3D Gaussian Splatting from Multi-Temporal Sparse Satellite Images   
 Satellite-[[2025 Arxiv](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SKYFALL-GS%3A+SYNTHESIZING+IMMERSIVE+3D+URBAN+SCENES+FROM+SATELLITE+IMAGERY&btnG=)] SKYFALL-GS: SYNTHESIZING IMMERSIVE 3D URBAN SCENES FROM SATELLITE IMAGERY   
 
