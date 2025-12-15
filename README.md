@@ -13,8 +13,9 @@ Nerf-[[2023 ICML](https://proceedings.mlr.press/v202/gu23a/gu23a.pdf)] NerfDiff:
 [[2024 CVPR](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=ReconFusion%3A+3D+Reconstruction+with+Diffusion+Priors&btnG=)] ReconFusion: 3D Reconstruction with Diffusion Priors   
 [[2025 CVPR](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=UniPre3D%3A+Unified+Pre-training+of+3D+Point+Cloud+Models+with+Cross-Modal+Gaussian+Splatting&btnG=)] UniPre3D: Unified Pre-training of 3D Point Cloud Models with Cross-Modal Gaussian Splatting  
 [[2025 TPAMI](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DreamComposer%2B%2B%3A+Empowering+Diffusion+Models+with+Multi-View+Conditions+for+3D+Content+Generation&btnG=)] DreamComposer++: Empowering Diffusion Models with Multi-View Conditions for 3D Content Generation  
-[[2025 Arxiv](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SkySplat%3A+Generalizable+3D+Gaussian+Splatting+from+Multi-Temporal+Sparse+Satellite+Images&btnG=)] SkySplat: Generalizable 3D Gaussian Splatting from Multi-Temporal Sparse Satellite Images   
-[[2025 Arxiv](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SKYFALL-GS%3A+SYNTHESIZING+IMMERSIVE+3D+URBAN+SCENES+FROM+SATELLITE+IMAGERY&btnG=)] SKYFALL-GS: SYNTHESIZING IMMERSIVE 3D URBAN SCENES FROM SATELLITE IMAGERY   
+
+Satellite-[[2025 Arxiv](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SkySplat%3A+Generalizable+3D+Gaussian+Splatting+from+Multi-Temporal+Sparse+Satellite+Images&btnG=)] SkySplat: Generalizable 3D Gaussian Splatting from Multi-Temporal Sparse Satellite Images   
+Satellite-[[2025 Arxiv](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SKYFALL-GS%3A+SYNTHESIZING+IMMERSIVE+3D+URBAN+SCENES+FROM+SATELLITE+IMAGERY&btnG=)] SKYFALL-GS: SYNTHESIZING IMMERSIVE 3D URBAN SCENES FROM SATELLITE IMAGERY   
 
 
 VGGT-[[2025 Arxiv](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=VGGT-X%3A+When+VGGT+Meets+Dense+Novel+View+Synthesis&btnG=)] VGGT-X: When VGGT Meets Dense Novel View Synthesis  
