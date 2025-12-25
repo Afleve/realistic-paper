@@ -1,40 +1,51 @@
 # Content
 [[Optimal Transmission](#Optimal-Transmission)] [[GCD](#GCD)]  [[Patch Selection](#Patch-Selection)]  [[ActiveLearning](#ActiveLearning)] [[Multimodal](#Multimodal)] [[Model Merge](#Model-Merge)]
 
-# 3D
-Nerf-[[2021 CVPR](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PixelNerf%3A+Neural+Radiance+Fields+from+One+or+Few+Images+&btnG=)] PixelNerf: Neural Radiance Fields from One or Few Images  
-Nerf-[[2021 CVPR](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=IBRNet%3A+Learning+Multi-View+Image-Based+Rendering&btnG=)] IBRNet: Learning Multi-View Image-Based Rendering  
-Nerf-[[2023 ICCV](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Zero-1-to-3%3A+Zero-shot+One+Image+to+3D+Object&btnG=)] Zero-1-to-3: Zero-shot One Image to 3D Object  
-[[2023 ICCV](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Generative+Novel+View+Synthesis+with+3D-Aware+Diffusion+Models&btnG=)] Generative Novel View Synthesis with 3D-Aware Diffusion Models  
-Nerf-[[2023 ICML](https://proceedings.mlr.press/v202/gu23a/gu23a.pdf)] NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion  
-[[2024 CVPR](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=NerfDiff%3A+Single-image+View+Synthesis+with+NeRF-guided+Distillation+from+3D-aware+Diffusion&btnG=)] Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion  
-3DGS-[[2024 CVPR](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=VastGaussian%3A+Vast+3D+Gaussians+for+Large+Scene+Reconstruction&btnG=)] VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction   
-[[2024 CVPR](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=ReconFusion%3A+3D+Reconstruction+with+Diffusion+Priors&btnG=)] ReconFusion: 3D Reconstruction with Diffusion Priors   
-[[2025 CVPR](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=UniPre3D%3A+Unified+Pre-training+of+3D+Point+Cloud+Models+with+Cross-Modal+Gaussian+Splatting&btnG=)] UniPre3D: Unified Pre-training of 3D Point Cloud Models with Cross-Modal Gaussian Splatting  
-[[2025 TPAMI](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DreamComposer%2B%2B%3A+Empowering+Diffusion+Models+with+Multi-View+Conditions+for+3D+Content+Generation&btnG=)] DreamComposer++: Empowering Diffusion Models with Multi-View Conditions for 3D Content Generation  
 
+### 🧊 3D Methods
 
-Satellite-[[2019 ICCV](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Leveraging+Vision+Reconstruction+Pipelines+for+Satellite+Imagery&btnG=)] Leveraging Vision Reconstruction Pipelines for Satellite Imagery  
-Satellite-[[2025 Arxiv](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SkySplat%3A+Generalizable+3D+Gaussian+Splatting+from+Multi-Temporal+Sparse+Satellite+Images&btnG=)] SkySplat: Generalizable 3D Gaussian Splatting from Multi-Temporal Sparse Satellite Images   
-Satellite-[[2025 Arxiv](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SKYFALL-GS%3A+SYNTHESIZING+IMMERSIVE+3D+URBAN+SCENES+FROM+SATELLITE+IMAGERY&btnG=)] SKYFALL-GS: SYNTHESIZING IMMERSIVE 3D URBAN SCENES FROM SATELLITE IMAGERY   
+| Year | J/C | Title | Paper | Code |
+| :--- | :--- | :--- | :--- | :--- |
+| 2025 | CVPR | UniPre3D: Unified Pre-training of 3D Point Cloud Models with Cross-Modal Gaussian Splatting | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=UniPre3D%3A+Unified+Pre-training+of+3D+Point+Cloud+Models+with+Cross-Modal+Gaussian+Splatting&btnG=) | ---- |
+| 2025 | TPAMI | DreamComposer++: Empowering Diffusion Models with Multi-View Conditions for 3D Content Generation | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DreamComposer%2B%2B%3A+Empowering+Diffusion+Models+with+Multi-View+Conditions+for+3D+Content+Generation&btnG=) | ---- |
+| 2024 | CVPR | Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=NerfDiff%3A+Single-image+View+Synthesis+with+NeRF-guided+Distillation+from+3D-aware+Diffusion&btnG=) | ---- |
+| 2024 | CVPR | VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=VastGaussian%3A+Vast+3D+Gaussians+for+Large+Scene+Reconstruction&btnG=) | ---- |
+| 2024 | CVPR | ReconFusion: 3D Reconstruction with Diffusion Priors | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=ReconFusion%3A+3D+Reconstruction+with+Diffusion+Priors&btnG=) | ---- |
+| 2023 | ICCV | Zero-1-to-3: Zero-shot One Image to 3D Object | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Zero-1-to-3%3A+Zero-shot+One+Image+to+3D+Object&btnG=) | ---- |
+| 2023 | ICCV | Generative Novel View Synthesis with 3D-Aware Diffusion Models | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Generative+Novel+View+Synthesis+with+3D-Aware+Diffusion+Models&btnG=) | ---- |
+| 2023 | ICML | NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion | [Paper](https://proceedings.mlr.press/v202/gu23a/gu23a.pdf) | ---- |
+| 2021 | CVPR | PixelNerf: Neural Radiance Fields from One or Few Images | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PixelNerf%3A+Neural+Radiance+Fields+from+One+or+Few+Images+&btnG=) | ---- |
+| 2021 | CVPR | IBRNet: Learning Multi-View Image-Based Rendering | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=IBRNet%3A+Learning+Multi-View+Image-Based+Rendering&btnG=) | ---- |
 
+### 🛰️ Satellite
 
-VGGT-[[2025 Arxiv](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=VGGT-X%3A+When+VGGT+Meets+Dense+Novel+View+Synthesis&btnG=)] VGGT-X: When VGGT Meets Dense Novel View Synthesis  
-VGGT-[[2025 Arxiv](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=StreamVGGT)] Streaming 4d visual geometry transformer  
-VGGT-[[2025 Arxiv](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=FastVGGT&btnG=)] FastVGGT: Fast Visual Geometry Transformer  
-VGGT-[[2025 Arxiv](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=Faster+VGGT)] Faster vggt with block-sparse global attention  
-VGGT-[[2025 Arxiv](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=IGGT%3A+Instance-Grounded+Geometry+Transformer+for+Semantic+3D+Reconstruction&btnG=)] IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction  
-VGGT-[[2025 Arxiv](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Co-Me%3A+Confidence-Guided+Token+Merging+for+Visual+Geometric+Transformers&btnG=)] Co-Me: Confidence-Guided Token Merging for Visual Geometric Transformers  
-VGGT-[[2025 Arxiv](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=FlashVGGT%3A+Efficient+and+Scalable+Visual+Geometry+Transformers+with+Compressed+Descriptor+Attention&btnG=)] FlashVGGT: Efficient and Scalable Visual Geometry Transformers with Compressed Descriptor Attention  
-VGGT-[[2025 Arxiv](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=AVGGT&btnG=)] AVGGT: Rethinking Global Attention for Accelerating VGGT  
-VGGT-[[2025 Arxiv](https://arxiv.org/pdf/2512.11508)] On Geometric Understanding and Learned Data Priors in VGGT  
+| Year | J/C | Title | Paper | Code |
+| :--- | :--- | :--- | :--- | :--- |
+| 2025 | arXiv | SkySplat: Generalizable 3D Gaussian Splatting from Multi-Temporal Sparse Satellite Images | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SkySplat%3A+Generalizable+3D+Gaussian+Splatting+from+Multi-Temporal+Sparse+Satellite+Images&btnG=) | ---- |
+| 2025 | arXiv | SKYFALL-GS: SYNTHESIZING IMMERSIVE 3D URBAN SCENES FROM SATELLITE IMAGERY | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SKYFALL-GS%3A+SYNTHESIZING+IMMERSIVE+3D+URBAN+SCENES+FROM+SATELLITE+IMAGERY&btnG=) | ---- |
+| 2019 | ICCV | Leveraging Vision Reconstruction Pipelines for Satellite Imagery | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Leveraging+Vision+Reconstruction+Pipelines+for+Satellite+Imagery&btnG=) | ---- |
 
-SSL-[[2025 Arxiv](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=E-RayZer%3A+Self-supervised+3D+Reconstruction+as+Spatial+Visual+Pre-training&btnG=)] E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training
+### 📐 VGGT (Visual Geometry Transformer)
 
+| Year | J/C | Title | Paper | Code |
+| :--- | :--- | :--- | :--- | :--- |
+| 2025 | arXiv | VGGT-X: When VGGT Meets Dense Novel View Synthesis | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=VGGT-X%3A+When+VGGT+Meets+Dense+Novel+View+Synthesis&btnG=) | ---- |
+| 2025 | arXiv | Streaming 4d visual geometry transformer | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=StreamVGGT) | ---- |
+| 2025 | arXiv | FastVGGT: Fast Visual Geometry Transformer | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=FastVGGT&btnG=) | ---- |
+| 2025 | arXiv | Faster vggt with block-sparse global attention | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=Faster+VGGT) | ---- |
+| 2025 | arXiv | IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=IGGT%3A+Instance-Grounded+Geometry+Transformer+for+Semantic+3D+Reconstruction&btnG=) | ---- |
+| 2025 | arXiv | Co-Me: Confidence-Guided Token Merging for Visual Geometric Transformers | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Co-Me%3A+Confidence-Guided+Token+Merging+for+Visual+Geometric+Transformers&btnG=) | ---- |
+| 2025 | arXiv | FlashVGGT: Efficient and Scalable Visual Geometry Transformers with Compressed Descriptor Attention | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=FlashVGGT%3A+Efficient+and+Scalable+Visual+Geometry+Transformers+with+Compressed+Descriptor+Attention&btnG=) | ---- |
+| 2025 | arXiv | AVGGT: Rethinking Global Attention for Accelerating VGGT | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=AVGGT&btnG=) | ---- |
+| 2025 | arXiv | On Geometric Understanding and Learned Data Priors in VGGT | [Paper](https://arxiv.org/pdf/2512.11508) | ---- |
 
+### 🧠 SSL & Survey
 
-Survey-[[2025 Arxiv](https://arxiv.org/pdf/2507.14501)] *Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey   
-Survey-[[2025 Arxiv](https://arxiv.org/pdf/2505.05474?)] *3D Scene Generation: A Survey  
+| Year | J/C | Title | Paper | Code |
+| :--- | :--- | :--- | :--- | :--- |
+| 2025 | arXiv | E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=E-RayZer%3A+Self-supervised+3D+Reconstruction+as+Spatial+Visual+Pre-training&btnG=) | ---- |
+| 2025 | arXiv | *Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey | [Paper](https://arxiv.org/pdf/2507.14501) | ---- |
+| 2025 | arXiv | *3D Scene Generation: A Survey | [Paper](https://arxiv.org/pdf/2505.05474?) | ---- |
 
 # Remote Sensing Image
 [[2024 TGRS](https://arxiv.org/pdf/2403.11614v4)] CRS-Diff: Controllable Remote Sensing Image Generation with Diffusion Model  
