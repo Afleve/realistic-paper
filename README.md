@@ -11,11 +11,11 @@
 | 2024 | CVPR | Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=NerfDiff%3A+Single-image+View+Synthesis+with+NeRF-guided+Distillation+from+3D-aware+Diffusion&btnG=) | ---- |
 | 2024 | CVPR | VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=VastGaussian%3A+Vast+3D+Gaussians+for+Large+Scene+Reconstruction&btnG=) | ---- |
 | 2024 | CVPR | ReconFusion: 3D Reconstruction with Diffusion Priors | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=ReconFusion%3A+3D+Reconstruction+with+Diffusion+Priors&btnG=) | ---- |
+| 2021 | CVPR | PixelNerf: Neural Radiance Fields from One or Few Images | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PixelNerf%3A+Neural+Radiance+Fields+from+One+or+Few+Images+&btnG=) | ---- |
+| 2021 | CVPR | IBRNet: Learning Multi-View Image-Based Rendering | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=IBRNet%3A+Learning+Multi-View+Image-Based+Rendering&btnG=) | ---- |
 | 2023 | ICCV | Zero-1-to-3: Zero-shot One Image to 3D Object | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Zero-1-to-3%3A+Zero-shot+One+Image+to+3D+Object&btnG=) | ---- |
 | 2023 | ICCV | Generative Novel View Synthesis with 3D-Aware Diffusion Models | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Generative+Novel+View+Synthesis+with+3D-Aware+Diffusion+Models&btnG=) | ---- |
 | 2023 | ICML | NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion | [Paper](https://proceedings.mlr.press/v202/gu23a/gu23a.pdf) | ---- |
-| 2021 | CVPR | PixelNerf: Neural Radiance Fields from One or Few Images | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PixelNerf%3A+Neural+Radiance+Fields+from+One+or+Few+Images+&btnG=) | ---- |
-| 2021 | CVPR | IBRNet: Learning Multi-View Image-Based Rendering | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=IBRNet%3A+Learning+Multi-View+Image-Based+Rendering&btnG=) | ---- |
 
 ### 🛰️ Satellite
 
