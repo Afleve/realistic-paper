@@ -25,7 +25,7 @@
 | 2025 | arXiv | SKYFALL-GS: SYNTHESIZING IMMERSIVE 3D URBAN SCENES FROM SATELLITE IMAGERY | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SKYFALL-GS%3A+SYNTHESIZING+IMMERSIVE+3D+URBAN+SCENES+FROM+SATELLITE+IMAGERY&btnG=) | ---- |
 | 2019 | ICCV | Leveraging Vision Reconstruction Pipelines for Satellite Imagery | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Leveraging+Vision+Reconstruction+Pipelines+for+Satellite+Imagery&btnG=) | ---- |
 
-### 📐 VGGT (Visual Geometry Transformer)
+### 📐 Feed-forward Models (VGGT+Pi3+MapAnything+Flare+Dust3R)
 
 | Year | J/C | Title | Paper | Code |
 | :--- | :--- | :--- | :--- | :--- |
@@ -38,6 +38,11 @@
 | 2025 | arXiv | FlashVGGT: Efficient and Scalable Visual Geometry Transformers with Compressed Descriptor Attention | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=FlashVGGT%3A+Efficient+and+Scalable+Visual+Geometry+Transformers+with+Compressed+Descriptor+Attention&btnG=) | ---- |
 | 2025 | arXiv | AVGGT: Rethinking Global Attention for Accelerating VGGT | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=AVGGT&btnG=) | ---- |
 | 2025 | arXiv | On Geometric Understanding and Learned Data Priors in VGGT | [Paper](https://arxiv.org/pdf/2512.11508) | ---- |
+
+### 🤔 segmentation & understand
+| Year | J/C | Title | Paper | Code |
+| :--- | :--- | :--- | :--- | :--- |
+| 2025 | NeurIPS | COS3D: Collaborative Open-Vocabulary 3D Segmentation | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=8903817908470294096&scipsc=&q=COS3D%3A+Collaborative+Open-Vocabulary+3D+Segmentation&btnG=) | ---- |
 
 ### 🧠 SSL & Survey
 
