@@ -39,10 +39,11 @@
 | 2025 | arXiv | AVGGT: Rethinking Global Attention for Accelerating VGGT | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=AVGGT&btnG=) | ---- |
 | 2025 | arXiv | On Geometric Understanding and Learned Data Priors in VGGT | [Paper](https://arxiv.org/pdf/2512.11508) | ---- |
 
-### 🤔 segmentation & understand
+### 🤔 3D Segmentation & Understand
 | Year | J/C | Title | Paper | Code |
 | :--- | :--- | :--- | :--- | :--- |
 | 2025 | NeurIPS | COS3D: Collaborative Open-Vocabulary 3D Segmentation | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=8903817908470294096&scipsc=&q=COS3D%3A+Collaborative+Open-Vocabulary+3D+Segmentation&btnG=) | ---- |
+| 2025 | CVPR | Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Rethinking+End-to-End+2D+to+3D+Scene+Segmentation+in+Gaussian+Splatting&btnG=) | ---- |
 
 ### 🧠 SSL & Survey
 
