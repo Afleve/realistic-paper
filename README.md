@@ -44,6 +44,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | 2025 | NeurIPS | COS3D: Collaborative Open-Vocabulary 3D Segmentation | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=8903817908470294096&scipsc=&q=COS3D%3A+Collaborative+Open-Vocabulary+3D+Segmentation&btnG=) | ---- |
 | 2025 | CVPR | Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Rethinking+End-to-End+2D+to+3D+Scene+Segmentation+in+Gaussian+Splatting&btnG=) | ---- |
+| 2024 | CVPR | LEGaussians: Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=LEGaussians%3A+Language+Embedded+3D+Gaussians+for+Open-Vocabulary+Scene+Understanding&btnG=) | ---- |
 
 ### 🧠 SSL & Survey
 
