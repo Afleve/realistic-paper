@@ -27,17 +27,21 @@
 
 ### 📐 Feed-forward Models (VGGT+Pi3+MapAnything+Flare+Dust3R)
 
-| Year | J/C | Title | Paper | Code |
-| :--- | :--- | :--- | :--- | :--- |
-| 2025 | arXiv | VGGT-X: When VGGT Meets Dense Novel View Synthesis | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=VGGT-X%3A+When+VGGT+Meets+Dense+Novel+View+Synthesis&btnG=) | ---- |
-| 2025 | arXiv | Streaming 4d visual geometry transformer | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=StreamVGGT) | ---- |
-| 2025 | arXiv | FastVGGT: Fast Visual Geometry Transformer | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=FastVGGT&btnG=) | ---- |
-| 2025 | arXiv | Faster vggt with block-sparse global attention | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=Faster+VGGT) | ---- |
-| 2025 | arXiv | IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=IGGT%3A+Instance-Grounded+Geometry+Transformer+for+Semantic+3D+Reconstruction&btnG=) | ---- |
-| 2025 | arXiv | Co-Me: Confidence-Guided Token Merging for Visual Geometric Transformers | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Co-Me%3A+Confidence-Guided+Token+Merging+for+Visual+Geometric+Transformers&btnG=) | ---- |
-| 2025 | arXiv | FlashVGGT: Efficient and Scalable Visual Geometry Transformers with Compressed Descriptor Attention | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=FlashVGGT%3A+Efficient+and+Scalable+Visual+Geometry+Transformers+with+Compressed+Descriptor+Attention&btnG=) | ---- |
-| 2025 | arXiv | AVGGT: Rethinking Global Attention for Accelerating VGGT | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=AVGGT&btnG=) | ---- |
-| 2025 | arXiv | On Geometric Understanding and Learned Data Priors in VGGT | [Paper](https://arxiv.org/pdf/2512.11508) | ---- |
+| Year | J/C | Topic | Title | Paper | Code |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 2025 | arXiv | VGGT | VGGT-X: When VGGT Meets Dense Novel View Synthesis | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=VGGT-X%3A+When+VGGT+Meets+Dense+Novel+View+Synthesis&btnG=) | ---- |
+| 2025 | arXiv | VGGT | Streaming 4d visual geometry transformer | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=StreamVGGT) | ---- |
+| 2025 | arXiv | VGGT | FastVGGT: Fast Visual Geometry Transformer | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=FastVGGT&btnG=) | ---- |
+| 2025 | arXiv | VGGT | Faster vggt with block-sparse global attention | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=Faster+VGGT) | ---- |
+| 2025 | arXiv | VGGT | IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=IGGT%3A+Instance-Grounded+Geometry+Transformer+for+Semantic+3D+Reconstruction&btnG=) | ---- |
+| 2025 | arXiv | VGGT | Co-Me: Confidence-Guided Token Merging for Visual Geometric Transformers | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Co-Me%3A+Confidence-Guided+Token+Merging+for+Visual+Geometric+Transformers&btnG=) | ---- |
+| 2025 | arXiv | VGGT | FlashVGGT: Efficient and Scalable Visual Geometry Transformers with Compressed Descriptor Attention | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=FlashVGGT%3A+Efficient+and+Scalable+Visual+Geometry+Transformers+with+Compressed+Descriptor+Attention&btnG=) | ---- |
+| 2025 | arXiv | VGGT | AVGGT: Rethinking Global Attention for Accelerating VGGT | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=AVGGT&btnG=) | ---- |
+| 2025 | arXiv | VGGT | On Geometric Understanding and Learned Data Priors in VGGT | [Paper](https://arxiv.org/pdf/2512.11508) | ---- |
+| 2025 | arXiv | VGGT |  | [Paper]() | ---- |
+| 2025 | arXiv | MapAnything | MapAnything: Universal Feed-Forward Metric 3D Reconstruction | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=MapAnything%3A+Universal+Feed-Forward+Metric+3D+Reconstruction&btnG=) | ---- |
+| 2025 | arXiv | MapAnything | MapAnything: Mapping Urban Assets using Single Street-View Images | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=MapAnything%3A+Mapping+Urban+Assets+using+Single+Street-View+Images&btnG=) | ---- |
+| 2025 | arXiv | MapAnything |  | [Paper]() | ---- |
 
 ### 🤔 3D Segmentation & Understand
 | Year | J/C | Title | Paper | Code |
