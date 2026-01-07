@@ -50,6 +50,11 @@
 | 2025 | CVPR | Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Rethinking+End-to-End+2D+to+3D+Scene+Segmentation+in+Gaussian+Splatting&btnG=) | ---- |
 | 2024 | CVPR | LEGaussians: Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=LEGaussians%3A+Language+Embedded+3D+Gaussians+for+Open-Vocabulary+Scene+Understanding&btnG=) | ---- |
 
+### Generate 
+| Year | J/C | Title | Paper | Code |
+| :--- | :--- | :--- | :--- | :--- |
+| 2024 | ECCV | Grm: Large gaussian reconstruction model for efficient 3d reconstruction and generation | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=GRM&btnG=) | ---- |
+
 ### 🧠 SSL & Survey
 
 | Year | J/C | Title | Paper | Code |
