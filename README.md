@@ -41,6 +41,7 @@
 | 2025 | arXiv | VGGT |  | [Paper]() | ---- |
 | 2025 | arXiv | MapAnything | MapAnything: Universal Feed-Forward Metric 3D Reconstruction | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=MapAnything%3A+Universal+Feed-Forward+Metric+3D+Reconstruction&btnG=) | ---- |
 | 2025 | arXiv | MapAnything | MapAnything: Mapping Urban Assets using Single Street-View Images | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=MapAnything%3A+Mapping+Urban+Assets+using+Single+Street-View+Images&btnG=) | ---- |
+| 2025 | CVPR | Flare | Flare: Feed-forward geometry, appearance and camera estimation from uncalibrated sparse views | [Paper]() | ---- |
 | 2025 | arXiv | MapAnything |  | [Paper]() | ---- |
 
 ### 🤔 3D Segmentation & Understand
@@ -54,6 +55,21 @@
 | Year | J/C | Title | Paper | Code |
 | :--- | :--- | :--- | :--- | :--- |
 | 2024 | ECCV | Grm: Large gaussian reconstruction model for efficient 3d reconstruction and generation | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=GRM&btnG=) | ---- |
+| 2024 | TVCG | Pgsr: Planar-based gaussian splatting for efficient and high-fidelity surface reconstruction | [Paper]() | ---- | 
+| 2024 | NeurIPS | L4GM: Large 4D Gaussian Reconstruction Model | [Paper]() | ---- | 
+| 2025 | ACM | Anysplat: Feed-forward 3d gaussian splatting from unconstrained views | [Paper]() | ---- | 
+| 2025 |  | Flash3d: Feed-forward generalisable 3d scene reconstruction from a single image | [Paper]() | ---- | 
+| 2025 | ICCV | Bolt3D: Generating 3D Scenes in Seconds | [Paper]() | ---- | 
+| 2025 | ICCV | Gwm: Towards scalable gaussian world models for robotic manipulation | [Paper]() | ---- | 
+| 2025 | ICCV | No pose at all: Self-supervised pose-free 3d gaussian splatting from sparse views | [Paper]() | ---- | 
+| 2025 | ICCV | GAP: Gaussianize any point clouds with text guidance | [Paper]() | ---- | 
+| 2025 | ICCV | Freesplatter: Pose-free gaussian splatting for sparse-view 3d reconstruction | [Paper]() | ---- | 
+| 2025 | ICCV | Quadratic Gaussian splatting: High quality surface reconstruction with second-order geometric primitives | [Paper]() | ---- | 
+| 2025 | CVPR | 3dtopia-xl: Scaling high-quality 3d asset generation via primitive diffusion | [Paper]() | ---- | 
+| 2025 | AAAI | Cycle3d: High-quality and consistent image-to-3d generation via generation-reconstruction cycle | [Paper]() | ---- | 
+|  |  |  | [Paper]() | ---- | 
+
+
 
 ### 🧠 SSL & Survey
 
