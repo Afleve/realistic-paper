@@ -38,11 +38,12 @@
 | 2025 | arXiv | VGGT | FlashVGGT: Efficient and Scalable Visual Geometry Transformers with Compressed Descriptor Attention | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=FlashVGGT%3A+Efficient+and+Scalable+Visual+Geometry+Transformers+with+Compressed+Descriptor+Attention&btnG=) | ---- |
 | 2025 | arXiv | VGGT | AVGGT: Rethinking Global Attention for Accelerating VGGT | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=AVGGT&btnG=) | ---- |
 | 2025 | arXiv | VGGT | On Geometric Understanding and Learned Data Priors in VGGT | [Paper](https://arxiv.org/pdf/2512.11508) | ---- |
-| 2025 | arXiv | VGGT |  | [Paper]() | ---- |
+| 2025 | arXiv | VGGT | VGG-T3 : Offline Feed-Forward 3D Reconstruction at Scale | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=VGG-T3+%3A+Offline+Feed-Forward+3D+Reconstruction+at+Scale&btnG=) | ---- |   
+| 2025 | arXiv | VGGT |  | [Paper]() | ---- |   
 | 2025 | arXiv | MapAnything | MapAnything: Universal Feed-Forward Metric 3D Reconstruction | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=MapAnything%3A+Universal+Feed-Forward+Metric+3D+Reconstruction&btnG=) | ---- |
 | 2025 | arXiv | MapAnything | MapAnything: Mapping Urban Assets using Single Street-View Images | [Paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=MapAnything%3A+Mapping+Urban+Assets+using+Single+Street-View+Images&btnG=) | ---- |
 | 2025 | CVPR | Flare | Flare: Feed-forward geometry, appearance and camera estimation from uncalibrated sparse views | [Paper]() | ---- |
-| 2025 | arXiv | MapAnything |  | [Paper]() | ---- |
+| 2025 | arXiv | MapAnything |  | [Paper]() | ---- |  
 
 ### 🤔 3D Segmentation & Understand
 | Year | J/C | Title | Paper | Code |
